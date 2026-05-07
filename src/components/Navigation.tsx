@@ -12,8 +12,7 @@ import {
   Settings2,
   Moon,
   Sun,
-  ChefHat,
-  ChevronRight
+  ChefHat
 } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
 import { useShoppingList } from '../context/ShoppingListContext';
