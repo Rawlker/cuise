@@ -21,7 +21,8 @@ export const CookingMode: React.FC<CookingModeProps> = ({ recipe, onClose }) => 
     let rawSteps = recipe.instructions
       .split(/\r?\n/)
       .map(s => s.trim())
-      .filter(s => s.length > 0);
+      .filter(s => s.length > 0)
+      .filter(s => !s.toLowerCase().startsWith('step '));
     
     // If we only have one long step, try splitting by sentences
     // Check if it's already well-split by lines first
@@ -29,7 +30,8 @@ export const CookingMode: React.FC<CookingModeProps> = ({ recipe, onClose }) => 
       rawSteps = recipe.instructions
         .split(/(?<=[.!?])\s+/)
         .map(s => s.trim())
-        .filter(s => s.length > 0);
+        .filter(s => s.length > 0)
+        .filter(s => !s.toLowerCase().startsWith('step '));
     }
     
     return rawSteps;

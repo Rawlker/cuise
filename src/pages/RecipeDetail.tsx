@@ -3,7 +3,7 @@ import { useParams, useNavigate } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import { getRecipeById } from '../api/meals';
 import type { Recipe } from '../types';
-import { ArrowLeft, ShoppingCart, Users, Bookmark, BookmarkCheck, Loader2, Play, Link as LinkIcon, Utensils } from 'lucide-react';
+import { ArrowLeft, ShoppingCart, Users, Bookmark, BookmarkCheck, Loader2, Play, Link as LinkIcon, Utensils, Share2, ChefHat, Check } from 'lucide-react';
 import { scaleMeasure, getShoppingLink, getSubstitutes } from '../utils/helpers';
 import { translateCategory } from '../utils/translations';
 import { Timer } from '../components/Timer';
@@ -25,9 +25,15 @@ export const RecipeDetail: React.FC = () => {
   const [isAdding, setIsAdding] = useState(false);
   const [isCooking, setIsCooking] = useState(false);
   const [imageError, setImageError] = useState(false);
+  const [showToast, setShowToast] = useState(false);
+  const [isCooked, setIsCooked] = useState(false);
 
   useEffect(() => {
-    if (id) getRecipeById(id).then(setRecipe);
+    if (id) {
+      getRecipeById(id).then(setRecipe);
+      const cooked = JSON.parse(localStorage.getItem('cuise-cooked') || '[]');
+      setIsCooked(cooked.includes(id));
+    }
   }, [id]);
 
   if (!recipe) return (
@@ -56,6 +62,40 @@ export const RecipeDetail: React.FC = () => {
     const neededIngredients = recipe.ingredients.filter(ing => !hasIngredient(ing.name));
     await addIngredients(neededIngredients);
     setTimeout(() => setIsAdding(false), 2000);
+  };
+
+  const handleShare = async () => {
+    if (!recipe) return;
+    const shareData = {
+      title: recipe.title,
+      text: recipe.title,
+      url: window.location.href,
+    };
+
+    try {
+      if (navigator.share) {
+        await navigator.share(shareData);
+      } else {
+        await navigator.clipboard.writeText(window.location.href);
+        setShowToast(true);
+        setTimeout(() => setShowToast(false), 3000);
+      }
+    } catch (err) {
+      console.error('Error sharing:', err);
+    }
+  };
+
+  const handleMarkAsCooked = () => {
+    if (!recipe) return;
+    const cooked = JSON.parse(localStorage.getItem('cuise-cooked') || '[]');
+    let newCooked;
+    if (isCooked) {
+      newCooked = cooked.filter((cid: string) => cid !== recipe.id);
+    } else {
+      newCooked = [...cooked, recipe.id];
+    }
+    localStorage.setItem('cuise-cooked', JSON.stringify(newCooked));
+    setIsCooked(!isCooked);
   };
 
   const translatedCategory = translateCategory(recipe.category, i18n.language);
@@ -96,7 +136,38 @@ export const RecipeDetail: React.FC = () => {
       </div>
 
       <div className="mb-6">
-        <h1 className="text-4xl font-extrabold mb-2 tracking-tight leading-tight">{recipe.title}</h1>
+        <div className="flex justify-between items-start gap-4 mb-2">
+          <h1 className="text-4xl font-extrabold tracking-tight leading-tight">{recipe.title}</h1>
+          <div className="flex gap-2">
+            <button 
+              onClick={handleShare}
+              className="p-3 rounded-2xl bg-surface-app shadow-md text-text-app/60 hover:text-primary transition-all active:scale-95"
+              title={t('share')}
+            >
+              <Share2 size={24} />
+            </button>
+            <button 
+              onClick={handleMarkAsCooked}
+              className={`p-3 rounded-2xl shadow-md transition-all active:scale-95 flex items-center gap-2 ${
+                isCooked ? 'bg-green-500 text-white' : 'bg-surface-app text-text-app/60 hover:text-primary'
+              }`}
+              title={t('mark_as_cooked')}
+            >
+              {isCooked ? <Check size={24} /> : <ChefHat size={24} />}
+              <span className="hidden sm:inline font-bold text-sm">
+                {isCooked ? t('cooked') : t('mark_as_cooked')}
+              </span>
+            </button>
+          </div>
+        </div>
+
+        {showToast && (
+          <div className="fixed bottom-24 left-1/2 -translate-x-1/2 z-[100] animate-in slide-in-from-bottom-4 duration-300">
+            <div className="bg-text-app text-bg-app px-6 py-3 rounded-2xl font-bold shadow-2xl">
+              {t('link_copied')}
+            </div>
+          </div>
+        )}
         {recipe.isImported && recipe.sourceUrl && (
           <a 
             href={recipe.sourceUrl} 

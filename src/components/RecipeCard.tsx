@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import type { Recipe } from '../types';
-import { Bookmark, Link as LinkIcon, X, Utensils } from 'lucide-react';
+import { Bookmark, Link as LinkIcon, X, Utensils, Check } from 'lucide-react';
 import { useSavedRecipes } from '../context/SavedRecipesContext';
 import { useTranslation } from 'react-i18next';
 
@@ -17,6 +17,9 @@ export const RecipeCard: React.FC<RecipeCardProps> = ({ recipe }) => {
   const recipeId = recipe.id;
   const saved = recipeId ? isSaved(recipeId) : false;
   const isImported = recipe.isImported;
+
+  const cookedIds = JSON.parse(localStorage.getItem('cuise-cooked') || '[]');
+  const isCooked = recipeId ? cookedIds.includes(recipeId) : false;
 
   const handleToggleSave = async (e: React.MouseEvent) => {
     e.preventDefault();
@@ -48,10 +51,17 @@ export const RecipeCard: React.FC<RecipeCardProps> = ({ recipe }) => {
         )}
         <div className="absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
         
-        {isImported && (
+        {isImported && !isCooked && (
           <div className="absolute top-4 left-4 flex items-center gap-1.5 px-3 py-1.5 bg-bg-app/50 backdrop-blur-md rounded-full text-text-app text-[10px] font-black uppercase tracking-widest border border-border-app">
             <LinkIcon size={12} />
             {t('imported_recipe')}
+          </div>
+        )}
+
+        {isCooked && (
+          <div className="absolute top-4 left-4 flex items-center gap-1.5 px-3 py-1.5 bg-green-500 text-white rounded-full text-[10px] font-black uppercase tracking-widest shadow-lg border border-green-400">
+            <Check size={12} strokeWidth={4} />
+            {t('cooked')}
           </div>
         )}
       </div>

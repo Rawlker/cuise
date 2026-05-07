@@ -100,7 +100,15 @@ const resources = {
       "feedback_error": "Error sending feedback. Try again later.",
       "required_field": "This field is required",
       "feedback_tooltip": "Share your feedback",
-      "feedback_tooltip_sub": "We'd love to hear from you"
+      "feedback_tooltip_sub": "We'd love to hear from you",
+      "share": "Share",
+      "link_copied": "Link copied!",
+      "mark_as_cooked": "Mark as Cooked",
+      "cooked": "Cooked",
+      "vegetarian": "Vegetarian",
+      "vegan": "Vegan",
+      "gluten_free": "Gluten-Free",
+      "quick": "Quick"
     }
   },
   es: {
@@ -201,7 +209,15 @@ const resources = {
       "feedback_error": "Error al enviar. Inténtalo de nuevo.",
       "required_field": "Este campo es obligatorio",
       "feedback_tooltip": "Comparte tu opinión",
-      "feedback_tooltip_sub": "Nos encantaría saber de ti"
+      "feedback_tooltip_sub": "Nos encantaría saber de ti",
+      "share": "Compartir",
+      "link_copied": "¡Link copiado!",
+      "mark_as_cooked": "Ya la preparé",
+      "cooked": "Preparada",
+      "vegetarian": "Vegetariano",
+      "vegan": "Vegano",
+      "gluten_free": "Sin Gluten",
+      "quick": "Rápido"
     }
   }
 };

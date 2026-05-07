@@ -3,7 +3,7 @@ import { useTranslation } from 'react-i18next';
 import { searchRecipesByIngredient, searchRecipesByName } from '../api/meals';
 import type { Recipe } from '../types';
 import { RecipeCard } from '../components/RecipeCard';
-import { Search as SearchIcon, Loader2, X, Link as LinkIcon, Download, CheckCircle2 } from 'lucide-react';
+import { Search as SearchIcon, Loader2, X, Link as LinkIcon, Download, CheckCircle2, Leaf, Zap, WheatOff } from 'lucide-react';
 import { translateIngredientToEN } from '../utils/translations';
 import { extractRecipeFromUrl } from '../utils/recipeExtractor';
 import { useSavedRecipes } from '../context/SavedRecipesContext';
@@ -13,9 +13,11 @@ export const Search: React.FC = () => {
   const { saveRecipe } = useSavedRecipes();
   const [query, setQuery] = useState('');
   const [results, setResults] = useState<Partial<Recipe>[]>([]);
+  const [filteredResults, setFilteredResults] = useState<Partial<Recipe>[]>([]);
   const [suggestions, setSuggestions] = useState<Partial<Recipe>[]>([]);
   const [loading, setLoading] = useState(false);
   const [showSuggestions, setShowSuggestions] = useState(false);
+  const [activeFilters, setActiveFilters] = useState<string[]>([]);
   
   // Import from URL states
   const [showImportModal, setShowImportModal] = useState(false);
@@ -63,6 +65,49 @@ export const Search: React.FC = () => {
     setResults(unique);
     setLoading(false);
   };
+
+  useEffect(() => {
+    let filtered = [...results];
+    
+    if (activeFilters.includes('vegetarian')) {
+      filtered = filtered.filter(r => 
+        r.tags?.some(tag => tag.toLowerCase().includes('vegetarian')) || 
+        ['Pasta', 'Dessert', 'Side', 'Breakfast', 'Vegetarian'].includes(r.category || '')
+      );
+    }
+    if (activeFilters.includes('vegan')) {
+      filtered = filtered.filter(r => 
+        r.tags?.some(tag => tag.toLowerCase().includes('vegan')) ||
+        r.category === 'Vegan'
+      );
+    }
+    if (activeFilters.includes('gluten_free')) {
+      filtered = filtered.filter(r => 
+        r.tags?.some(tag => tag.toLowerCase().includes('gluten'))
+      );
+    }
+    if (activeFilters.includes('quick')) {
+      filtered = filtered.filter(r => {
+        // Since we don't have direct cook time, we look for 'Quick' tag
+        return r.tags?.some(tag => tag.toLowerCase().includes('quick')) || (r.ingredients?.length || 0) < 6;
+      });
+    }
+
+    setFilteredResults(filtered);
+  }, [results, activeFilters]);
+
+  const toggleFilter = (filter: string) => {
+    setActiveFilters(prev => 
+      prev.includes(filter) ? prev.filter(f => f !== filter) : [...prev, filter]
+    );
+  };
+
+  const DIET_FILTERS = [
+    { id: 'vegetarian', icon: <Leaf size={14} />, label: t('vegetarian') },
+    { id: 'vegan', icon: <div className="text-[10px] font-black">V</div>, label: t('vegan') },
+    { id: 'gluten_free', icon: <WheatOff size={14} />, label: t('gluten_free') },
+    { id: 'quick', icon: <Zap size={14} />, label: t('quick') },
+  ];
 
   const handleImport = async () => {
     if (!importUrl) return;
@@ -137,16 +182,33 @@ export const Search: React.FC = () => {
             </div>
           )}
         </div>
+<button 
+  onClick={() => setShowImportModal(true)}
+  className="bg-primary text-text-app px-8 py-5 rounded-3xl font-bold flex items-center justify-center gap-3 shadow-lg shadow-primary/20 hover:scale-105 active:scale-95 transition-all"
+>
+  <Download size={24} />
+  {t('import_from_url')}
+</button>
+</div>
 
-        <button 
-          onClick={() => setShowImportModal(true)}
-          className="bg-primary text-text-app px-8 py-5 rounded-3xl font-bold flex items-center justify-center gap-3 shadow-lg shadow-primary/20 hover:scale-105 active:scale-95 transition-all"
-        >
-          <Download size={24} />
-          {t('import_from_url')}
-        </button>
-      </div>
+<div className="flex flex-wrap gap-2 pb-2 overflow-x-auto no-scrollbar">
+{DIET_FILTERS.map(filter => (
+  <button
+    key={filter.id}
+    onClick={() => toggleFilter(filter.id)}
+    className={`flex items-center gap-2 px-5 py-2.5 rounded-full text-xs font-bold transition-all border-2 whitespace-nowrap ${
+      activeFilters.includes(filter.id)
+        ? 'bg-primary border-primary text-white shadow-lg shadow-primary/20'
+        : 'bg-surface-app border-transparent text-text-app/60 hover:bg-surface-app/80'
+    }`}
+  >
+    {filter.icon}
+    {filter.label}
+  </button>
+))}
+</div>
 
+{loading ? (
       {showImportModal && (
         <div className="fixed inset-0 z-[110] flex items-center justify-center p-6 bg-black/50 backdrop-blur-sm animate-in fade-in duration-300">
           <div className="bg-surface-app rounded-[2.5rem] w-full max-w-2xl shadow-2xl overflow-hidden animate-in zoom-in-95 duration-300">
@@ -233,14 +295,14 @@ export const Search: React.FC = () => {
         </div>
       ) : (
         <>
-          {results.length > 0 && (
+          {filteredResults.length > 0 && (
             <div className="flex items-center gap-2 mb-2">
               <h2 className="text-xl font-bold">{t('search_results')}</h2>
-              <span className="px-3 py-1 bg-surface-app rounded-full text-xs text-text-app/50">{results.length}</span>
+              <span className="px-3 py-1 bg-surface-app rounded-full text-xs text-text-app/50">{filteredResults.length}</span>
             </div>
           )}
           <div className="grid grid-cols-2 md:grid-cols-3 gap-6">
-            {results.map(recipe => (
+            {filteredResults.map(recipe => (
               <RecipeCard key={recipe.id} recipe={recipe} />
             ))}
           </div>
