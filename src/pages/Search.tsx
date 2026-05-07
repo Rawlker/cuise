@@ -182,33 +182,53 @@ export const Search: React.FC = () => {
             </div>
           )}
         </div>
-<button 
-  onClick={() => setShowImportModal(true)}
-  className="bg-primary text-text-app px-8 py-5 rounded-3xl font-bold flex items-center justify-center gap-3 shadow-lg shadow-primary/20 hover:scale-105 active:scale-95 transition-all"
->
-  <Download size={24} />
-  {t('import_from_url')}
-</button>
-</div>
+        <button 
+          onClick={() => setShowImportModal(true)}
+          className="bg-primary text-text-app px-8 py-5 rounded-3xl font-bold flex items-center justify-center gap-3 shadow-lg shadow-primary/20 hover:scale-105 active:scale-95 transition-all"
+        >
+          <Download size={24} />
+          {t('import_from_url')}
+        </button>
+      </div>
 
-<div className="flex flex-wrap gap-2 pb-2 overflow-x-auto no-scrollbar">
-{DIET_FILTERS.map(filter => (
-  <button
-    key={filter.id}
-    onClick={() => toggleFilter(filter.id)}
-    className={`flex items-center gap-2 px-5 py-2.5 rounded-full text-xs font-bold transition-all border-2 whitespace-nowrap ${
-      activeFilters.includes(filter.id)
-        ? 'bg-primary border-primary text-white shadow-lg shadow-primary/20'
-        : 'bg-surface-app border-transparent text-text-app/60 hover:bg-surface-app/80'
-    }`}
-  >
-    {filter.icon}
-    {filter.label}
-  </button>
-))}
-</div>
+      <div className="flex flex-wrap gap-2 pb-2 overflow-x-auto no-scrollbar">
+        {DIET_FILTERS.map(filter => (
+          <button
+            key={filter.id}
+            onClick={() => toggleFilter(filter.id)}
+            className={`flex items-center gap-2 px-5 py-2.5 rounded-full text-xs font-bold transition-all border-2 whitespace-nowrap ${
+              activeFilters.includes(filter.id)
+                ? 'bg-primary border-primary text-white shadow-lg shadow-primary/20'
+                : 'bg-surface-app border-transparent text-text-app/60 hover:bg-surface-app/80'
+            }`}
+          >
+            {filter.icon}
+            {filter.label}
+          </button>
+        ))}
+      </div>
 
-{loading ? (
+      {loading ? (
+        <div className="flex flex-col items-center justify-center py-20 gap-4">
+          <Loader2 className="animate-spin text-primary" size={48} />
+          <p className="text-text-app/60 font-medium">{t('loading')}</p>
+        </div>
+      ) : (
+        <>
+          {filteredResults.length > 0 && (
+            <div className="flex items-center gap-2 mb-2">
+              <h2 className="text-xl font-bold">{t('search_results')}</h2>
+              <span className="px-3 py-1 bg-surface-app rounded-full text-xs text-text-app/50">{filteredResults.length}</span>
+            </div>
+          )}
+          <div className="grid grid-cols-2 md:grid-cols-3 gap-6">
+            {filteredResults.map(recipe => (
+              <RecipeCard key={recipe.id} recipe={recipe} />
+            ))}
+          </div>
+        </>
+      )}
+
       {showImportModal && (
         <div className="fixed inset-0 z-[110] flex items-center justify-center p-6 bg-black/50 backdrop-blur-sm animate-in fade-in duration-300">
           <div className="bg-surface-app rounded-[2.5rem] w-full max-w-2xl shadow-2xl overflow-hidden animate-in zoom-in-95 duration-300">
@@ -286,27 +306,6 @@ export const Search: React.FC = () => {
             </div>
           </div>
         </div>
-      )}
-
-      {loading ? (
-        <div className="flex flex-col items-center justify-center py-20 gap-4">
-          <Loader2 className="animate-spin text-primary" size={48} />
-          <p className="text-text-app/60 font-medium">{t('loading')}</p>
-        </div>
-      ) : (
-        <>
-          {filteredResults.length > 0 && (
-            <div className="flex items-center gap-2 mb-2">
-              <h2 className="text-xl font-bold">{t('search_results')}</h2>
-              <span className="px-3 py-1 bg-surface-app rounded-full text-xs text-text-app/50">{filteredResults.length}</span>
-            </div>
-          )}
-          <div className="grid grid-cols-2 md:grid-cols-3 gap-6">
-            {filteredResults.map(recipe => (
-              <RecipeCard key={recipe.id} recipe={recipe} />
-            ))}
-          </div>
-        </>
       )}
     </div>
   );
