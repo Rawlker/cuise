@@ -128,7 +128,7 @@ export const Navbar: React.FC = () => {
               <div className="absolute right-0 mt-3 w-48 bg-surface-app border border-border-app rounded-2xl shadow-2xl overflow-hidden z-[60] animate-in fade-in zoom-in-95 duration-200">
                 <div className="p-3 border-b border-border-app bg-bg-app/50">
                   <p className="text-[9px] font-black uppercase tracking-widest text-text-app/40 flex items-center gap-2">
-                    <Palette size={10} /> {t('theme', 'Theme')}
+                    <Palette size={10} /> {t('theme')}
                   </p>
                 </div>
                 <div className="p-2">
@@ -145,7 +145,7 @@ export const Navbar: React.FC = () => {
                     >
                       <div className="flex items-center gap-2">
                         {getThemeIcon(tValue)}
-                        {tValue}
+                        {t(tValue)}
                       </div>
                       {theme === tValue && <div className="w-1.5 h-1.5 rounded-full bg-white shadow-[0_0_8px_rgba(255,255,255,0.8)]"></div>}
                     </button>
@@ -154,7 +154,7 @@ export const Navbar: React.FC = () => {
 
                 <div className="p-3 border-y border-border-app bg-bg-app/50">
                   <p className="text-[9px] font-black uppercase tracking-widest text-text-app/40 flex items-center gap-2">
-                    <Globe size={10} /> {t('language', 'Language')}
+                    <Globe size={10} /> {t('language')}
                   </p>
                 </div>
                 <div className="p-2">

@@ -14,7 +14,7 @@ export const ShoppingList: React.FC = () => {
           <h1 className="text-4xl font-black tracking-tight mb-2">{t('shopping_list')}</h1>
           <p className="text-text-app/50 font-medium">
             {items.length > 0 
-              ? `${items.filter(i => !i.bought).length} items remaining`
+              ? t('items_remaining', { count: items.filter(i => !i.bought).length })
               : t('empty_shopping_list')}
           </p>
         </div>

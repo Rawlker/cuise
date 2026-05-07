@@ -47,6 +47,7 @@ const resources = {
       "added_to_shopping_list": "Added to shopping list!",
       "mark_as_bought": "Mark as bought",
       "remove_item": "Remove item",
+      "items_remaining": "{{count}} items remaining",
       "start_cooking": "Start Cooking",
       "next": "Next",
       "previous": "Previous",
@@ -102,13 +103,19 @@ const resources = {
       "feedback_tooltip": "Share your feedback",
       "feedback_tooltip_sub": "We'd love to hear from you",
       "share": "Share",
+      "share_recipe_text": "Check out this recipe for {{title}}",
       "link_copied": "Link copied!",
       "mark_as_cooked": "Mark as Cooked",
       "cooked": "Cooked ✓",
       "vegetarian": "Vegetarian",
       "vegan": "Vegan",
       "gluten_free": "Gluten-Free",
-      "quick": "Quick"
+      "quick": "Quick",
+      "theme": "Theme",
+      "language": "Language",
+      "dark": "Dark",
+      "light": "Light",
+      "kitchen": "Kitchen"
     }
   },
   es: {
@@ -156,10 +163,11 @@ const resources = {
       "added_to_shopping_list": "¡Añadido a la lista!",
       "mark_as_bought": "Marcar como comprado",
       "remove_item": "Eliminar item",
+      "items_remaining": "{{count}} ingredientes restantes",
       "start_cooking": "Cocinar",
       "next": "Siguiente",
       "previous": "Anterior",
-      "exit": "Salir",
+      "exit": "Finalizar",
       "step_of": "Paso {{current}} de {{total}}",
       "cooking_mode": "Modo Cocina",
       "nutrition": "Información Nutricional",
@@ -211,13 +219,19 @@ const resources = {
       "feedback_tooltip": "Comparte tu opinión",
       "feedback_tooltip_sub": "Nos encantaría saber de ti",
       "share": "Compartir",
+      "share_recipe_text": "Mira esta receta de {{title}}",
       "link_copied": "¡Link copiado!",
       "mark_as_cooked": "Ya la preparé",
       "cooked": "Preparada ✓",
       "vegetarian": "Vegetariano",
       "vegan": "Vegano",
       "gluten_free": "Sin Gluten",
-      "quick": "Rápido"
+      "quick": "Rápido",
+      "theme": "Tema",
+      "language": "Idioma",
+      "dark": "Oscuro",
+      "light": "Claro",
+      "kitchen": "Cocina"
     }
   }
 };
