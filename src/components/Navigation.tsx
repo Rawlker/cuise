@@ -1,6 +1,6 @@
 import React from 'react';
 import { NavLink, Link } from 'react-router-dom';
-import { Home, Bookmark, Search, ChefHat, Globe, Refrigerator, ShoppingCart, Calendar, Palette } from 'lucide-react';
+import { Home, Bookmark, Search, Globe, Refrigerator, ShoppingCart, Calendar, Palette } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
 import { useShoppingList } from '../context/ShoppingListContext';
 import { useTheme, type Theme } from '../context/ThemeContext';

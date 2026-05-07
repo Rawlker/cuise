@@ -22,8 +22,8 @@ const DAYS = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday'
 const MEAL_TYPES: MealType[] = ['breakfast', 'lunch', 'dinner'];
 
 export const MealPlanner: React.FC = () => {
-  const { t, i18n } = useTranslation();
-  const { plan, addRecipeToPlan, removeRecipeFromPlan, addAllToShoppingList, clearPlan } = useMealPlanner();
+  const { t } = useTranslation();
+  const { plan, addRecipeToPlan, removeRecipeFromPlan, addAllToShoppingList } = useMealPlanner();
   const { savedRecipes } = useSavedRecipes();
   
   const [showSelector, setShowSelector] = useState<{ day: string; type: MealType } | null>(null);

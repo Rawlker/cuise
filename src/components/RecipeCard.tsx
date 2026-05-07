@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import type { Recipe } from '../types';
-import { Bookmark, BookmarkCheck, Link as LinkIcon, X, Utensils } from 'lucide-react';
+import { Bookmark, Link as LinkIcon, X, Utensils } from 'lucide-react';
 import { useSavedRecipes } from '../context/SavedRecipesContext';
 import { useTranslation } from 'react-i18next';
 

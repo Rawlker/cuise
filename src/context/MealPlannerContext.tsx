@@ -14,7 +14,6 @@ interface MealPlannerContextType {
 const MealPlannerContext = createContext<MealPlannerContextType | undefined>(undefined);
 
 const STORAGE_KEY = 'meal-planner-plan';
-const DAYS = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday'];
 
 export const MealPlannerProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
   const [plan, setPlan] = useState<WeeklyPlan>({});

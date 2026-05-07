@@ -17,7 +17,6 @@ interface FeedbackEntry {
 
 const STORAGE_KEY = 'cuise-feedback';
 // Placeholder for Formspree ID - User can replace this later
-const FORMSPREE_ID = 'mjvnnrqy'; 
 
 export const FeedbackButton: React.FC = () => {
   const { t } = useTranslation();
