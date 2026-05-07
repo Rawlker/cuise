@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g fill="none" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Steam -->
+    <path d="M40 20 Q45 10 40 2" />
+    <path d="M50 20 Q55 10 50 2" />
+    <path d="M60 20 Q65 10 60 2" />
+    <!-- Pot -->
+    <path d="M20 40 H80 V80 Q80 88 72 88 H28 Q20 88 20 80 Z" />
+    <!-- Handles -->
+    <path d="M20 50 H10 Q6 50 6 60 Q6 70 10 70 H20" />
+    <path d="M80 50 H90 Q94 50 94 60 Q94 70 90 70 H80" />
+    <!-- Lid line -->
+    <path d="M20 45 H80" />
+  </g>
+</svg>

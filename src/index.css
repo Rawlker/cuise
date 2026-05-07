@@ -1,0 +1,95 @@
+@import "tailwindcss";
+
+@theme {
+  /* Define theme colors as CSS variables that Tailwind can use */
+  --color-primary: var(--primary);
+  --color-bg-app: var(--bg-app);
+  --color-surface-app: var(--surface-app);
+  --color-text-app: var(--text-app);
+  --color-border-app: var(--border-app);
+}
+
+:root {
+  --bg-app: #111827;
+  --surface-app: #1f2937;
+  --primary: #f59e0b;
+  --text-app: #f9fafb;
+  --border-app: rgba(255, 255, 255, 0.1);
+
+  font-family: 'Outfit', 'Inter', system-ui, sans-serif;
+  line-height: 1.6;
+  font-weight: 400;
+
+  color: var(--text-app);
+  background-color: var(--bg-app);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Explicitly define dark theme to match root for clarity */
+[data-theme='dark'] {
+  --bg-app: #111827;
+  --surface-app: #1f2937;
+  --primary: #f59e0b;
+  --text-app: #f9fafb;
+  --border-app: rgba(255, 255, 255, 0.1);
+}
+
+[data-theme='light'] {
+  --bg-app: #ffffff;
+  --surface-app: #f3f4f6;
+  --primary: #f59e0b;
+  --text-app: #111827;
+  --border-app: rgba(0, 0, 0, 0.05);
+}
+
+[data-theme='kitchen'] {
+  --bg-app: #fdf6ec;
+  --surface-app: #fef3c7;
+  --primary: #b45309;
+  --text-app: #1c1917;
+  --border-app: rgba(180, 83, 9, 0.1);
+}
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: var(--bg-app);
+  color: var(--text-app);
+}
+
+#root {
+  width: 100%;
+}
+
+.recipe-card-shadow {
+  box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.1);
+}
+
+/* Smooth transitions for everything */
+* {
+  transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-app);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--surface-app);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--primary);
+}
