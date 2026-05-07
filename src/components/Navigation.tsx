@@ -1,6 +1,20 @@
-import React from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { NavLink, Link } from 'react-router-dom';
-import { Home, Bookmark, Search, Globe, Refrigerator, ShoppingCart, Calendar, Palette } from 'lucide-react';
+import { 
+  Home, 
+  Bookmark, 
+  Search, 
+  Globe, 
+  Refrigerator, 
+  ShoppingCart, 
+  Calendar, 
+  Palette, 
+  Settings2,
+  Moon,
+  Sun,
+  ChefHat,
+  ChevronRight
+} from 'lucide-react';
 import { useTranslation } from 'react-i18next';
 import { useShoppingList } from '../context/ShoppingListContext';
 import { useTheme, type Theme } from '../context/ThemeContext';
@@ -9,11 +23,31 @@ export const Navbar: React.FC = () => {
   const { t, i18n } = useTranslation();
   const { items } = useShoppingList();
   const { theme, setTheme } = useTheme();
-  const [showThemeMenu, setShowThemeMenu] = React.useState(false);
+  const [showSettings, setShowSettings] = useState(false);
+  const settingsRef = useRef<HTMLDivElement>(null);
   const unboughtCount = items.filter(i => !i.bought).length;
 
-  const toggleLanguage = () => {
-    i18n.changeLanguage(i18n.language === 'es' ? 'en' : 'es');
+  const toggleLanguage = (lang: string) => {
+    i18n.changeLanguage(lang);
+    setShowSettings(false);
+  };
+
+  useEffect(() => {
+    const handleClickOutside = (event: MouseEvent) => {
+      if (settingsRef.current && !settingsRef.current.contains(event.target as Node)) {
+        setShowSettings(false);
+      }
+    };
+    document.addEventListener('mousedown', handleClickOutside);
+    return () => document.removeEventListener('mousedown', handleClickOutside);
+  }, []);
+
+  const getThemeIcon = (tValue: Theme) => {
+    switch (tValue) {
+      case 'light': return <Sun size={14} />;
+      case 'kitchen': return <ChefHat size={14} />;
+      default: return <Moon size={14} />;
+    }
   };
 
   return (
@@ -82,36 +116,62 @@ export const Navbar: React.FC = () => {
               </>
             )}
           </NavLink>
-          <button onClick={toggleLanguage} className="flex items-center gap-1 text-gray-400 hover:text-primary transition-all duration-300 ml-1">
-            <Globe size={18} />
-            <span className="text-[8px] md:text-[10px] font-bold uppercase tracking-tight md:tracking-widest whitespace-nowrap">{i18n.language}</span>
-          </button>
 
-          <div className="relative">
+          <div className="relative" ref={settingsRef}>
             <button 
-              onClick={() => setShowThemeMenu(!showThemeMenu)}
-              className="flex items-center gap-1 text-gray-400 hover:text-primary transition-all duration-300 ml-1"
+              onClick={() => setShowSettings(!showSettings)}
+              className={`p-2 rounded-xl transition-all duration-300 ml-1 ${showSettings ? 'bg-primary text-white shadow-lg shadow-primary/20' : 'text-gray-400 hover:text-primary hover:bg-primary/10'}`}
             >
-              <Palette size={18} />
-              <span className="text-[8px] md:text-[10px] font-bold uppercase tracking-tight md:tracking-widest hidden sm:block">Theme</span>
+              <Settings2 size={20} />
             </button>
             
-            {showThemeMenu && (
-              <div className="absolute right-0 mt-2 w-32 bg-surface-app border border-border-app rounded-2xl shadow-xl overflow-hidden z-[60] animate-in fade-in zoom-in-95 duration-200">
-                {(['dark', 'light', 'kitchen'] as Theme[]).map((tValue) => (
-                  <button
-                    key={tValue}
-                    onClick={() => {
-                      setTheme(tValue);
-                      setShowThemeMenu(false);
-                    }}
-                    className={`w-full px-4 py-3 text-left text-[10px] font-bold uppercase tracking-widest transition-colors ${
-                      theme === tValue ? 'bg-primary text-white' : 'text-text-app/60 hover:bg-primary/10 hover:text-primary'
-                    }`}
-                  >
-                    {tValue}
-                  </button>
-                ))}
+            {showSettings && (
+              <div className="absolute right-0 mt-3 w-48 bg-surface-app border border-border-app rounded-2xl shadow-2xl overflow-hidden z-[60] animate-in fade-in zoom-in-95 duration-200">
+                <div className="p-3 border-b border-border-app bg-bg-app/50">
+                  <p className="text-[9px] font-black uppercase tracking-widest text-text-app/40 flex items-center gap-2">
+                    <Palette size={10} /> {t('theme', 'Theme')}
+                  </p>
+                </div>
+                <div className="p-2">
+                  {(['dark', 'light', 'kitchen'] as Theme[]).map((tValue) => (
+                    <button
+                      key={tValue}
+                      onClick={() => {
+                        setTheme(tValue);
+                        setShowSettings(false);
+                      }}
+                      className={`w-full px-3 py-2.5 rounded-xl text-left text-[10px] font-bold uppercase tracking-widest transition-all flex items-center justify-between group ${
+                        theme === tValue ? 'bg-primary text-white' : 'text-text-app/60 hover:bg-primary/10 hover:text-primary'
+                      }`}
+                    >
+                      <div className="flex items-center gap-2">
+                        {getThemeIcon(tValue)}
+                        {tValue}
+                      </div>
+                      {theme === tValue && <div className="w-1.5 h-1.5 rounded-full bg-white shadow-[0_0_8px_rgba(255,255,255,0.8)]"></div>}
+                    </button>
+                  ))}
+                </div>
+
+                <div className="p-3 border-y border-border-app bg-bg-app/50">
+                  <p className="text-[9px] font-black uppercase tracking-widest text-text-app/40 flex items-center gap-2">
+                    <Globe size={10} /> {t('language', 'Language')}
+                  </p>
+                </div>
+                <div className="p-2">
+                  {(['en', 'es']).map((lang) => (
+                    <button
+                      key={lang}
+                      onClick={() => toggleLanguage(lang)}
+                      className={`w-full px-3 py-2.5 rounded-xl text-left text-[10px] font-bold uppercase tracking-widest transition-all flex items-center justify-between group ${
+                        i18n.language === lang ? 'bg-primary text-white' : 'text-text-app/60 hover:bg-primary/10 hover:text-primary'
+                      }`}
+                    >
+                      <span>{lang === 'en' ? 'English' : 'Español'}</span>
+                      {i18n.language === lang && <div className="w-1.5 h-1.5 rounded-full bg-white shadow-[0_0_8px_rgba(255,255,255,0.8)]"></div>}
+                    </button>
+                  ))}
+                </div>
               </div>
             )}
           </div>
