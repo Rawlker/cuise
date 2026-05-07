@@ -24,6 +24,7 @@ export const CookingMode: React.FC<CookingModeProps> = ({ recipe, onClose }) => 
       .filter(s => s.length > 0);
     
     // If we only have one long step, try splitting by sentences
+    // Check if it's already well-split by lines first
     if (rawSteps.length <= 1) {
       rawSteps = recipe.instructions
         .split(/(?<=[.!?])\s+/)
@@ -78,23 +79,23 @@ export const CookingMode: React.FC<CookingModeProps> = ({ recipe, onClose }) => 
   if (steps.length === 0) return null;
 
   return (
-    <div className="fixed inset-0 z-[100] bg-white dark:bg-gray-900 flex flex-col animate-in fade-in duration-300">
+    <div className="fixed inset-0 z-[100] bg-bg-app flex flex-col animate-in fade-in duration-300">
       {/* Header */}
-      <div className="flex items-center justify-between p-6 border-b dark:border-gray-800">
+      <div className="flex items-center justify-between p-6 border-b border-border-app">
         <div className="flex flex-col">
           <h2 className="text-sm font-bold text-primary uppercase tracking-widest mb-1">{t('cooking_mode')}</h2>
-          <p className="text-lg font-bold truncate max-w-[200px] md:max-w-md">{recipe.title}</p>
+          <p className="text-lg font-bold truncate max-w-[200px] md:max-w-md text-text-app">{recipe.title}</p>
         </div>
         <button 
           onClick={onClose}
-          className="p-3 rounded-full bg-gray-100 dark:bg-gray-800 text-gray-500 hover:text-red-500 transition-colors"
+          className="p-3 rounded-full bg-surface-app text-text-app/50 hover:text-red-500 transition-colors"
         >
           <X size={24} />
         </button>
       </div>
 
       {/* Progress Bar */}
-      <div className="w-full h-2 bg-gray-100 dark:bg-gray-800 overflow-hidden">
+      <div className="w-full h-2 bg-surface-app overflow-hidden">
         <div 
           className="h-full bg-primary transition-all duration-500 ease-out"
           style={{ width: `${((currentStep + 1) / steps.length) * 100}%` }}
@@ -109,7 +110,7 @@ export const CookingMode: React.FC<CookingModeProps> = ({ recipe, onClose }) => 
           </div>
           
           <p 
-            className="font-bold leading-tight md:leading-snug dark:text-white mb-12 transition-all duration-300"
+            className="font-bold leading-tight md:leading-snug text-text-app mb-12 transition-all duration-300"
             style={{ 
               fontSize: steps[currentStep].length > 400 ? '1.5rem' : 
                         steps[currentStep].length > 200 ? '2rem' : 
@@ -121,12 +122,12 @@ export const CookingMode: React.FC<CookingModeProps> = ({ recipe, onClose }) => 
           </p>
 
           {timeInStep && (
-            <div className="w-full max-w-md bg-amber-50 dark:bg-amber-900/10 p-8 rounded-[3rem] border-2 border-amber-100 dark:border-amber-900/20 shadow-xl animate-in zoom-in-95 duration-500">
+            <div className="w-full max-w-md bg-amber-500/5 p-8 rounded-[3rem] border-2 border-amber-500/20 shadow-xl animate-in zoom-in-95 duration-500">
               <div className="flex items-center justify-center gap-3 mb-4">
                 <TimerIcon className="text-primary" size={24} />
-                <span className="font-black text-gray-700 dark:text-gray-300 uppercase tracking-widest">{t('timer')}</span>
+                <span className="font-black text-text-app/60 uppercase tracking-widest">{t('timer')}</span>
               </div>
-              <div className="text-7xl font-black mb-8 tabular-nums dark:text-white">
+              <div className="text-7xl font-black mb-8 tabular-nums text-text-app">
                 {formatTime(seconds)}
               </div>
               <div className="flex gap-4">
@@ -134,7 +135,7 @@ export const CookingMode: React.FC<CookingModeProps> = ({ recipe, onClose }) => 
                   onClick={isActive ? pause : start}
                   className={`flex-1 py-4 rounded-2xl flex items-center justify-center gap-3 text-lg font-bold transition-all ${
                     isActive 
-                      ? 'bg-gray-200 text-gray-700 dark:bg-gray-800 dark:text-gray-300' 
+                      ? 'bg-surface-app text-text-app/60' 
                       : 'bg-primary text-white shadow-lg shadow-primary/30 hover:scale-105'
                   }`}
                 >
@@ -142,7 +143,7 @@ export const CookingMode: React.FC<CookingModeProps> = ({ recipe, onClose }) => 
                 </button>
                 <button 
                   onClick={() => reset(timeInStep * 60)}
-                  className="p-4 rounded-2xl bg-white dark:bg-gray-800 text-gray-400 hover:text-primary shadow-md"
+                  className="p-4 rounded-2xl bg-surface-app text-text-app/40 hover:text-primary shadow-md"
                 >
                   <RotateCcw size={24} />
                 </button>
@@ -153,11 +154,11 @@ export const CookingMode: React.FC<CookingModeProps> = ({ recipe, onClose }) => 
       </div>
 
       {/* Navigation */}
-      <div className="p-6 md:p-10 border-t dark:border-gray-800 flex gap-4 md:gap-8 max-w-4xl mx-auto w-full">
+      <div className="p-6 md:p-10 border-t border-border-app flex gap-4 md:gap-8 max-w-4xl mx-auto w-full">
         <button
           onClick={() => setCurrentStep(Math.max(0, currentStep - 1))}
           disabled={currentStep === 0}
-          className="flex-1 flex items-center justify-center gap-3 p-6 md:p-8 rounded-[2rem] bg-gray-100 dark:bg-gray-800 text-gray-600 dark:text-gray-300 font-bold text-xl md:text-2xl disabled:opacity-30 transition-all hover:bg-gray-200 dark:hover:bg-gray-700"
+          className="flex-1 flex items-center justify-center gap-3 p-6 md:p-8 rounded-[2rem] bg-surface-app text-text-app/60 font-bold text-xl md:text-2xl disabled:opacity-30 transition-all hover:bg-surface-app/80"
         >
           <ChevronLeft size={32} />
           {t('previous')}
