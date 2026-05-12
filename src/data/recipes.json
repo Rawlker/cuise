@@ -1,0 +1,1489 @@
+{
+  "recipes": [
+    {
+      "id": "r001",
+      "title": "Spaghetti Carbonara",
+      "category": "Pasta",
+      "area": "Italian",
+      "thumbnail": "https://images.unsplash.com/photo-1612874742237-6526221588e3?w=600",
+      "tags": [],
+      "prepTime": 10,
+      "cookTime": 20,
+      "servings": 2,
+      "instructions": [
+        "Bring a large pot of salted water to a boil and cook spaghetti until al dente.",
+        "Fry pancetta in a pan over medium heat until crispy.",
+        "Whisk together eggs, Pecorino Romano, and Parmesan in a bowl. Season with black pepper.",
+        "Reserve 1 cup of pasta water, then drain the spaghetti.",
+        "Remove pan from heat, add pasta to pancetta, then pour egg mixture over it.",
+        "Toss quickly, adding pasta water gradually until creamy. Serve immediately."
+      ],
+      "ingredients": [
+        { "name": "Spaghetti", "measure": "200g" },
+        { "name": "Pancetta", "measure": "100g" },
+        { "name": "Eggs", "measure": "2 large" },
+        { "name": "Pecorino Romano", "measure": "50g" },
+        { "name": "Parmesan", "measure": "50g" },
+        { "name": "Black pepper", "measure": "to taste" }
+      ],
+      "nutrition": { "calories": 620, "protein": 28, "carbs": 72, "fat": 24, "fiber": 3 }
+    },
+    {
+      "id": "r002",
+      "title": "Penne Arrabbiata",
+      "category": "Pasta",
+      "area": "Italian",
+      "thumbnail": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?w=600",
+      "tags": ["Vegetarian", "Vegan"],
+      "prepTime": 5,
+      "cookTime": 25,
+      "servings": 2,
+      "instructions": [
+        "Cook penne in salted boiling water until al dente.",
+        "Sauté garlic and red chili flakes in olive oil over medium heat for 2 minutes.",
+        "Add crushed tomatoes and simmer for 15 minutes. Season with salt.",
+        "Drain pasta and toss with the arrabbiata sauce.",
+        "Garnish with fresh parsley and serve."
+      ],
+      "ingredients": [
+        { "name": "Penne", "measure": "200g" },
+        { "name": "Crushed tomatoes", "measure": "400g" },
+        { "name": "Garlic cloves", "measure": "3" },
+        { "name": "Red chili flakes", "measure": "1 tsp" },
+        { "name": "Olive oil", "measure": "3 tbsp" },
+        { "name": "Fresh parsley", "measure": "handful" },
+        { "name": "Salt", "measure": "to taste" }
+      ],
+      "nutrition": { "calories": 420, "protein": 12, "carbs": 78, "fat": 8, "fiber": 5 }
+    },
+    {
+      "id": "r003",
+      "title": "Fettuccine Alfredo",
+      "category": "Pasta",
+      "area": "Italian",
+      "thumbnail": "https://images.unsplash.com/photo-1555949258-eb67b1ef0ceb?w=600",
+      "tags": ["Vegetarian"],
+      "prepTime": 5,
+      "cookTime": 20,
+      "servings": 2,
+      "instructions": [
+        "Cook fettuccine in salted boiling water until al dente.",
+        "Melt butter in a large pan over low heat.",
+        "Add heavy cream and simmer gently for 3 minutes.",
+        "Stir in Parmesan until sauce is smooth and creamy.",
+        "Drain pasta and toss with sauce. Season with salt and pepper.",
+        "Serve immediately with extra Parmesan."
+      ],
+      "ingredients": [
+        { "name": "Fettuccine", "measure": "200g" },
+        { "name": "Butter", "measure": "60g" },
+        { "name": "Heavy cream", "measure": "150ml" },
+        { "name": "Parmesan", "measure": "80g" },
+        { "name": "Salt and pepper", "measure": "to taste" }
+      ],
+      "nutrition": { "calories": 720, "protein": 22, "carbs": 68, "fat": 42, "fiber": 2 }
+    },
+    {
+      "id": "r004",
+      "title": "Lasagna Bolognese",
+      "category": "Pasta",
+      "area": "Italian",
+      "thumbnail": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?w=600",
+      "tags": [],
+      "prepTime": 30,
+      "cookTime": 60,
+      "servings": 6,
+      "instructions": [
+        "Brown ground beef and pork with onion, garlic, and carrot in olive oil.",
+        "Add tomato paste, crushed tomatoes, and red wine. Simmer 30 minutes.",
+        "Make béchamel: melt butter, whisk in flour, then gradually add milk until thick.",
+        "Layer lasagna sheets, bolognese, and béchamel in a baking dish.",
+        "Top with Parmesan and bake at 180°C for 35 minutes until golden.",
+        "Rest 10 minutes before slicing and serving."
+      ],
+      "ingredients": [
+        { "name": "Lasagna sheets", "measure": "250g" },
+        { "name": "Ground beef", "measure": "300g" },
+        { "name": "Ground pork", "measure": "200g" },
+        { "name": "Crushed tomatoes", "measure": "400g" },
+        { "name": "Onion", "measure": "1 large" },
+        { "name": "Garlic cloves", "measure": "3" },
+        { "name": "Carrot", "measure": "1" },
+        { "name": "Tomato paste", "measure": "2 tbsp" },
+        { "name": "Red wine", "measure": "100ml" },
+        { "name": "Milk", "measure": "500ml" },
+        { "name": "Butter", "measure": "50g" },
+        { "name": "Flour", "measure": "50g" },
+        { "name": "Parmesan", "measure": "80g" }
+      ],
+      "nutrition": { "calories": 580, "protein": 34, "carbs": 52, "fat": 26, "fiber": 4 }
+    },
+    {
+      "id": "r005",
+      "title": "Cacio e Pepe",
+      "category": "Pasta",
+      "area": "Italian",
+      "thumbnail": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=600",
+      "tags": ["Vegetarian"],
+      "prepTime": 5,
+      "cookTime": 15,
+      "servings": 2,
+      "instructions": [
+        "Cook spaghetti in salted boiling water until al dente. Reserve 1 cup pasta water.",
+        "Toast coarsely ground black pepper in a dry pan for 1 minute.",
+        "Add a splash of pasta water to the pan and let it reduce.",
+        "Remove from heat, add drained pasta and toss.",
+        "Add Pecorino Romano and Parmesan gradually with pasta water, tossing vigorously.",
+        "Serve immediately with extra pepper."
+      ],
+      "ingredients": [
+        { "name": "Spaghetti", "measure": "200g" },
+        { "name": "Pecorino Romano", "measure": "80g" },
+        { "name": "Parmesan", "measure": "40g" },
+        { "name": "Black pepper", "measure": "2 tsp coarsely ground" }
+      ],
+      "nutrition": { "calories": 580, "protein": 24, "carbs": 74, "fat": 20, "fiber": 3 }
+    },
+    {
+      "id": "r006",
+      "title": "Tagliatelle with Mushroom Cream Sauce",
+      "category": "Pasta",
+      "area": "Italian",
+      "thumbnail": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=600",
+      "tags": ["Vegetarian"],
+      "prepTime": 10,
+      "cookTime": 20,
+      "servings": 2,
+      "instructions": [
+        "Cook tagliatelle in salted boiling water until al dente.",
+        "Sauté sliced mushrooms in butter with garlic until golden, about 8 minutes.",
+        "Add white wine and let it reduce for 2 minutes.",
+        "Pour in heavy cream and simmer until thickened. Season with salt and pepper.",
+        "Toss drained pasta with the sauce.",
+        "Serve with Parmesan and fresh thyme."
+      ],
+      "ingredients": [
+        { "name": "Tagliatelle", "measure": "200g" },
+        { "name": "Mixed mushrooms", "measure": "300g" },
+        { "name": "Heavy cream", "measure": "150ml" },
+        { "name": "Garlic cloves", "measure": "2" },
+        { "name": "White wine", "measure": "60ml" },
+        { "name": "Butter", "measure": "30g" },
+        { "name": "Parmesan", "measure": "40g" },
+        { "name": "Fresh thyme", "measure": "few sprigs" }
+      ],
+      "nutrition": { "calories": 650, "protein": 18, "carbs": 70, "fat": 32, "fiber": 4 }
+    },
+    {
+      "id": "r007",
+      "title": "Pasta Puttanesca",
+      "category": "Pasta",
+      "area": "Italian",
+      "thumbnail": "https://images.unsplash.com/photo-1548549557-dbe9155745c6?w=600",
+      "tags": ["Vegetarian"],
+      "prepTime": 10,
+      "cookTime": 20,
+      "servings": 2,
+      "instructions": [
+        "Cook spaghetti in salted boiling water until al dente.",
+        "Sauté garlic and anchovies in olive oil until anchovies dissolve.",
+        "Add crushed tomatoes, olives, capers, and chili flakes. Simmer 15 minutes.",
+        "Toss drained pasta with the sauce.",
+        "Garnish with fresh parsley and serve."
+      ],
+      "ingredients": [
+        { "name": "Spaghetti", "measure": "200g" },
+        { "name": "Crushed tomatoes", "measure": "400g" },
+        { "name": "Anchovies", "measure": "4 fillets" },
+        { "name": "Black olives", "measure": "80g" },
+        { "name": "Capers", "measure": "2 tbsp" },
+        { "name": "Garlic cloves", "measure": "3" },
+        { "name": "Chili flakes", "measure": "1/2 tsp" },
+        { "name": "Olive oil", "measure": "3 tbsp" },
+        { "name": "Fresh parsley", "measure": "handful" }
+      ],
+      "nutrition": { "calories": 520, "protein": 18, "carbs": 76, "fat": 16, "fiber": 6 }
+    },
+    {
+      "id": "r008",
+      "title": "Rigatoni alla Norma",
+      "category": "Pasta",
+      "area": "Italian",
+      "thumbnail": "https://images.unsplash.com/photo-1607532941433-304659e8198a?w=600",
+      "tags": ["Vegetarian", "Vegan"],
+      "prepTime": 15,
+      "cookTime": 30,
+      "servings": 2,
+      "instructions": [
+        "Salt eggplant cubes and let rest 20 minutes, then pat dry.",
+        "Fry eggplant in olive oil until golden. Set aside.",
+        "Sauté garlic in olive oil, add crushed tomatoes and basil. Simmer 15 minutes.",
+        "Cook rigatoni until al dente.",
+        "Toss pasta with sauce and eggplant.",
+        "Top with ricotta salata and fresh basil. Serve."
+      ],
+      "ingredients": [
+        { "name": "Rigatoni", "measure": "200g" },
+        { "name": "Eggplant", "measure": "1 large" },
+        { "name": "Crushed tomatoes", "measure": "400g" },
+        { "name": "Garlic cloves", "measure": "2" },
+        { "name": "Ricotta salata", "measure": "60g" },
+        { "name": "Fresh basil", "measure": "handful" },
+        { "name": "Olive oil", "measure": "4 tbsp" }
+      ],
+      "nutrition": { "calories": 490, "protein": 16, "carbs": 74, "fat": 14, "fiber": 8 }
+    },
+    {
+      "id": "r009",
+      "title": "Pasta e Fagioli",
+      "category": "Pasta",
+      "area": "Italian",
+      "thumbnail": "https://images.unsplash.com/photo-1547592180-85f173990554?w=600",
+      "tags": ["Vegetarian"],
+      "prepTime": 10,
+      "cookTime": 35,
+      "servings": 4,
+      "instructions": [
+        "Sauté onion, celery, carrot, and garlic in olive oil until soft.",
+        "Add rosemary, tomato paste, and cannellini beans. Cook 5 minutes.",
+        "Pour in vegetable broth and simmer 20 minutes.",
+        "Blend half the soup for a creamy texture, then return to pot.",
+        "Add ditalini pasta and cook until tender.",
+        "Season with salt, pepper, and extra olive oil before serving."
+      ],
+      "ingredients": [
+        { "name": "Ditalini pasta", "measure": "150g" },
+        { "name": "Cannellini beans", "measure": "400g canned" },
+        { "name": "Onion", "measure": "1" },
+        { "name": "Celery stalk", "measure": "2" },
+        { "name": "Carrot", "measure": "1" },
+        { "name": "Garlic cloves", "measure": "3" },
+        { "name": "Tomato paste", "measure": "1 tbsp" },
+        { "name": "Vegetable broth", "measure": "1 liter" },
+        { "name": "Rosemary", "measure": "1 sprig" },\n        { "name": "Olive oil", "measure": "3 tbsp" }
+      ],
+      "nutrition": { "calories": 380, "protein": 18, "carbs": 62, "fat": 8, "fiber": 12 }
+    },
+    {
+      "id": "r010",
+      "title": "Bucatini all'Amatriciana",
+      "category": "Pasta",
+      "area": "Italian",
+      "thumbnail": "https://images.unsplash.com/photo-1555949258-eb67b1ef0ceb?w=600",
+      "tags": [],
+      "prepTime": 10,
+      "cookTime": 25,
+      "servings": 2,
+      "instructions": [
+        "Cook guanciale in a pan until crispy. Remove and set aside.",
+        "Sauté chili flakes and white wine in the same pan for 2 minutes.",
+        "Add crushed tomatoes and simmer 15 minutes.",
+        "Cook bucatini in salted water until al dente.",
+        "Toss pasta with sauce and guanciale.",
+        "Serve with grated Pecorino Romano."
+      ],
+      "ingredients": [
+        { "name": "Bucatini", "measure": "200g" },
+        { "name": "Guanciale", "measure": "100g" },
+        { "name": "Crushed tomatoes", "measure": "300g" },
+        { "name": "White wine", "measure": "60ml" },
+        { "name": "Chili flakes", "measure": "1/2 tsp" },
+        { "name": "Pecorino Romano", "measure": "60g" }
+      ],
+      "nutrition": { "calories": 590, "protein": 26, "carbs": 72, "fat": 22, "fiber": 4 }
+    },
+    {
+      "id": "r011",
+      "title": "Orecchiette with Broccoli Rabe",
+      "category": "Pasta",
+      "area": "Italian",
+      "thumbnail": "https://images.unsplash.com/photo-1604908177522-5b84dc4e2555?w=600",
+      "tags": ["Vegetarian"],
+      "prepTime": 10,
+      "cookTime": 20,
+      "servings": 2,
+      "instructions": [
+        "Blanch broccoli rabe in boiling salted water for 3 minutes. Remove and set aside.",
+        "Cook orecchiette in the same water until al dente.",
+        "Sauté garlic, chili, and anchovies in olive oil until fragrant.",
+        "Add broccoli rabe and toss for 2 minutes.",
+        "Drain pasta and combine with broccoli mixture.",
+        "Serve with a drizzle of olive oil and Pecorino."
+      ],
+      "ingredients": [
+        { "name": "Orecchiette", "measure": "200g" },
+        { "name": "Broccoli rabe", "measure": "250g" },
+        { "name": "Garlic cloves", "measure": "3" },
+        { "name": "Anchovies", "measure": "3 fillets" },
+        { "name": "Chili flakes", "measure": "1/2 tsp" },
+        { "name": "Olive oil", "measure": "4 tbsp" },
+        { "name": "Pecorino Romano", "measure": "40g" }
+      ],
+      "nutrition": { "calories": 510, "protein": 20, "carbs": 72, "fat": 16, "fiber": 6 }
+    },
+    {
+      "id": "r012",
+      "title": "Gnocchi al Pomodoro",
+      "category": "Pasta",
+      "area": "Italian",
+      "thumbnail": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600",
+      "tags": ["Vegetarian"],
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 2,
+      "instructions": [
+        "Sauté garlic in olive oil, add crushed tomatoes and fresh basil. Simmer 10 minutes.",
+        "Cook gnocchi in salted boiling water until they float to the surface.",
+        "Remove gnocchi with a slotted spoon and add to the tomato sauce.",
+        "Toss gently and serve with Parmesan and fresh basil."
+      ],
+      "ingredients": [
+        { "name": "Potato gnocchi", "measure": "400g" },
+        { "name": "Crushed tomatoes", "measure": "400g" },
+        { "name": "Garlic cloves", "measure": "2" },
+        { "name": "Fresh basil", "measure": "handful" },
+        { "name": "Olive oil", "measure": "2 tbsp" },
+        { "name": "Parmesan", "measure": "40g" }
+      ],
+      "nutrition": { "calories": 480, "protein": 14, "carbs": 82, "fat": 10, "fiber": 5 }
+    },
+    {
+      "id": "r013",
+      "title": "Spaghetti alle Vongole",
+      "category": "Pasta",
+      "area": "Italian",
+      "thumbnail": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?w=600",
+      "tags": ["Gluten-Free"],
+      "prepTime": 15,
+      "cookTime": 20,
+      "servings": 2,
+      "instructions": [
+        "Soak clams in cold salted water for 30 minutes to remove grit.",
+        "Cook spaghetti in salted boiling water until al dente.",
+        "Sauté garlic and chili in olive oil. Add clams and white wine.",
+        "Cover and cook until clams open, about 5 minutes. Discard any that stay closed.",
+        "Toss drained pasta with the clam sauce.",
+        "Garnish with fresh parsley and a drizzle of olive oil."
+      ],
+      "ingredients": [
+        { "name": "Spaghetti", "measure": "200g" },
+        { "name": "Fresh clams", "measure": "500g" },
+        { "name": "Garlic cloves", "measure": "3" },
+        { "name": "White wine", "measure": "100ml" },
+        { "name": "Chili flakes", "measure": "1/2 tsp" },
+        { "name": "Olive oil", "measure": "4 tbsp" },
+        { "name": "Fresh parsley", "measure": "handful" }
+      ],
+      "nutrition": { "calories": 520, "protein": 28, "carbs": 72, "fat": 12, "fiber": 3 }
+    },
+    {
+      "id": "r014",
+      "title": "Pasta Primavera",
+      "category": "Pasta",
+      "area": "Italian",
+      "thumbnail": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=600",
+      "tags": ["Vegetarian"],
+      "prepTime": 15,
+      "cookTime": 20,
+      "servings": 2,
+      "instructions": [
+        "Cook penne in salted boiling water until al dente.",
+        "Sauté zucchini, bell pepper, cherry tomatoes, and asparagus in olive oil for 5 minutes.",
+        "Add garlic and cook 1 more minute.",
+        "Toss vegetables with drained pasta and Parmesan.",
+        "Season with salt, pepper, and fresh basil. Serve warm."
+      ],
+      "ingredients": [
+        { "name": "Penne", "measure": "200g" },
+        { "name": "Zucchini", "measure": "1" },
+        { "name": "Bell pepper", "measure": "1" },
+        { "name": "Cherry tomatoes", "measure": "150g" },
+        { "name": "Asparagus", "measure": "100g" },
+        { "name": "Garlic cloves", "measure": "2" },
+        { "name": "Olive oil", "measure": "3 tbsp" },
+        { "name": "Parmesan", "measure": "40g" },
+        { "name": "Fresh basil", "measure": "handful" }
+      ],
+      "nutrition": { "calories": 480, "protein": 16, "carbs": 76, "fat": 12, "fiber": 7 }
+    },
+    {
+      "id": "r015",
+      "title": "Mac and Cheese",
+      "category": "Pasta",
+      "area": "American",
+      "thumbnail": "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=600",
+      "tags": ["Vegetarian"],
+      "prepTime": 10,
+      "cookTime": 25,
+      "servings": 4,
+      "instructions": [
+        "Cook macaroni in salted boiling water until al dente. Drain.",
+        "Melt butter in a saucepan, whisk in flour and cook 1 minute.",
+        "Gradually whisk in milk and cook until thickened.",
+        "Remove from heat and stir in cheddar and Gruyère until melted.",
+        "Combine sauce with pasta. Transfer to a baking dish.",
+        "Top with breadcrumbs and bake at 200°C for 20 minutes until golden."
+      ],
+      "ingredients": [
+        { "name": "Macaroni", "measure": "300g" },
+        { "name": "Cheddar cheese", "measure": "150g" },
+        { "name": "Gruyère", "measure": "80g" },
+        { "name": "Milk", "measure": "500ml" },
+        { "name": "Butter", "measure": "40g" },
+        { "name": "Flour", "measure": "40g" },
+        { "name": "Breadcrumbs", "measure": "50g" }
+      ],
+      "nutrition": { "calories": 640, "protein": 26, "carbs": 72, "fat": 28, "fiber": 2 }
+    },
+    {
+      "id": "r016",
+      "title": "Linguine with Pesto and Green Beans",
+      "category": "Pasta",
+      "area": "Italian",
+      "thumbnail": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=600",
+      "tags": ["Vegetarian"],
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 2,
+      "instructions": [
+        "Blend basil, pine nuts, Parmesan, garlic, and olive oil into a smooth pesto.",
+        "Cook linguine in salted boiling water. Add green beans in the last 5 minutes.",
+        "Reserve pasta water, drain pasta and beans.",
+        "Toss with pesto, adding pasta water to loosen.",
+        "Serve with extra Parmesan and pine nuts."
+      ],
+      "ingredients": [
+        { "name": "Linguine", "measure": "200g" },
+        { "name": "Fresh basil", "measure": "60g" },
+        { "name": "Pine nuts", "measure": "30g" },
+        { "name": "Parmesan", "measure": "50g" },
+        { "name": "Garlic clove", "measure": "1" },
+        { "name": "Olive oil", "measure": "80ml" },
+        { "name": "Green beans", "measure": "100g" }
+      ],
+      "nutrition": { "calories": 620, "protein": 20, "carbs": 70, "fat": 30, "fiber": 5 }
+    },
+    {
+      "id": "r017",
+      "title": "Spaghetti Bolognese",
+      "category": "Pasta",
+      "area": "Italian",
+      "thumbnail": "https://images.unsplash.com/photo-1598866594230-a7c12756260f?w=600",
+      "tags": [],
+      "prepTime": 15,
+      "cookTime": 60,
+      "servings": 4,
+      "instructions": [
+        "Sauté onion, carrot, and celery in olive oil until soft.",
+        "Add ground beef and cook until browned.",
+        "Add tomato paste, crushed tomatoes, red wine, and milk. Season with salt and pepper.",
+        "Simmer on low heat for 45 minutes, stirring occasionally.",
+        "Cook spaghetti until al dente and toss with the sauce.",
+        "Serve with Parmesan and fresh basil."
+      ],
+      "ingredients": [
+        { "name": "Spaghetti", "measure": "300g" },
+        { "name": "Ground beef", "measure": "400g" },
+        { "name": "Crushed tomatoes", "measure": "400g" },
+        { "name": "Onion", "measure": "1" },
+        { "name": "Carrot", "measure": "1" },
+        { "name": "Celery stalk", "measure": "1" },
+        { "name": "Tomato paste", "measure": "2 tbsp" },
+        { "name": "Red wine", "measure": "100ml" },
+        { "name": "Milk", "measure": "50ml" },
+        { "name": "Olive oil", "measure": "2 tbsp" },
+        { "name": "Parmesan", "measure": "50g" }
+      ],
+      "nutrition": { "calories": 560, "protein": 36, "carbs": 62, "fat": 18, "fiber": 5 }
+    },
+    {
+      "id": "r018",
+      "title": "Tortellini in Brodo",
+      "category": "Pasta",
+      "area": "Italian",
+      "thumbnail": "https://images.unsplash.com/photo-1547592180-85f173990554?w=600",
+      "tags": [],
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 4,
+      "instructions": [
+        "Bring a rich beef or chicken broth to a gentle simmer.",
+        "Add fresh tortellini and cook according to package instructions.",
+        "Ladle into bowls with generous amounts of broth.",
+        "Serve with grated Parmesan and a crack of black pepper."
+      ],
+      "ingredients": [
+        { "name": "Fresh tortellini", "measure": "400g" },
+        { "name": "Beef broth", "measure": "1.5 liters" },
+        { "name": "Parmesan", "measure": "60g" },
+        { "name": "Black pepper", "measure": "to taste" }
+      ],
+      "nutrition": { "calories": 320, "protein": 18, "carbs": 42, "fat": 10, "fiber": 2 }
+    },
+    {
+      "id": "r019",
+      "title": "Farfalle with Salmon and Cream",
+      "category": "Pasta",
+      "area": "Italian",
+      "thumbnail": "https://images.unsplash.com/photo-1519984388953-d2406bc725e1?w=600",
+      "tags": [],
+      "prepTime": 10,
+      "cookTime": 20,
+      "servings": 2,
+      "instructions": [
+        "Cook farfalle in salted boiling water until al dente.",
+        "Sauté shallot in butter until translucent.",
+        "Add smoked salmon pieces and cook 1 minute.",
+        "Pour in cream and simmer until thickened. Add lemon zest.",
+        "Toss drained pasta with the salmon cream sauce.",
+        "Serve with fresh dill and a squeeze of lemon."
+      ],
+      "ingredients": [
+        { "name": "Farfalle", "measure": "200g" },
+        { "name": "Smoked salmon", "measure": "150g" },
+        { "name": "Heavy cream", "measure": "150ml" },
+        { "name": "Shallot", "measure": "1" },
+        { "name": "Butter", "measure": "20g" },
+        { "name": "Lemon", "measure": "zest and juice of 1" },
+        { "name": "Fresh dill", "measure": "handful" }
+      ],
+      "nutrition": { "calories": 640, "protein": 30, "carbs": 70, "fat": 26, "fiber": 3 }
+    },
+    {
+      "id": "r020",
+      "title": "Pasta Fagioli con Salsiccia",
+      "category": "Pasta",
+      "area": "Italian",
+      "thumbnail": "https://images.unsplash.com/photo-1604908177522-5b84dc4e2555?w=600",
+      "tags": [],
+      "prepTime": 10,
+      "cookTime": 35,
+      "servings": 4,
+      "instructions": [
+        "Brown Italian sausage, breaking it up, in a large pot.",
+        "Add onion, garlic, carrot, and celery. Cook until soft.",
+        "Stir in tomato paste, beans, and chicken broth. Simmer 20 minutes.",
+        "Add ditalini and cook until tender.",
+        "Season with salt, pepper, and fresh rosemary.",
+        "Serve with crusty bread and olive oil."
+      ],
+      "ingredients": [
+        { "name": "Italian sausage", "measure": "300g" },
+        { "name": "Ditalini pasta", "measure": "150g" },
+        { "name": "Cannellini beans", "measure": "400g canned" },
+        { "name": "Onion", "measure": "1" },
+        { "name": "Garlic cloves", "measure": "3" },
+        { "name": "Carrot", "measure": "1" },
+        { "name": "Celery stalk", "measure": "1" },
+        { "name": "Tomato paste", "measure": "2 tbsp" },
+        { "name": "Chicken broth", "measure": "1 liter" },
+        { "name": "Rosemary", "measure": "1 sprig" }
+      ],
+      "nutrition": { "calories": 520, "protein": 30, "carbs": 58, "fat": 18, "fiber": 10 }
+    },
+    {
+      "id": "r021",
+      "title": "Spaghetti Aglio e Olio",
+      "category": "Pasta",
+      "area": "Italian",
+      "thumbnail": "https://images.unsplash.com/photo-1612874742237-6526221588e3?w=600",
+      "tags": ["Vegetarian", "Vegan"],
+      "prepTime": 5,
+      "cookTime": 15,
+      "servings": 2,
+      "instructions": [
+        "Cook spaghetti in salted boiling water until al dente.",
+        "Thinly slice garlic and gently toast in olive oil until golden.",
+        "Add chili flakes and a ladle of pasta water. Stir to emulsify.",
+        "Drain pasta and toss in the garlic oil.",
+        "Garnish with fresh parsley and serve immediately."
+      ],
+      "ingredients": [
+        { "name": "Spaghetti", "measure": "200g" },
+        { "name": "Garlic cloves", "measure": "6" },
+        { "name": "Olive oil", "measure": "80ml" },
+        { "name": "Chili flakes", "measure": "1 tsp" },
+        { "name": "Fresh parsley", "measure": "handful" }
+      ],
+      "nutrition": { "calories": 520, "protein": 12, "carbs": 72, "fat": 22, "fiber": 3 }
+    },
+    {
+      "id": "r022",
+      "title": "Ravioli with Butter and Sage",
+      "category": "Pasta",
+      "area": "Italian",
+      "thumbnail": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600",
+      "tags": ["Vegetarian"],
+      "prepTime": 5,
+      "cookTime": 10,
+      "servings": 2,
+      "instructions": [
+        "Cook fresh ravioli in salted boiling water until they float.",
+        "Melt butter in a pan over medium heat until it starts to foam.",
+        "Add fresh sage leaves and cook until butter turns light brown and sage is crispy.",
+        "Drain ravioli and toss in the browned butter and sage.",
+        "Serve with Parmesan and a pinch of nutmeg."
+      ],
+      "ingredients": [
+        { "name": "Fresh ricotta ravioli", "measure": "400g" },
+        { "name": "Butter", "measure": "80g" },
+        { "name": "Fresh sage leaves", "measure": "12" },
+        { "name": "Parmesan", "measure": "40g" },
+        { "name": "Nutmeg", "measure": "pinch" }
+      ],
+      "nutrition": { "calories": 560, "protein": 20, "carbs": 52, "fat": 32, "fiber": 2 }
+    },
+    {
+      "id": "r023",
+      "title": "Pasta al Forno",
+      "category": "Pasta",
+      "area": "Italian",
+      "thumbnail": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?w=600",
+      "tags": [],
+      "prepTime": 20,
+      "cookTime": 40,
+      "servings": 6,
+      "instructions": [
+        "Cook rigatoni until slightly underdone. Drain.",
+        "Make a tomato meat sauce with ground beef, crushed tomatoes, and herbs.",
+        "Mix pasta with sauce, mozzarella cubes, and hard-boiled eggs.",
+        "Transfer to a baking dish and top with more sauce and Parmesan.",
+        "Bake at 180°C for 30 minutes until golden and bubbling.",
+        "Rest 10 minutes before serving."
+      ],
+      "ingredients": [
+        { "name": "Rigatoni", "measure": "400g" },
+        { "name": "Ground beef", "measure": "300g" },
+        { "name": "Crushed tomatoes", "measure": "400g" },
+        { "name": "Mozzarella", "measure": "200g" },
+        { "name": "Hard-boiled eggs", "measure": "2" },
+        { "name": "Parmesan", "measure": "60g" },
+        { "name": "Onion", "measure": "1" },
+        { "name": "Olive oil", "measure": "2 tbsp" }
+      ],
+      "nutrition": { "calories": 580, "protein": 34, "carbs": 62, "fat": 22, "fiber": 4 }
+    },
+    {
+      "id": "r024",
+      "title": "Cold Sesame Noodles",
+      "category": "Pasta",
+      "area": "Asian",
+      "thumbnail": "https://images.unsplash.com/photo-1569050467447-ce54b3bbc37d?w=600",
+      "tags": ["Vegetarian", "Vegan"],
+      "prepTime": 15,
+      "cookTime": 10,
+      "servings": 2,
+      "instructions": [
+        "Cook noodles according to package, rinse under cold water, and drain.",
+        "Whisk together tahini, soy sauce, rice vinegar, sesame oil, ginger, and garlic.",
+        "Toss noodles with the sesame sauce.",
+        "Top with julienned cucumber, shredded carrot, and green onions.",
+        "Garnish with sesame seeds and chili oil. Serve cold."
+      ],
+      "ingredients": [
+        { "name": "Egg noodles", "measure": "200g" },
+        { "name": "Tahini", "measure": "3 tbsp" },
+        { "name": "Soy sauce", "measure": "2 tbsp" },
+        { "name": "Rice vinegar", "measure": "1 tbsp" },
+        { "name": "Sesame oil", "measure": "1 tbsp" },
+        { "name": "Fresh ginger", "measure": "1 tsp" },
+        { "name": "Garlic clove", "measure": "1" },\n        { "name": "Cucumber", "measure": "1/2" },
+        { "name": "Carrot", "measure": "1" },
+        { "name": "Green onions", "measure": "2" },
+        { "name": "Sesame seeds", "measure": "1 tbsp" }
+      ],
+      "nutrition": { "calories": 480, "protein": 16, "carbs": 68, "fat": 18, "fiber": 5 }
+    },
+    {
+      "id": "r025",
+      "title": "Pad Thai",
+      "category": "Pasta",
+      "area": "Thai",
+      "thumbnail": "https://images.unsplash.com/photo-1559314809-0d155014e29e?w=600",
+      "tags": ["Gluten-Free"],
+      "prepTime": 20,
+      "cookTime": 15,
+      "servings": 2,
+      "instructions": [
+        "Soak rice noodles in warm water for 20 minutes. Drain.",
+        "Mix fish sauce, tamarind paste, sugar, and lime juice for the sauce.",
+        "Stir-fry shrimp and tofu in oil until cooked. Push to the side.",
+        "Scramble eggs in the pan, then add noodles and sauce.",
+        "Toss everything together over high heat for 2 minutes.",
+        "Serve with bean sprouts, peanuts, lime, and green onions."
+      ],
+      "ingredients": [
+        { "name": "Rice noodles", "measure": "200g" },
+        { "name": "Shrimp", "measure": "150g" },
+        { "name": "Firm tofu", "measure": "100g" },
+        { "name": "Eggs", "measure": "2" },
+        { "name": "Fish sauce", "measure": "2 tbsp" },
+        { "name": "Tamarind paste", "measure": "2 tbsp" },
+        { "name": "Sugar", "measure": "1 tbsp" },
+        { "name": "Lime", "measure": "1" },
+        { "name": "Bean sprouts", "measure": "100g" },
+        { "name": "Peanuts", "measure": "40g" },
+        { "name": "Green onions", "measure": "3" }
+      ],
+      "nutrition": { "calories": 520, "protein": 28, "carbs": 68, "fat": 16, "fiber": 4 }
+    },
+    {
+      "id": "r026",
+      "title": "Chicken Tikka Masala",
+      "category": "Chicken",
+      "area": "Indian",
+      "thumbnail": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=600",
+      "tags": ["Gluten-Free"],
+      "prepTime": 20,
+      "cookTime": 35,
+      "servings": 4,
+      "instructions": [
+        "Marinate chicken in yogurt, lemon juice, cumin, turmeric, and garam masala for 1 hour.",
+        "Grill or broil chicken until slightly charred, about 10 minutes.",
+        "Sauté onion in butter until golden. Add garlic and ginger, cook 2 minutes.",
+        "Add tomato puree, cream, and spices. Simmer 10 minutes.",
+        "Add grilled chicken and simmer 10 more minutes.",
+        "Garnish with fresh cilantro and serve with basmati rice or naan."
+      ],
+      "ingredients": [
+        { "name": "Chicken breast", "measure": "700g" },
+        { "name": "Plain yogurt", "measure": "150ml" },
+        { "name": "Tomato puree", "measure": "400ml" },
+        { "name": "Heavy cream", "measure": "150ml" },
+        { "name": "Onion", "measure": "1 large" },
+        { "name": "Garlic cloves", "measure": "4" },
+        { "name": "Fresh ginger", "measure": "1 tbsp" },
+        { "name": "Garam masala", "measure": "2 tsp" },
+        { "name": "Cumin", "measure": "1 tsp" },
+        { "name": "Turmeric", "measure": "1 tsp" },
+        { "name": "Butter", "measure": "2 tbsp" },
+        { "name": "Fresh cilantro", "measure": "handful" }
+      ],
+      "nutrition": { "calories": 480, "protein": 42, "carbs": 18, "fat": 26, "fiber": 3 }
+    },
+    {
+      "id": "r027",
+      "title": "Roast Chicken with Herbs",
+      "category": "Chicken",
+      "area": "French",
+      "thumbnail": "https://images.unsplash.com/photo-1527477396000-e27163b481c2?w=600",
+      "tags": ["Gluten-Free"],
+      "prepTime": 15,
+      "cookTime": 90,
+      "servings": 4,
+      "instructions": [
+        "Pat chicken dry and season generously inside and out with salt and pepper.",
+        "Stuff cavity with lemon halves, garlic, and fresh herbs.",
+        "Rub skin with softened butter mixed with thyme and rosemary.",
+        "Roast at 200°C for 1 hour 20 minutes, basting every 30 minutes.",
+        "Let rest 15 minutes before carving.",
+        "Serve with pan juices and roasted vegetables."
+      ],
+      "ingredients": [
+        { "name": "Whole chicken", "measure": "1.8kg" },
+        { "name": "Butter", "measure": "80g" },
+        { "name": "Lemon", "measure": "1" },
+        { "name": "Garlic head", "measure": "1" },
+        { "name": "Fresh thyme", "measure": "few sprigs" },
+        { "name": "Fresh rosemary", "measure": "few sprigs" },
+        { "name": "Salt and pepper", "measure": "to taste" }
+      ],
+      "nutrition": { "calories": 420, "protein": 52, "carbs": 2, "fat": 22, "fiber": 0 }
+    },
+    {
+      "id": "r028",
+      "title": "Chicken Caesar Salad",
+      "category": "Chicken",
+      "area": "American",
+      "thumbnail": "https://images.unsplash.com/photo-1512852939750-1305098529bf?w=600",
+      "tags": ["Gluten-Free"],
+      "prepTime": 20,
+      "cookTime": 15,
+      "servings": 2,
+      "instructions": [
+        "Season chicken breasts with salt, pepper, and olive oil. Grill 6 minutes per side.",
+        "Whisk together mayonnaise, lemon juice, Worcestershire, anchovy paste, and Parmesan for dressing.",
+        "Toss chopped romaine lettuce with Caesar dressing.",
+        "Slice grilled chicken and place on top.",
+        "Garnish with croutons, shaved Parmesan, and black pepper."
+      ],
+      "ingredients": [
+        { "name": "Chicken breast", "measure": "2" },
+        { "name": "Romaine lettuce", "measure": "1 head" },
+        { "name": "Parmesan", "measure": "60g" },
+        { "name": "Croutons", "measure": "80g" },
+        { "name": "Mayonnaise", "measure": "3 tbsp" },
+        { "name": "Lemon juice", "measure": "2 tbsp" },
+        { "name": "Anchovy paste", "measure": "1 tsp" },
+        { "name": "Worcestershire sauce", "measure": "1 tsp" }
+      ],
+      "nutrition": { "calories": 420, "protein": 44, "carbs": 18, "fat": 20, "fiber": 3 }
+    },
+    {
+      "id": "r029",
+      "title": "Chicken Fajitas",
+      "category": "Chicken",
+      "area": "Mexican",
+      "thumbnail": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=600",
+      "tags": ["Gluten-Free"],
+      "prepTime": 15,
+      "cookTime": 15,
+      "servings": 4,
+      "instructions": [
+        "Slice chicken into strips and season with cumin, chili powder, paprika, salt, and pepper.",
+        "Cook chicken in a hot cast iron pan with oil until charred and cooked through.",
+        "Remove chicken and sauté sliced bell peppers and onion until tender.",
+        "Serve chicken and vegetables in warm flour tortillas.",
+        "Top with sour cream, guacamole, salsa, and fresh lime."
+      ],
+      "ingredients": [
+        { "name": "Chicken breast", "measure": "600g" },
+        { "name": "Bell peppers", "measure": "3 mixed" },
+        { "name": "Onion", "measure": "1 large" },
+        { "name": "Flour tortillas", "measure": "8" },
+        { "name": "Cumin", "measure": "1 tsp" },
+        { "name": "Chili powder", "measure": "1 tsp" },
+        { "name": "Paprika", "measure": "1 tsp" },
+        { "name": "Sour cream", "measure": "4 tbsp" },
+        { "name": "Lime", "measure": "2" }
+      ],
+      "nutrition": { "calories": 460, "protein": 38, "carbs": 42, "fat": 14, "fiber": 4 }
+    },
+    {
+      "id": "r030",
+      "title": "Chicken Piccata",
+      "category": "Chicken",
+      "area": "Italian",
+      "thumbnail": "https://images.unsplash.com/photo-1604908177522-5b84dc4e2555?w=600",
+      "tags": [],
+      "prepTime": 10,
+      "cookTime": 20,
+      "servings": 2,
+      "instructions": [
+        "Pound chicken breasts to even thickness. Season with salt and pepper.",
+        "Dredge in flour and shake off excess.",
+        "Pan-fry in olive oil and butter until golden, 3 minutes per side. Remove.",
+        "Add white wine to the pan and reduce by half.",
+        "Add chicken broth, lemon juice, and capers. Simmer 3 minutes.",
+        "Return chicken to pan, spoon sauce over. Serve with fresh parsley."
+      ],
+      "ingredients": [
+        { "name": "Chicken breasts", "measure": "2" },
+        { "name": "Flour", "measure": "3 tbsp" },
+        { "name": "White wine", "measure": "80ml" },
+        { "name": "Chicken broth", "measure": "100ml" },
+        { "name": "Lemon juice", "measure": "3 tbsp" },
+        { "name": "Capers", "measure": "2 tbsp" },
+        { "name": "Butter", "measure": "30g" },
+        { "name": "Olive oil", "measure": "2 tbsp" },
+        { "name": "Fresh parsley", "measure": "handful" }
+      ],
+      "nutrition": { "calories": 380, "protein": 44, "carbs": 12, "fat": 16, "fiber": 1 }
+    },
+    {
+      "id": "r031",
+      "title": "Butter Chicken",
+      "category": "Chicken",
+      "area": "Indian",
+      "thumbnail": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=600",
+      "tags": ["Gluten-Free"],
+      "prepTime": 20,
+      "cookTime": 30,
+      "servings": 4,
+      "instructions": [
+        "Marinate chicken in yogurt, garam masala, turmeric, and chili for 1 hour.",
+        "Grill or pan-fry chicken until cooked. Set aside.",
+        "Melt butter and sauté onion, garlic, ginger until soft.",
+        "Add tomato puree, kashmiri chili, and spices. Cook 10 minutes.",
+        "Blend sauce until smooth. Return to pan and add cream.",
+        "Add chicken and simmer 10 minutes. Serve with naan and rice."
+      ],
+      "ingredients": [
+        { "name": "Chicken thighs", "measure": "700g" },
+        { "name": "Butter", "measure": "60g" },
+        { "name": "Tomato puree", "measure": "400g" },
+        { "name": "Heavy cream", "measure": "150ml" },
+        { "name": "Onion", "measure": "1 large" },
+        { "name": "Garlic cloves", "measure": "4" },
+        { "name": "Fresh ginger", "measure": "1 tbsp" },
+        { "name": "Garam masala", "measure": "2 tsp" },
+        { "name": "Kashmiri chili powder", "measure": "1 tsp" },
+        { "name": "Plain yogurt", "measure": "100ml" }
+      ],
+      "nutrition": { "calories": 510, "protein": 40, "carbs": 14, "fat": 32, "fiber": 2 }
+    },
+    {
+      "id": "r032",
+      "title": "Chicken Marsala",
+      "category": "Chicken",
+      "area": "Italian",
+      "thumbnail": "https://images.unsplash.com/photo-1527477396000-e27163b481c2?w=600",
+      "tags": [],
+      "prepTime": 10,
+      "cookTime": 25,
+      "servings": 2,
+      "instructions": [
+        "Pound chicken breasts thin. Season and dredge in flour.",
+        "Pan-fry in olive oil and butter until golden. Remove and set aside.",
+        "Sauté mushrooms in the same pan until golden.",
+        "Add Marsala wine and reduce by half.",
+        "Add chicken broth and simmer 5 minutes.",
+        "Return chicken to pan and cook 5 more minutes. Garnish with parsley."
+      ],
+      "ingredients": [
+        { "name": "Chicken breasts", "measure": "2" },
+        { "name": "Cremini mushrooms", "measure": "200g" },
+        { "name": "Marsala wine", "measure": "120ml" },
+        { "name": "Chicken broth", "measure": "120ml" },
+        { "name": "Flour", "measure": "3 tbsp" },
+        { "name": "Butter", "measure": "30g" },
+        { "name": "Olive oil", "measure": "2 tbsp" },
+        { "name": "Fresh parsley", "measure": "handful" }
+      ],
+      "nutrition": { "calories": 420, "protein": 44, "carbs": 14, "fat": 18, "fiber": 2 }
+    },
+    {
+      "id": "r033",
+      "title": "General Tso's Chicken",
+      "category": "Chicken",
+      "area": "Asian",
+      "thumbnail": "https://images.unsplash.com/photo-1604908177522-5b84dc4e2555?w=600",
+      "tags": [],
+      "prepTime": 20,
+      "cookTime": 20,
+      "servings": 4,
+      "instructions": [
+        "Cut chicken into chunks and marinate in soy sauce, egg, and cornstarch.",
+        "Deep fry chicken until crispy and golden. Drain on paper towels.",
+        "Make sauce: soy sauce, hoisin, rice vinegar, sugar, garlic, ginger, and chili.",
+        "Stir-fry sauce in a wok for 1 minute.",
+        "Add fried chicken and toss to coat.",
+        "Serve over steamed rice with broccoli and sesame seeds."
+      ],
+      "ingredients": [
+        { "name": "Chicken thighs", "measure": "600g" },
+        { "name": "Cornstarch", "measure": "4 tbsp" },
+        { "name": "Soy sauce", "measure": "3 tbsp" },
+        { "name": "Hoisin sauce", "measure": "2 tbsp" },
+        { "name": "Rice vinegar", "measure": "2 tbsp" },
+        { "name": "Sugar", "measure": "2 tbsp" },
+        { "name": "Garlic cloves", "measure": "3" },
+        { "name": "Fresh ginger", "measure": "1 tsp" },
+        { "name": "Dried chili", "measure": "3" },
+        { "name": "Egg", "measure": "1" }
+      ],
+      "nutrition": { "calories": 480, "protein": 36, "carbs": 38, "fat": 20, "fiber": 2 }
+    },
+    {
+      "id": "r034",
+      "title": "Chicken Shawarma",
+      "category": "Chicken",
+      "area": "Middle Eastern",
+      "thumbnail": "https://images.unsplash.com/photo-1561651823-34feb02250e4?w=600",
+      "tags": ["Gluten-Free"],
+      "prepTime": 20,
+      "cookTime": 25,
+      "servings": 4,
+      "instructions": [
+        "Marinate chicken in olive oil, lemon juice, garlic, cumin, coriander, paprika, and turmeric for 2 hours.",
+        "Grill or roast chicken at 220°C until cooked through and slightly charred.",
+        "Slice chicken thinly.",
+        "Serve in flatbread with garlic sauce, tomatoes, cucumbers, and pickled turnip.",
+        "Drizzle with tahini and fresh herbs."
+      ],
+      "ingredients": [
+        { "name": "Chicken thighs", "measure": "700g" },
+        { "name": "Olive oil", "measure": "3 tbsp" },
+        { "name": "Lemon juice", "measure": "3 tbsp" },
+        { "name": "Garlic cloves", "measure": "4" },
+        { "name": "Cumin", "measure": "1 tsp" },
+        { "name":Corian", "measure": "1 tsp" },
+        { "name": "Paprika", "measure": "1 tsp" },
+        { "name": "Turmeric", "measure": "1/2 tsp" },
+        { "name": "Flatbread", "measure": "4" },
+        { "name": "Tahini", "measure": "3 tbsp" }
+      ],
+      "nutrition": { "calories": 440, "protein": 40, "carbs": 28, "fat": 18, "fiber": 3 }
+    },
+    {
+      "id": "r035",
+      "title": "Coq au Vin",
+      "category": "Chicken",
+      "area": "French",
+      "thumbnail": "https://images.unsplash.com/photo-1527477396000-e27163b481c2?w=600",
+      "tags": ["Gluten-Free"],
+      "prepTime": 20,
+      "cookTime": 90,
+      "servings": 4,
+      "instructions": [
+        "Brown chicken pieces in butter and oil in a Dutch oven. Remove.",
+        "Sauté pearl onions, mushrooms, and bacon until golden.",
+        "Add garlic, tomato paste, and flour. Cook 2 minutes.",
+        "Pour in red wine and chicken stock. Add thyme and bay leaf.",
+        "Return chicken, cover and braise at 160°C for 1 hour 15 minutes.",
+        "Adjust seasoning and serve with crusty bread or mashed potatoes."
+      ],
+      "ingredients": [
+        { "name": "Chicken pieces", "measure": "1.5kg" },
+        { "name": "Red wine", "measure": "750ml" },
+        { "name": "Chicken stock", "measure": "300ml" },
+        { "name": "Bacon lardons", "measure": "150g" },
+        { "name": "Pearl onions", "measure": "200g" },
+        { "name": "Mushrooms", "measure": "200g" },
+        { "name": "Garlic cloves", "measure": "3" },
+        { "name": "Tomato paste", "measure": "1 tbsp" },
+        { "name": "Flour", "measure": "2 tbsp" },
+        { "name": "Fresh thyme", "measure": "few sprigs" },
+        { "name": "Bay leaf", "measure": "1" }
+      ],
+      "nutrition": { "calories": 520, "protein": 48, "carbs": 12, "fat": 24, "fiber": 2 }
+    },
+    {
+      "id": "r036",
+      "title": "Chicken Parmigiana",
+      "category": "Chicken",
+      "area": "Italian",
+      "thumbnail": "https://images.unsplash.com/photo-1604908177522-5b84dc4e2555?w=600",
+      "tags": [],
+      "prepTime": 20,
+      "cookTime": 30,
+      "servings": 2,
+      "instructions": [
+        "Pound chicken breasts thin. Dredge in flour, egg, and breadcrumbs.",
+        "Pan-fry in oil until golden on both sides.",
+        "Place on a baking tray, top with tomato sauce and mozzarella.",
+        "Bake at 200°C for 15 minutes until cheese is melted and bubbly.",
+        "Serve with spaghetti and fresh basil."
+      ],
+      "ingredients": [
+        { "name": "Chicken breasts", "measure": "2" },
+        { "name": "Breadcrumbs", "measure": "80g" },
+        { "name": "Eggs", "measure": "2" },
+        { "name": "Flour", "measure": "3 tbsp" },
+        { "name": "Tomato sauce", "measure": "200ml" },
+        { "name": "Mozzarella", "measure": "150g" },
+        { "name": "Parmesan", "measure": "40g" },
+        { "name": "Fresh basil", "measure": "handful" }
+      ],
+      "nutrition": { "calories": 560, "protein": 52, "carbs": 32, "fat": 24, "fiber": 3 }
+    },
+    {
+      "id": "r037",
+      "title": "Chicken Curry",
+      "category": "Chicken",
+      "area": "Indian",
+      "thumbnail": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=600",
+      "tags": ["Gluten-Free"],
+      "prepTime": 15,
+      "cookTime": 35,
+      "servings": 4,
+      "instructions": [
+        "Sauté onion in oil until golden. Add garlic and ginger.",
+        "Add curry powder, cumin, coriander, and turmeric. Cook 2 minutes.",
+        "Add chicken pieces and brown on all sides.",
+        "Pour in coconut milk and crushed tomatoes. Simmer 25 minutes.",
+        "Season with salt and garnish with cilantro.",
+        "Serve with basmati rice or naan."
+      ],
+      "ingredients": [
+        { "name": "Chicken thighs", "measure": "700g" },
+        { "name": "Coconut milk", "measure": "400ml" },
+        { "name": "Crushed tomatoes", "measure": "200g" },
+        { "name": "Onion", "measure": "1 large" },
+        { "name": "Garlic cloves", "measure": "4" },
+        { "name": "Fresh ginger", "measure": "1 tbsp" },
+        { "name": "Curry powder", "measure": "2 tbsp" },
+        { "name": "Cumin", "measure": "1 tsp" },
+        { "name": "Turmeric", "measure": "1 tsp" },
+        { "name": "Fresh cilantro", "measure": "handful" }
+      ],
+      "nutrition": { "calories": 460, "protein": 38, "carbs": 14, "fat": 28, "fiber": 3 }
+    },
+    {
+      "id": "r038",
+      "title": "Chicken Souvlaki",
+      "category": "Chicken",
+      "area": "Greek",
+      "thumbnail": "https://images.unsplash.com/photo-1561651823-34feb02250e4?w=600",
+      "tags": ["Gluten-Free"],
+      "prepTime": 20,
+      "cookTime": 15,
+      "servings": 4,
+      "instructions": [
+        "Cut chicken into cubes and marinate in olive oil, lemon juice, garlic, oregano, and paprika.",
+        "Thread onto skewers and grill over high heat 10-12 minutes, turning occasionally.",
+        "Make tzatziki: mix yogurt, grated cucumber, garlic, dill, and lemon.",
+        "Serve skewers in warm pita with tzatziki, tomatoes, and onion."
+      ],
+      "ingredients": [
+        { "name": "Chicken breast", "measure": "600g" },
+        { "name": "Olive oil", "measure": "4 tbsp" },
+        { "name": "Lemon juice", "measure": "3 tbsp" },
+        { "name": "Garlic cloves", "measure": "3" },
+        { "name": "Dried oregano", "measure": "2 tsp" },
+        { "name": "Pita bread", "measure": "4" },
+        { "name": "Greek yogurt", "measure": "200g" },
+        { "name": "Cucumber", "measure": "1/2" },
+        { "name": "Fresh dill", "measure": "1 tbsp" }
+      ],
+      "nutrition": { "calories": 400, "protein": 42, "carbs": 28, "fat": 14, "fiber": 2 }
+    },
+    {
+      "id": "r039",
+      "title": "Honey Garlic Chicken",
+      "category": "Chicken",
+      "area": "Asian",
+      "thumbnail": "https://images.unsplash.com/photo-1527477396000-e27163b481c2?w=600",
+      "tags": ["Gluten-Free"],
+      "prepTime": 10,
+      "cookTime": 20,
+      "servings": 4,
+      "instructions": [
+        "Season chicken thighs with salt and pepper.",
+        "Pan-sear in oil, skin side down, until golden. Flip and cook 5 more minutes.",
+        "Mix honey, soy sauce, garlic, and butter in a bowl.",
+        "Pour sauce over chicken and cook 5 minutes, basting frequently.",
+        "Garnish with sesame seeds and green onions. Serve with rice."
+      ],
+      "ingredients": [
+        { "name": "Chicken thighs", "measure": "700g" },
+        { "name": "Honey", "measure": "4 tbsp" },
+        { "name": "Soy sauce", "measure": "3 tbsp" },
+        { "name": "Garlic cloves", "measure": "5" },
+        { "name": "Butter", "measure": "2 tbsp" },
+        { "name": "Sesame seeds", "measure": "1 tbsp" },
+        { "name": "Green onions", "measure": "2" }
+      ],
+      "nutrition": { "calories": 420, "protein": 38, "carbs": 22, "fat": 20, "fiber": 0 }
+    },
+    {
+      "id": "r040",
+      "title": "Chicken Tagine with Preserved Lemon",
+      "category": "Chicken",
+      "area": "Moroccan",
+      "thumbnail": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=600",
+      "tags": ["Gluten-Free"],
+      "prepTime": 20,
+      "cookTime": 60,
+      "servings": 4,
+      "instructions": [
+        "Brown chicken pieces in olive oil in a tagine or Dutch oven.",
+        "Sauté onion and garlic until soft. Add ras el hanout, ginger, and saffron.",
+        "Add chicken broth, preserved lemon, and green olives.",
+        "Cover and simmer on low heat for 45 minutes.",
+        "Garnish with fresh cilantro and parsley.",
+        "Serve with couscous or flatbread."
+      ],
+      "ingredients": [
+        { "name": "Chicken pieces", "measure": "1.2kg" },
+        { "name": "Preserved lemon", "measure": "1" },
+        { "name": "Green olives", "measure": "100g" },
+        { "name": "Onion", "measure": "2" },
+        { "name": "Garlic cloves", "measure": "4" },
+        { "name": "Ras el hanout", "measure": "2 tsp" },
+        { "name": "Ground ginger", "measure": "1 tsp" },
+        { "name": "Saffron threads", "measure": "pinch" },
+        { "name": "Chicken broth", "measure": "300ml" },
+        { "name": "Fresh cilantro", "measure": "handful" }
+      ],
+      "nutrition": { "calories": 440, "protein": 46, "carbs": 8, "fat": 24, "fiber": 2 }
+    },
+    {
+      "id": "r041",
+      "title": "Chicken Enchiladas",
+      "category": "Chicken",
+      "area": "Mexican",
+      "thumbnail": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=600",
+      "tags": [],
+      "prepTime": 20,
+      "cookTime": 30,
+      "servings": 4,
+      "instructions": [
+        "Cook and shred chicken breast. Season with cumin, chili powder, and salt.",
+        "Mix chicken with cream cheese and half the shredded cheese.",
+        "Fill tortillas with chicken mixture, roll tightly, and place in a baking dish.",
+        "Pour enchilada sauce over the top and sprinkle with remaining cheese.",
+        "Bake at 180°C for 20 minutes until bubbly.",
+        "Garnish with sour cream, avocado, and cilantro."
+      ],
+      "ingredients": [
+        { "name": "Chicken breast", "measure": "500g" },
+        { "name": "Flour tortillas", "measure": "8" },
+        { "name": "Enchilada sauce", "measure": "400ml" },
+        { "name": "Cheddar cheese", "measure": "200g" },
+        { "name": "Cream cheese", "measure": "100g" },
+        { "name": "Cumin", "measure": "1 tsp" },
+        { "name": "Chili powder", "measure": "1 tsp" },
+        { "name": "Sour cream", "measure": "100ml" }
+      ],
+      "nutrition": { "calories": 540, "protein": 38, "carbs": 44, "fat": 24, "fiber": 3 }
+    },
+    {
+      "id": "r042",
+      "title": "Chicken and Mushroom Pie",
+      "category": "Chicken",
+      "area": "British",
+      "thumbnail": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600",
+      "tags": [],
+      "prepTime": 30,
+      "cookTime": 45,
+      "servings": 6,
+      "instructions": [
+        "Cook diced chicken and mushrooms in butter until golden.",
+        "Make a sauce with flour, chicken stock, and cream. Season well.",
+        "Combine chicken mixture with sauce. Allow to cool.",
+        "Pour filling into a pie dish. Top with puff pastry, crimping edges.",
+        "Brush with egg wash and bake at 200°C for 30 minutes until golden.",
+        "Rest 5 minutes before serving."
+      ],
+      "ingredients": [
+        { "name": "Chicken breast", "measure": "600g" },
+        { "name": "Mushrooms", "measure": "250g" },
+        { "name": "Puff pastry", "measure": "320g" },
+        { "name": "Chicken stock", "measure": "300ml" },
+        { "name": "Heavy cream", "measure": "150ml" },
+        { "name": "Butter", "measure": "40g" },
+        { "name": "Flour", "measure": "3 tbsp" },
+        { "name": "Egg", "measure": "1 for wash" },
+        { "name": "Fresh thyme", "measure": "1 tsp" }
+      ],
+      "nutrition": { "calories": 560, "protein": 36, "carbs": 38, "fat": 30, "fiber": 2 }
+    },
+    {
+      "id": "r043",
+      "title": "Lemon Herb Grilled Chicken",
+      "category": "Chicken",
+      "area": "Mediterranean",
+      "thumbnail": "https://images.unsplash.com/photo-1512852939750-1305098529bf?w=600",
+      "tags": ["Gluten-Free"],
+      "prepTime": 15,
+      "cookTime": 20,
+      "servings": 4,
+      "instructions": [
+        "Mix olive oil, lemon zest, lemon juice, garlic, oregano, and thyme.",
+        "Marinate chicken for at least 30 minutes.",
+        "Grill over medium-high heat for 6-7 minutes per side until cooked through.",
+        "Rest 5 minutes before serving.",
+        "Serve with Greek salad and lemon wedges."
+      ],
+      "ingredients": [
+        { "name": "Chicken breasts", "measure": "4" },
+        { "name": "Olive oil", "measure": "4 tbsp" },
+        { "name": "Lemon", "measure": "2" },
+        { "name": "Garlic cloves", "measure": "3" },
+        { "name": "Dried oregano", "measure": "1 tsp" },
+        { "name": "Fresh thyme", "measure": "1 tsp" },
+        { "name": "Salt and pepper", "measure": "to taste" }
+      ],
+      "nutrition": { "calories": 320, "protein": 46, "carbs": 3, "fat": 14, "fiber": 0 }
+    },
+    {
+      "id": "r044",
+      "title": "Chicken Adobo",
+      "category": "Chicken",
+      "area": "Filipino",
+      "thumbnail": "https://images.unsplash.com/photo-1527477396000-e27163b481c2?w=600",
+      "tags": ["Gluten-Free"],
+      "prepTime": 10,
+      "cookTime": 45,
+      "servings": 4,
+      "instructions": [
+        "Combine soy sauce, vinegar, garlic, bay leaves, and peppercorns in a pot.",
+        "Add chicken pieces and marinate 30 minutes.",
+        "Bring to a boil, then reduce heat and simmer 30 minutes, turning occasionally.",
+        "Remove chicken and pan-fry in oil until golden and crispy.",
+        "Reduce the braising liquid until syrupy and pour over chicken.",
+        "Serve with steamed white rice."
+      ],
+      "ingredients": [
+        { "name": "Chicken thighs", "measure": "1kg" },
+        { "name": "Soy sauce", "measure": "80ml" },
+        { "name": "White vinegar", "measure": "80ml" },
+        { "name": "Garlic cloves", "measure": "6" },
+        { "name": "Bay leaves", "measure": "3" },
+        { "name": "Black peppercorns", "measure": "1 tsp" },
+        { "name": "Oil", "measure": "2 tbsp" }
+      ],
+      "nutrition": { "calories": 420, "protein": 44, "carbs": 6, "fat": 24, "fiber": 0 }
+    },
+    {
+      "id": "r045",
+      "title": "Chicken Schnitzel",
+      "category": "Chicken",
+      "area": "German",
+      "thumbnail": "https://images.unsplash.com/photo-1604908177522-5b84dc4e2555?w=600",
+      "tags": [],
+      "prepTime": 15,
+      "cookTime": 15,
+      "servings": 2,
+      "instructions": [
+        "Pound chicken breasts to 5mm thickness between plastic wrap.",
+        "Season, then coat in flour, beaten egg, and breadcrumbs in that order.",
+        "Pan-fry in clarified butter over medium-high heat, 3-4 minutes per side.",
+        "Drain on paper towels.",
+        "Serve with potato salad, lemon wedges, and lingonberry jam."
+      ],
+      "ingredients": [
+        { "name": "Chicken breasts", "measure": "2 large" },
+        { "name": "Flour", "measure": "3 tbsp" },
+        { "name": "Eggs", "measure": "2" },
+        { "name": "Breadcrumbs", "measure": "100g" },
+        { "name": "Clarified butter", "measure": "80ml" },
+        { "name": "Lemon", "measure": "1" },
+        { "name": "Salt and pepper", "measure": "to taste" }
+      ],
+      "nutrition": { "calories": 480, "protein": 50, "carbs": 28, "fat": 20, "fiber": 1 }
+    },
+    {
+      "id": "r046",
+      "title": "Thai Green Chicken Curry",
+      "category": "Chicken",
+      "area": "Thai",
+      "thumbnail": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=600",
+      "tags": ["Gluten-Free"],
+      "prepTime": 15,
+      "cookTime": 25,
+      "servings": 4,
+      "instructions": [
+        "Fry green curry paste in a wok with a splash of coconut milk for 2 minutes.",
+        "Add sliced chicken and stir-fry until sealed.",
+        "Pour in remaining coconut milk and chicken broth. Bring to a simmer.",
+        "Add Thai eggplant, zucchini, and fish sauce. Cook 10 minutes.",
+        "Stir in fresh basil and lime juice.",
+        "Serve with jasmine rice."
+      ],
+      "ingredients": [
+        { "name": "Chicken breast", "measure": "600g" },
+        { "name": "Coconut milk", "measure": "400ml" },
+        { "name": "Green curry paste", "measure": "3 tbsp" },
+        { "name": "Chicken broth", "measure": "200ml" },
+        { "name": "Thai eggplant", "measure": "200g" },
+        { "name": "Zucchini", "measure": "1" },
+        { "name": "Fish sauce", "measure": "2 tbsp" },
+        { "name": "Fresh Thai basil", "measure": "handful" },
+        { "name": "Lime", "measure": "1" }
+      ],
+      "nutrition": { "calories": 430, "protein": 36, "carbs": 12, "fat": 26, "fiber": 3 }
+    },
+    {
+      "id": "r047",
+      "title": "Chicken Katsu",
+      "category": "Chicken",
+      "area": "Japanese",
+      "thumbnail": "https://images.unsplash.com/photo-1512852939750-1305098529bf?w=600",
+      "tags": [],
+      "prepTime": 15,
+      "cookTime": 15,
+      "servings": 2,
+      "instructions": [
+        "Pound chicken breasts to even thickness. Season with salt and pepper.",
+        "Coat in flour, egg, and panko breadcrumbs.",
+        "Deep-fry at 170°C for 5-6 minutes until golden and cooked through.",
+        "Make katsu sauce: mix Worcestershire, ketchup, soy sauce, and sugar.",
+        "Slice chicken and serve over steamed rice with shredded cabbage and sauce."
+      ],
+      "ingredients": [
+        { "name": "Chicken breasts", "measure": "2" },
+        { "name": "Panko breadcrumbs", "measure": "100g" },
+        { "name": "Flour", "measure": "3 tbsp" },
+        { "name": "Egg", "measure": "1" },
+        { "name": "Worcestershire sauce", "measure": "2 tbsp" },
+        { "name": "Ketchup", "measure": "2 tbsp" },
+        { "name": "Soy sauce", "measure": "1 tbsp" },
+        { "name": "Sugar", "measure": "1 tsp" },
+        { "name": "Cabbage", "measure": "100g shredded" }
+      ],
+      "nutrition": { "calories": 520, "protein": 48, "carbs": 36, "fat": 20, "fiber": 2 }
+    },
+    {
+      "id": "r048",
+      "title": "Chicken Quesadillas",
+      "category": "Chicken",
+      "area": "Mexican",
+      "thumbnail": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=600",
+      "tags": [],
+      "prepTime": 15,
+      "cookTime": 15,
+      "servings": 2,
+      "instructions": [
+        "Season and cook chicken breast, then shred.",
+        "Mix chicken with sautéed peppers, onion, and spices.",
+        "Lay a tortilla flat, add cheese and chicken mixture on half.",
+        "Fold over and cook in a dry pan until golden on both sides.",
+        "Slice into wedges and serve with salsa, sour cream, and guacamole."
+      ],
+      "ingredients": [
+        { "name": "Chicken breast", "measure": "300g" },
+        { "name": "Flour tortillas", "measure": "4 large" },
+        { "name": "Cheddar cheese", "measure": "150g" },
+        { "name": "Bell pepper", "measure": "1" },
+        { "name": "Onion", "measure": "1/2" },
+        { "name": "Cumin", "measure": "1 tsp" },
+        { "name": "Chili powder", "measure": "1/2 tsp" },
+        { "name": "Sour cream", "measure": "to serve" }
+      ],
+      "nutrition": { "calories": 520, "protein": 40, "carbs": 44, "fat": 20, "fiber": 3 }
+    },
+    {
+      "id": "r049",
+      "title": "Chicken Noodle Soup",
+      "category": "Chicken",
+      "area": "American",
+      "thumbnail": "https://images.unsplash.com/photo-1547592180-85f173990554?w=600",
+      "tags": [],
+      "prepTime": 15,
+      "cookTime": 40,
+      "servings": 6,
+      "instructions": [
+        "Simmer whole chicken in water with onion, celery, carrot, and bay leaf for 30 minutes.",
+        "Remove chicken, shred the meat, and discard bones and skin.",
+        "Strain broth and return to pot.",
+        "Add sliced carrots, celery, and onion to the broth. Simmer 10 minutes.",
+        "Add egg noodles and shredded chicken. Cook until noodles are tender.",
+        "Season with salt, pepper, and fresh parsley."
+      ],
+      "ingredients": [
+        { "name": "Chicken pieces", "measure": "1kg" },
+        { "name": "Egg noodles", "measure": "150g" },
+        { "name": "Carrots", "measure": "2" },
+        { "name": "Celery stalks", "measure": "3" },
+        { "name": "Onion", "measure": "1" },
+        { "name": "Garlic cloves", "measure": "3" },
+        { "name": "Bay leaf", "measure": "1" },
+        { "name": "Fresh parsley", "measure": "handful" }
+      ],
+      "nutrition": { "calories": 320, "protein": 30, "carbs": 28, "fat": 10, "fiber": 3 }
+    },
+    {
+      "id": "r050",
+      "title": "Chicken Biryani",
+      "category": "Chicken",
+      "area": "Indian",
+      "thumbnail": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?w=600",
+      "tags": ["Gluten-Free"],
+      "prepTime": 30,
+      "cookTime": 60,
+      "servings": 6,
+      "instructions": [
+        "Marinate chicken in yogurt, biryani spices, and fried onion for 1 hour.",
+        "Parboil basmati rice with whole spices until 70% cooked.",
+        "Layer chicken at the bottom of a heavy pot, top with rice.",
+        "Add saffron milk, fried onions, and ghee.",
+        "Cover tightly and cook on low heat (dum) for 30 minutes.",
+        "Serve with raita and pickled onions."
+      ],
+      "ingredients": [
+        { "name": "Chicken pieces", "measure": "1kg" },
+        { "name": "Basmati rice", "measure": "400g" },
+        { "name": "Plain yogurt", "measure": "200ml" },
+        { "name": "Fried onion", "measure": "2 large" },
+        { "name": "Biryani spice mix", "measure": "3 tbsp" },
+        { "name": "Saffron", "measure": "pinch" },
+        { "name": "Warm milk", "measure": "3 tbsp" },
+        { "name": "Ghee", "measure": "3 tbsp" },
+        { "name": "Fresh mint", "measure": "handful" }
+      ],
+      "nutrition": { "calories": 560, "protein": 42, "carbs": 58, "fat": 18, "fiber": 3 }
+    }
+  ]
+}

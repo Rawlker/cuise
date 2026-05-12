@@ -11,6 +11,9 @@ export interface Recipe {
   isImported?: boolean;
   sourceUrl?: string;
   nutrition?: RecipeNutrition;
+  prepTime?: number;
+  cookTime?: number;
+  servings?: number;
 }
 
 export interface RecipeNutrition {
