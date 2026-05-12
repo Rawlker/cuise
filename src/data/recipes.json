@@ -260,7 +260,8 @@
         { "name": "Garlic cloves", "measure": "3" },
         { "name": "Tomato paste", "measure": "1 tbsp" },
         { "name": "Vegetable broth", "measure": "1 liter" },
-        { "name": "Rosemary", "measure": "1 sprig" },\n        { "name": "Olive oil", "measure": "3 tbsp" }
+        { "name": "Rosemary", "measure": "1 sprig" },
+        { "name": "Olive oil", "measure": "3 tbsp" }
       ],
       "nutrition": { "calories": 380, "protein": 18, "carbs": 62, "fat": 8, "fiber": 12 }
     },
@@ -687,7 +688,8 @@
         { "name": "Rice vinegar", "measure": "1 tbsp" },
         { "name": "Sesame oil", "measure": "1 tbsp" },
         { "name": "Fresh ginger", "measure": "1 tsp" },
-        { "name": "Garlic clove", "measure": "1" },\n        { "name": "Cucumber", "measure": "1/2" },
+        { "name": "Garlic clove", "measure": "1" },
+        { "name": "Cucumber", "measure": "1/2" },
         { "name": "Carrot", "measure": "1" },
         { "name": "Green onions", "measure": "2" },
         { "name": "Sesame seeds", "measure": "1 tbsp" }
@@ -997,7 +999,7 @@
         { "name": "Lemon juice", "measure": "3 tbsp" },
         { "name": "Garlic cloves", "measure": "4" },
         { "name": "Cumin", "measure": "1 tsp" },
-        { "name":Corian", "measure": "1 tsp" },
+        { "name": "Coriander", "measure": "1 tsp" },
         { "name": "Paprika", "measure": "1 tsp" },
         { "name": "Turmeric", "measure": "1/2 tsp" },
         { "name": "Flatbread", "measure": "4" },
