@@ -3,7 +3,7 @@ import { useParams, useNavigate } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import { getRecipeById } from '../api/meals';
 import type { Recipe } from '../types';
-import { ArrowLeft, ShoppingCart, Users, Bookmark, BookmarkCheck, Loader2, Play, Link as LinkIcon, Utensils, Share2, ChefHat, Check } from 'lucide-react';
+import { ArrowLeft, ShoppingCart, Users, Bookmark, BookmarkCheck, Loader2, Play, Link as LinkIcon, Utensils, Share2, ChefHat, Check, ShoppingBag } from 'lucide-react';
 import { scaleMeasure, getShoppingLink, getSubstitutes } from '../utils/helpers';
 import { translateCategory } from '../utils/translations';
 import { Timer } from '../components/Timer';

@@ -128,16 +128,21 @@ export const Home: React.FC = () => {
           </div>
         ) : (
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mt-8">
-            {recipes.map(recipe => (
+            {displayedRecipes.map((recipe: Partial<Recipe>) => (
               <RecipeCard key={recipe.id} recipe={recipe} />
             ))}
           </div>
         )}
 
-        <button className="w-full mt-10 py-4 bg-surface-app rounded-2xl text-text-app/60 font-medium hover:bg-surface-app/80 transition flex items-center justify-center gap-2 group border border-border-app">
-          {t('show_more')}
-          <ChevronRight size={18} className="group-hover:translate-x-1 transition-transform" />
-        </button>
+        {hasMore && !loading && (
+          <button 
+            onClick={handleShowMore}
+            className="w-full mt-10 py-4 bg-surface-app rounded-2xl text-text-app/60 font-medium hover:bg-surface-app/80 transition flex items-center justify-center gap-2 group border border-border-app"
+          >
+            {t('show_more')}
+            <ChevronRight size={18} className="group-hover:translate-x-1 transition-transform" />
+          </button>
+        )}
       </section>
     </div>
   );
