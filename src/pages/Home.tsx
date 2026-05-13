@@ -12,7 +12,8 @@ export const Home: React.FC = () => {
   const [randomRecipe, setRandomRecipe] = useState<Recipe | null>(null);
   const [categories, setCategories] = useState<string[]>([]);
   const [selectedCategory, setSelectedCategory] = useState<string>('');
-  const [recipes, setRecipes] = useState<Partial<Recipe>[]>([]);
+  const [allRecipes, setAllRecipes] = useState<Partial<Recipe>[]>([]);
+  const [visibleCount, setVisibleCount] = useState(8);
   const [loading, setLoading] = useState(false);
 
   useEffect(() => {
@@ -28,12 +29,20 @@ export const Home: React.FC = () => {
   useEffect(() => {
     if (selectedCategory) {
       setLoading(true);
+      setVisibleCount(8);
       getRecipesByCategory(selectedCategory).then(data => {
-        setRecipes(data.slice(0, 8));
+        setAllRecipes(data);
         setLoading(false);
       });
     }
   }, [selectedCategory]);
+
+  const handleShowMore = () => {
+    setVisibleCount(prev => prev + 8);
+  };
+
+  const displayedRecipes = allRecipes.slice(0, visibleCount);
+  const hasMore = visibleCount < allRecipes.length;
 
   return (
     <div className="space-y-12 animate-in fade-in duration-700">

@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Link } from 'react-router-dom';
 import type { Recipe } from '../types';
 import { Bookmark, Link as LinkIcon, X, Utensils, Check } from 'lucide-react';
@@ -12,7 +12,6 @@ interface RecipeCardProps {
 export const RecipeCard: React.FC<RecipeCardProps> = ({ recipe }) => {
   const { t } = useTranslation();
   const { isSaved, saveRecipe, removeRecipe } = useSavedRecipes();
-  const [imageError, setImageError] = useState(false);
   
   const recipeId = recipe.id;
   const saved = recipeId ? isSaved(recipeId) : false;
@@ -37,11 +36,13 @@ export const RecipeCard: React.FC<RecipeCardProps> = ({ recipe }) => {
   return (
     <Link to={`/recipe/${recipeId}`} className="group relative block overflow-hidden rounded-[2rem] bg-surface-app shadow-lg hover:shadow-2xl transition-all duration-500 hover:-translate-y-2 border border-border-app">
       <div className="relative h-56 overflow-hidden bg-bg-app flex items-center justify-center">
-        {!imageError && recipe.thumbnail ? (
+        {recipe.thumbnail ? (
           <img 
             src={recipe.thumbnail} 
             alt={recipe.title} 
-            onError={() => setImageError(true)}
+            onError={(e) => { 
+              e.currentTarget.src = 'https://images.unsplash.com/photo-1495521821757-a1efb6729352?w=600';
+            }}
             className="h-full w-full object-cover transition duration-700 group-hover:scale-110"
           />
         ) : (
