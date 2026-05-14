@@ -16021,6 +16021,3212 @@
         "fat": 10,
         "fiber": 4
       }
+    },
+    {
+      "id": "r251",
+      "title": "Hummus",
+      "category": "Middle Eastern",
+      "area": "Middle Eastern",
+      "thumbnail": "https://images.unsplash.com/photo-1578020190125-f4f7c18bc9cb?w=600",
+      "tags": [
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free"
+      ],
+      "prepTime": 15,
+      "cookTime": 0,
+      "servings": 8,
+      "instructions": [
+        "Drain canned chickpeas, reserving the liquid.",
+        "Blend chickpeas with tahini, lemon juice, garlic, and ice water until ultra smooth.",
+        "Season generously with salt and cumin.",
+        "Spread in a bowl creating a well in the center.",
+        "Drizzle with olive oil and sprinkle with paprika and sumac.",
+        "Serve with warm pita and crudites."
+      ],
+      "ingredients": [
+        {
+          "name": "Chickpeas",
+          "measure": "800g canned"
+        },
+        {
+          "name": "Tahini",
+          "measure": "80ml"
+        },
+        {
+          "name": "Lemon juice",
+          "measure": "60ml"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "2"
+        },
+        {
+          "name": "Ice water",
+          "measure": "60ml"
+        },
+        {
+          "name": "Olive oil",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Cumin",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Paprika",
+          "measure": "to garnish"
+        },
+        {
+          "name": "Sumac",
+          "measure": "to garnish"
+        }
+      ],
+      "nutrition": {
+        "calories": 180,
+        "protein": 8,
+        "carbs": 22,
+        "fat": 8,
+        "fiber": 6
+      }
+    },
+    {
+      "id": "r252",
+      "title": "Tabbouleh",
+      "category": "Middle Eastern",
+      "area": "Lebanese",
+      "thumbnail": "https://images.unsplash.com/photo-1512852939750-1305098529bf?w=600",
+      "tags": [
+        "Vegetarian",
+        "Vegan"
+      ],
+      "prepTime": 20,
+      "cookTime": 0,
+      "servings": 6,
+      "instructions": [
+        "Soak bulgur wheat in boiling water for 20 minutes. Drain and cool.",
+        "Finely chop a large amount of fresh parsley and mint.",
+        "Dice tomatoes and green onions finely.",
+        "Combine everything with bulgur.",
+        "Dress with olive oil, lemon juice, salt, and allspice.",
+        "Rest 30 minutes for flavors to meld. Serve chilled."
+      ],
+      "ingredients": [
+        {
+          "name": "Fine bulgur wheat",
+          "measure": "80g"
+        },
+        {
+          "name": "Fresh parsley",
+          "measure": "200g"
+        },
+        {
+          "name": "Fresh mint",
+          "measure": "60g"
+        },
+        {
+          "name": "Tomatoes",
+          "measure": "3 large"
+        },
+        {
+          "name": "Green onions",
+          "measure": "6"
+        },
+        {
+          "name": "Olive oil",
+          "measure": "60ml"
+        },
+        {
+          "name": "Lemon juice",
+          "measure": "60ml"
+        },
+        {
+          "name": "Allspice",
+          "measure": "1/4 tsp"
+        }
+      ],
+      "nutrition": {
+        "calories": 160,
+        "protein": 4,
+        "carbs": 20,
+        "fat": 8,
+        "fiber": 5
+      }
+    },
+    {
+      "id": "r253",
+      "title": "Lamb Kofta",
+      "category": "Middle Eastern",
+      "area": "Middle Eastern",
+      "thumbnail": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 20,
+      "cookTime": 15,
+      "servings": 4,
+      "instructions": [
+        "Mix ground lamb with grated onion, garlic, cumin, coriander, cinnamon, and parsley.",
+        "Knead well for 2 minutes until sticky.",
+        "Shape onto skewers into elongated cylinders.",
+        "Grill over high heat for 4-5 minutes per side.",
+        "Make yogurt sauce with yogurt, mint, garlic, and lemon.",
+        "Serve with flatbread, salad, and yogurt sauce."
+      ],
+      "ingredients": [
+        {
+          "name": "Ground lamb",
+          "measure": "600g"
+        },
+        {
+          "name": "Onion",
+          "measure": "1 grated"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "3"
+        },
+        {
+          "name": "Cumin",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Coriander powder",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Cinnamon",
+          "measure": "1/2 tsp"
+        },
+        {
+          "name": "Fresh parsley",
+          "measure": "handful"
+        },
+        {
+          "name": "Greek yogurt",
+          "measure": "200ml"
+        },
+        {
+          "name": "Fresh mint",
+          "measure": "handful"
+        },
+        {
+          "name": "Flatbread",
+          "measure": "4"
+        }
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 36,
+        "carbs": 18,
+        "fat": 24,
+        "fiber": 2
+      }
+    },
+    {
+      "id": "r254",
+      "title": "Baba Ganoush",
+      "category": "Middle Eastern",
+      "area": "Middle Eastern",
+      "thumbnail": "https://images.unsplash.com/photo-1578020190125-f4f7c18bc9cb?w=600",
+      "tags": [
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free"
+      ],
+      "prepTime": 10,
+      "cookTime": 40,
+      "servings": 6,
+      "instructions": [
+        "Char eggplants directly over gas flame or under broiler until completely blackened.",
+        "Place in a colander and cool for 20 minutes.",
+        "Peel off blackened skin and squeeze out excess liquid.",
+        "Chop flesh roughly and mix with tahini, lemon, garlic, and salt.",
+        "Spread in a bowl and drizzle with olive oil.",
+        "Garnish with pomegranate seeds and fresh parsley."
+      ],
+      "ingredients": [
+        {
+          "name": "Eggplants",
+          "measure": "2 large"
+        },
+        {
+          "name": "Tahini",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Lemon juice",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "2"
+        },
+        {
+          "name": "Olive oil",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Pomegranate seeds",
+          "measure": "to garnish"
+        },
+        {
+          "name": "Fresh parsley",
+          "measure": "to garnish"
+        }
+      ],
+      "nutrition": {
+        "calories": 120,
+        "protein": 4,
+        "carbs": 14,
+        "fat": 6,
+        "fiber": 5
+      }
+    },
+    {
+      "id": "r255",
+      "title": "Persian Lamb Stew (Ghormeh Sabzi)",
+      "category": "Middle Eastern",
+      "area": "Iranian",
+      "thumbnail": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 30,
+      "cookTime": 150,
+      "servings": 6,
+      "instructions": [
+        "Fry a large amount of chopped parsley, fenugreek, and dried limes until very dark.",
+        "Brown lamb chunks in oil. Add onion and turmeric.",
+        "Add the fried herb mixture, kidney beans, and dried limes.",
+        "Pour in broth and simmer covered for 2 hours.",
+        "Adjust seasoning with salt and lemon.",
+        "Serve with Persian saffron rice."
+      ],
+      "ingredients": [
+        {
+          "name": "Lamb shoulder",
+          "measure": "800g"
+        },
+        {
+          "name": "Fresh parsley",
+          "measure": "200g"
+        },
+        {
+          "name": "Fresh fenugreek",
+          "measure": "100g"
+        },
+        {
+          "name": "Kidney beans",
+          "measure": "400g canned"
+        },
+        {
+          "name": "Dried limes",
+          "measure": "4"
+        },
+        {
+          "name": "Onion",
+          "measure": "1 large"
+        },
+        {
+          "name": "Turmeric",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Beef broth",
+          "measure": "400ml"
+        }
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 38,
+        "carbs": 22,
+        "fat": 20,
+        "fiber": 8
+      }
+    },
+    {
+      "id": "r256",
+      "title": "Manakish",
+      "category": "Middle Eastern",
+      "area": "Lebanese",
+      "thumbnail": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600",
+      "tags": [
+        "Vegetarian"
+      ],
+      "prepTime": 90,
+      "cookTime": 15,
+      "servings": 6,
+      "instructions": [
+        "Make dough with flour, yeast, olive oil, and salt. Rest 1 hour.",
+        "Mix dried zaatar with olive oil to make a paste.",
+        "Divide dough into balls and flatten into rounds.",
+        "Spread zaatar paste generously on each round.",
+        "Bake at 220C for 8-10 minutes until edges are golden.",
+        "Serve immediately with olives, tomatoes, and fresh mint."
+      ],
+      "ingredients": [
+        {
+          "name": "All-purpose flour",
+          "measure": "300g"
+        },
+        {
+          "name": "Dried yeast",
+          "measure": "7g"
+        },
+        {
+          "name": "Olive oil",
+          "measure": "60ml"
+        },
+        {
+          "name": "Zaatar spice blend",
+          "measure": "60g"
+        },
+        {
+          "name": "Extra olive oil",
+          "measure": "60ml for zaatar"
+        },
+        {
+          "name": "Cherry tomatoes",
+          "measure": "to serve"
+        },
+        {
+          "name": "Fresh mint",
+          "measure": "to serve"
+        }
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": 7,
+        "carbs": 44,
+        "fat": 14,
+        "fiber": 4
+      }
+    },
+    {
+      "id": "r257",
+      "title": "Fattoush",
+      "category": "Middle Eastern",
+      "area": "Lebanese",
+      "thumbnail": "https://images.unsplash.com/photo-1512852939750-1305098529bf?w=600",
+      "tags": [
+        "Vegetarian",
+        "Vegan"
+      ],
+      "prepTime": 20,
+      "cookTime": 10,
+      "servings": 4,
+      "instructions": [
+        "Toast or fry pita bread until crispy. Break into pieces.",
+        "Chop romaine, tomatoes, cucumber, radishes, and green onions.",
+        "Make dressing: lemon juice, olive oil, pomegranate molasses, sumac, and garlic.",
+        "Toss vegetables with dressing.",
+        "Add pita chips just before serving.",
+        "Garnish with fresh mint and extra sumac."
+      ],
+      "ingredients": [
+        {
+          "name": "Romaine lettuce",
+          "measure": "1 head"
+        },
+        {
+          "name": "Tomatoes",
+          "measure": "3"
+        },
+        {
+          "name": "Cucumber",
+          "measure": "1"
+        },
+        {
+          "name": "Radishes",
+          "measure": "6"
+        },
+        {
+          "name": "Pita bread",
+          "measure": "2"
+        },
+        {
+          "name": "Pomegranate molasses",
+          "measure": "1 tbsp"
+        },
+        {
+          "name": "Sumac",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Olive oil",
+          "measure": "60ml"
+        },
+        {
+          "name": "Lemon juice",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Fresh mint",
+          "measure": "handful"
+        }
+      ],
+      "nutrition": {
+        "calories": 220,
+        "protein": 5,
+        "carbs": 28,
+        "fat": 10,
+        "fiber": 5
+      }
+    },
+    {
+      "id": "r258",
+      "title": "Lamb Biryani",
+      "category": "Middle Eastern",
+      "area": "Pakistani",
+      "thumbnail": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 40,
+      "cookTime": 90,
+      "servings": 6,
+      "instructions": [
+        "Marinate lamb in yogurt, biryani spices, and fried onions for 2 hours.",
+        "Cook lamb until almost done in a heavy pot.",
+        "Parboil basmati rice with whole spices until 70% cooked.",
+        "Layer rice over lamb. Add saffron milk, fried onions, and ghee.",
+        "Seal with foil and cook on lowest heat for 30 minutes.",
+        "Serve with raita and mint chutney."
+      ],
+      "ingredients": [
+        {
+          "name": "Lamb shoulder",
+          "measure": "800g"
+        },
+        {
+          "name": "Basmati rice",
+          "measure": "400g"
+        },
+        {
+          "name": "Plain yogurt",
+          "measure": "200ml"
+        },
+        {
+          "name": "Fried onions",
+          "measure": "2 large"
+        },
+        {
+          "name": "Biryani spice mix",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Saffron",
+          "measure": "pinch"
+        },
+        {
+          "name": "Warm milk",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Ghee",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Fresh mint",
+          "measure": "handful"
+        }
+      ],
+      "nutrition": {
+        "calories": 580,
+        "protein": 40,
+        "carbs": 60,
+        "fat": 20,
+        "fiber": 3
+      }
+    },
+    {
+      "id": "r259",
+      "title": "Kebab Koobideh",
+      "category": "Middle Eastern",
+      "area": "Iranian",
+      "thumbnail": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 30,
+      "cookTime": 20,
+      "servings": 4,
+      "instructions": [
+        "Grate onion and squeeze out all juice. Mix with ground lamb and beef.",
+        "Add turmeric, pepper, baking soda, and salt. Knead 5 minutes.",
+        "Refrigerate 1 hour.",
+        "Mold onto wide flat skewers using wet hands.",
+        "Grill over hot charcoal for 4 minutes per side.",
+        "Serve with saffron rice, grilled tomatoes, and flatbread."
+      ],
+      "ingredients": [
+        {
+          "name": "Ground lamb",
+          "measure": "400g"
+        },
+        {
+          "name": "Ground beef",
+          "measure": "200g"
+        },
+        {
+          "name": "Onion",
+          "measure": "1 large grated"
+        },
+        {
+          "name": "Turmeric",
+          "measure": "1/2 tsp"
+        },
+        {
+          "name": "Baking soda",
+          "measure": "1/4 tsp"
+        },
+        {
+          "name": "Saffron rice",
+          "measure": "to serve"
+        },
+        {
+          "name": "Grilled tomatoes",
+          "measure": "to serve"
+        },
+        {
+          "name": "Flatbread",
+          "measure": "to serve"
+        }
+      ],
+      "nutrition": {
+        "calories": 440,
+        "protein": 38,
+        "carbs": 4,
+        "fat": 30,
+        "fiber": 0
+      }
+    },
+    {
+      "id": "r260",
+      "title": "Pita with Falafel",
+      "category": "Middle Eastern",
+      "area": "Israeli",
+      "thumbnail": "https://images.unsplash.com/photo-1561651823-34feb02250e4?w=600",
+      "tags": [
+        "Vegetarian",
+        "Vegan"
+      ],
+      "prepTime": 20,
+      "cookTime": 20,
+      "servings": 4,
+      "instructions": [
+        "Blend soaked chickpeas with onion, garlic, cumin, coriander, and parsley.",
+        "Form into balls and deep fry at 180C until golden.",
+        "Make Israeli salad: diced tomato, cucumber, and parsley with lemon and olive oil.",
+        "Warm pita breads.",
+        "Fill with falafel, Israeli salad, and pickles.",
+        "Top generously with tahini sauce."
+      ],
+      "ingredients": [
+        {
+          "name": "Dried chickpeas",
+          "measure": "300g soaked"
+        },
+        {
+          "name": "Pita bread",
+          "measure": "4"
+        },
+        {
+          "name": "Tomatoes",
+          "measure": "2"
+        },
+        {
+          "name": "Cucumber",
+          "measure": "1"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "3"
+        },
+        {
+          "name": "Cumin",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Fresh parsley",
+          "measure": "handful"
+        },
+        {
+          "name": "Tahini",
+          "measure": "4 tbsp"
+        },
+        {
+          "name": "Lemon juice",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Pickles",
+          "measure": "to taste"
+        }
+      ],
+      "nutrition": {
+        "calories": 440,
+        "protein": 18,
+        "carbs": 58,
+        "fat": 16,
+        "fiber": 12
+      }
+    },
+    {
+      "id": "r261",
+      "title": "Moussaka",
+      "category": "Mediterranean",
+      "area": "Greek",
+      "thumbnail": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?w=600",
+      "tags": [],
+      "prepTime": 40,
+      "cookTime": 60,
+      "servings": 8,
+      "instructions": [
+        "Slice and salt eggplant, rest 30 minutes. Pat dry and fry until golden.",
+        "Make meat sauce: brown lamb with onion, garlic, tomatoes, cinnamon, and allspice.",
+        "Make bechamel with butter, flour, milk, and egg yolks.",
+        "Layer eggplant, meat sauce, and bechamel in a baking dish.",
+        "Top with remaining bechamel and Kefalotyri cheese.",
+        "Bake at 180C for 45 minutes until golden. Rest 20 minutes before serving."
+      ],
+      "ingredients": [
+        {
+          "name": "Eggplant",
+          "measure": "2 large"
+        },
+        {
+          "name": "Ground lamb",
+          "measure": "500g"
+        },
+        {
+          "name": "Crushed tomatoes",
+          "measure": "400g"
+        },
+        {
+          "name": "Onion",
+          "measure": "1"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "3"
+        },
+        {
+          "name": "Cinnamon",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Milk",
+          "measure": "600ml"
+        },
+        {
+          "name": "Butter",
+          "measure": "60g"
+        },
+        {
+          "name": "Flour",
+          "measure": "60g"
+        },
+        {
+          "name": "Egg yolks",
+          "measure": "2"
+        },
+        {
+          "name": "Kefalotyri cheese",
+          "measure": "80g"
+        }
+      ],
+      "nutrition": {
+        "calories": 480,
+        "protein": 28,
+        "carbs": 28,
+        "fat": 28,
+        "fiber": 6
+      }
+    },
+    {
+      "id": "r262",
+      "title": "Pasta alla Norma",
+      "category": "Mediterranean",
+      "area": "Italian",
+      "thumbnail": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?w=600",
+      "tags": [
+        "Vegetarian"
+      ],
+      "prepTime": 20,
+      "cookTime": 30,
+      "servings": 4,
+      "instructions": [
+        "Cube and salt eggplant. Rest 30 minutes, pat dry.",
+        "Fry eggplant in olive oil until golden. Drain.",
+        "Make tomato sauce with garlic, crushed tomatoes, and basil.",
+        "Cook rigatoni until al dente.",
+        "Toss pasta with sauce and eggplant.",
+        "Top with ricotta salata and fresh basil."
+      ],
+      "ingredients": [
+        {
+          "name": "Rigatoni",
+          "measure": "300g"
+        },
+        {
+          "name": "Eggplant",
+          "measure": "1 large"
+        },
+        {
+          "name": "Crushed tomatoes",
+          "measure": "400g"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "3"
+        },
+        {
+          "name": "Ricotta salata",
+          "measure": "80g"
+        },
+        {
+          "name": "Fresh basil",
+          "measure": "large handful"
+        },
+        {
+          "name": "Olive oil",
+          "measure": "4 tbsp"
+        }
+      ],
+      "nutrition": {
+        "calories": 480,
+        "protein": 14,
+        "carbs": 72,
+        "fat": 16,
+        "fiber": 7
+      }
+    },
+    {
+      "id": "r263",
+      "title": "Pissaladiere",
+      "category": "Mediterranean",
+      "area": "French",
+      "thumbnail": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600",
+      "tags": [
+        "Vegetarian"
+      ],
+      "prepTime": 30,
+      "cookTime": 60,
+      "servings": 8,
+      "instructions": [
+        "Slowly caramelize sliced onions in olive oil for 45 minutes until very soft and sweet.",
+        "Make or use store-bought pizza dough.",
+        "Roll dough into a rectangle on a baking sheet.",
+        "Spread caramelized onions over the dough.",
+        "Arrange anchovies in a lattice pattern and press olives into diamonds.",
+        "Bake at 200C for 20-25 minutes until crust is golden."
+      ],
+      "ingredients": [
+        {
+          "name": "Onions",
+          "measure": "1.5kg"
+        },
+        {
+          "name": "Pizza dough",
+          "measure": "400g"
+        },
+        {
+          "name": "Anchovy fillets",
+          "measure": "20"
+        },
+        {
+          "name": "Nicoise olives",
+          "measure": "100g"
+        },
+        {
+          "name": "Olive oil",
+          "measure": "4 tbsp"
+        },
+        {
+          "name": "Fresh thyme",
+          "measure": "few sprigs"
+        }
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": 10,
+        "carbs": 42,
+        "fat": 12,
+        "fiber": 4
+      }
+    },
+    {
+      "id": "r264",
+      "title": "Grilled Sardines with Salsa Verde",
+      "category": "Mediterranean",
+      "area": "Portuguese",
+      "thumbnail": "https://images.unsplash.com/photo-1519984388953-d2406bc725e1?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 15,
+      "cookTime": 10,
+      "servings": 4,
+      "instructions": [
+        "Clean and butterfly fresh sardines.",
+        "Season with olive oil, salt, and pepper.",
+        "Grill over very high heat for 2-3 minutes per side.",
+        "Make salsa verde: blend parsley, capers, anchovy, garlic, lemon, and olive oil.",
+        "Serve sardines immediately with salsa verde.",
+        "Accompany with grilled bread and lemon wedges."
+      ],
+      "ingredients": [
+        {
+          "name": "Fresh sardines",
+          "measure": "12"
+        },
+        {
+          "name": "Fresh parsley",
+          "measure": "60g"
+        },
+        {
+          "name": "Capers",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Anchovy fillets",
+          "measure": "3"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "1"
+        },
+        {
+          "name": "Lemon",
+          "measure": "2"
+        },
+        {
+          "name": "Olive oil",
+          "measure": "80ml"
+        }
+      ],
+      "nutrition": {
+        "calories": 280,
+        "protein": 32,
+        "carbs": 2,
+        "fat": 16,
+        "fiber": 0
+      }
+    },
+    {
+      "id": "r265",
+      "title": "Socca",
+      "category": "Mediterranean",
+      "area": "French",
+      "thumbnail": "https://images.unsplash.com/photo-1604908177522-5b84dc4e2555?w=600",
+      "tags": [
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free"
+      ],
+      "prepTime": 40,
+      "cookTime": 15,
+      "servings": 4,
+      "instructions": [
+        "Mix chickpea flour with water, olive oil, salt, and cumin until smooth.",
+        "Rest for 30 minutes.",
+        "Heat a cast iron pan with olive oil under the broiler until smoking.",
+        "Pour in batter and broil for 5-8 minutes until edges are crispy.",
+        "The center should be slightly soft.",
+        "Season with black pepper and serve immediately with rosemary and sea salt."
+      ],
+      "ingredients": [
+        {
+          "name": "Chickpea flour",
+          "measure": "200g"
+        },
+        {
+          "name": "Water",
+          "measure": "300ml"
+        },
+        {
+          "name": "Olive oil",
+          "measure": "4 tbsp"
+        },
+        {
+          "name": "Cumin",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Salt",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Fresh rosemary",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Black pepper",
+          "measure": "to taste"
+        }
+      ],
+      "nutrition": {
+        "calories": 240,
+        "protein": 10,
+        "carbs": 28,
+        "fat": 10,
+        "fiber": 5
+      }
+    },
+    {
+      "id": "r266",
+      "title": "Borek",
+      "category": "Mediterranean",
+      "area": "Turkish",
+      "thumbnail": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600",
+      "tags": [
+        "Vegetarian"
+      ],
+      "prepTime": 30,
+      "cookTime": 40,
+      "servings": 8,
+      "instructions": [
+        "Make filling: mix crumbled feta with cooked spinach and eggs.",
+        "Brush phyllo sheets with olive oil and butter mixture.",
+        "Layer 4 sheets, add filling, and roll into a log.",
+        "Coil the log into a spiral in a round baking dish.",
+        "Brush top with egg yolk mixed with milk.",
+        "Bake at 180C for 35-40 minutes until deeply golden."
+      ],
+      "ingredients": [
+        {
+          "name": "Phyllo pastry",
+          "measure": "400g"
+        },
+        {
+          "name": "Feta cheese",
+          "measure": "300g"
+        },
+        {
+          "name": "Spinach",
+          "measure": "300g cooked"
+        },
+        {
+          "name": "Eggs",
+          "measure": "2"
+        },
+        {
+          "name": "Butter",
+          "measure": "100g melted"
+        },
+        {
+          "name": "Olive oil",
+          "measure": "60ml"
+        },
+        {
+          "name": "Egg yolk",
+          "measure": "1 for glaze"
+        },
+        {
+          "name": "Milk",
+          "measure": "1 tbsp for glaze"
+        }
+      ],
+      "nutrition": {
+        "calories": 360,
+        "protein": 14,
+        "carbs": 30,
+        "fat": 22,
+        "fiber": 3
+      }
+    },
+    {
+      "id": "r267",
+      "title": "Risotto al Limone",
+      "category": "Mediterranean",
+      "area": "Italian",
+      "thumbnail": "https://images.unsplash.com/photo-1534080564583-6be75777b70a?w=600",
+      "tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "prepTime": 10,
+      "cookTime": 30,
+      "servings": 4,
+      "instructions": [
+        "Saute shallots in butter until soft. Add arborio rice and toast.",
+        "Add white wine and stir until absorbed.",
+        "Add warm broth ladle by ladle, stirring constantly.",
+        "After 20 minutes, remove from heat.",
+        "Stir in butter, Parmesan, lemon zest, and lemon juice.",
+        "Rest 2 minutes. Serve with extra Parmesan and fresh basil."
+      ],
+      "ingredients": [
+        {
+          "name": "Arborio rice",
+          "measure": "300g"
+        },
+        {
+          "name": "Vegetable broth",
+          "measure": "1 liter warm"
+        },
+        {
+          "name": "White wine",
+          "measure": "150ml"
+        },
+        {
+          "name": "Shallots",
+          "measure": "2"
+        },
+        {
+          "name": "Butter",
+          "measure": "60g"
+        },
+        {
+          "name": "Parmesan",
+          "measure": "80g"
+        },
+        {
+          "name": "Lemon",
+          "measure": "2 zested and juiced"
+        },
+        {
+          "name": "Fresh basil",
+          "measure": "handful"
+        }
+      ],
+      "nutrition": {
+        "calories": 440,
+        "protein": 12,
+        "carbs": 64,
+        "fat": 14,
+        "fiber": 2
+      }
+    },
+    {
+      "id": "r268",
+      "title": "Osso Buco",
+      "category": "Mediterranean",
+      "area": "Italian",
+      "thumbnail": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 20,
+      "cookTime": 120,
+      "servings": 4,
+      "instructions": [
+        "Season veal shanks and dredge in flour.",
+        "Brown on both sides in olive oil. Remove.",
+        "Saute onion, carrot, and celery until soft.",
+        "Add white wine and reduce. Add tomatoes and broth.",
+        "Return veal, cover and braise at 160C for 1.5-2 hours.",
+        "Make gremolata: lemon zest, garlic, and parsley. Serve over saffron risotto."
+      ],
+      "ingredients": [
+        {
+          "name": "Veal shanks",
+          "measure": "4 x 350g"
+        },
+        {
+          "name": "White wine",
+          "measure": "200ml"
+        },
+        {
+          "name": "Chicken broth",
+          "measure": "400ml"
+        },
+        {
+          "name": "Crushed tomatoes",
+          "measure": "200g"
+        },
+        {
+          "name": "Onion",
+          "measure": "1"
+        },
+        {
+          "name": "Carrot",
+          "measure": "1"
+        },
+        {
+          "name": "Celery stalk",
+          "measure": "2"
+        },
+        {
+          "name": "Flour",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Lemon zest",
+          "measure": "1 lemon"
+        },
+        {
+          "name": "Fresh parsley",
+          "measure": "handful"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "2"
+        }
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 52,
+        "carbs": 14,
+        "fat": 24,
+        "fiber": 2
+      }
+    },
+    {
+      "id": "r269",
+      "title": "Gambas al Ajillo",
+      "category": "Mediterranean",
+      "area": "Spanish",
+      "thumbnail": "https://images.unsplash.com/photo-1559737558-2f5a35f4523b?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 10,
+      "cookTime": 10,
+      "servings": 4,
+      "instructions": [
+        "Heat olive oil generously in a clay pot or heavy pan.",
+        "Add thinly sliced garlic and dried red chili. Cook until golden.",
+        "Add shrimp in a single layer.",
+        "Cook 1-2 minutes per side until just pink.",
+        "Add sherry or white wine and let it sizzle.",
+        "Season with salt and garnish with fresh parsley. Serve sizzling with crusty bread."
+      ],
+      "ingredients": [
+        {
+          "name": "Large shrimp",
+          "measure": "500g"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "8"
+        },
+        {
+          "name": "Olive oil",
+          "measure": "100ml"
+        },
+        {
+          "name": "Dried red chili",
+          "measure": "2"
+        },
+        {
+          "name": "Dry sherry",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Fresh parsley",
+          "measure": "handful"
+        },
+        {
+          "name": "Salt",
+          "measure": "to taste"
+        }
+      ],
+      "nutrition": {
+        "calories": 280,
+        "protein": 26,
+        "carbs": 4,
+        "fat": 18,
+        "fiber": 0
+      }
+    },
+    {
+      "id": "r270",
+      "title": "Panzanella",
+      "category": "Mediterranean",
+      "area": "Italian",
+      "thumbnail": "https://images.unsplash.com/photo-1512852939750-1305098529bf?w=600",
+      "tags": [
+        "Vegetarian",
+        "Vegan"
+      ],
+      "prepTime": 20,
+      "cookTime": 10,
+      "servings": 6,
+      "instructions": [
+        "Tear stale bread into chunks and toast in olive oil until golden.",
+        "Chop ripe tomatoes, cucumber, red onion, and basil.",
+        "Make dressing: red wine vinegar, olive oil, garlic, and salt.",
+        "Toss bread with tomatoes and dress generously.",
+        "Let sit 20 minutes so bread absorbs the juices.",
+        "Serve at room temperature with extra basil."
+      ],
+      "ingredients": [
+        {
+          "name": "Stale ciabatta",
+          "measure": "300g"
+        },
+        {
+          "name": "Ripe tomatoes",
+          "measure": "600g"
+        },
+        {
+          "name": "Cucumber",
+          "measure": "1"
+        },
+        {
+          "name": "Red onion",
+          "measure": "1/2"
+        },
+        {
+          "name": "Fresh basil",
+          "measure": "large handful"
+        },
+        {
+          "name": "Red wine vinegar",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Olive oil",
+          "measure": "80ml"
+        },
+        {
+          "name": "Garlic clove",
+          "measure": "1"
+        }
+      ],
+      "nutrition": {
+        "calories": 280,
+        "protein": 6,
+        "carbs": 38,
+        "fat": 12,
+        "fiber": 4
+      }
+    },
+    {
+      "id": "r271",
+      "title": "Tortilla Espanola",
+      "category": "Mediterranean",
+      "area": "Spanish",
+      "thumbnail": "https://images.unsplash.com/photo-1604908177522-5b84dc4e2555?w=600",
+      "tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "prepTime": 15,
+      "cookTime": 35,
+      "servings": 6,
+      "instructions": [
+        "Slowly fry thin potato slices and onion in a generous amount of olive oil for 20 minutes.",
+        "Drain potatoes and mix with beaten eggs. Season well.",
+        "Return mixture to a medium pan with some oil.",
+        "Cook on low heat until edges set.",
+        "Flip using a plate and slide back in. Cook 3 more minutes.",
+        "Rest 5 minutes. Serve warm or at room temperature."
+      ],
+      "ingredients": [
+        {
+          "name": "Potatoes",
+          "measure": "600g"
+        },
+        {
+          "name": "Eggs",
+          "measure": "6"
+        },
+        {
+          "name": "Onion",
+          "measure": "1 large"
+        },
+        {
+          "name": "Olive oil",
+          "measure": "150ml"
+        },
+        {
+          "name": "Salt",
+          "measure": "to taste"
+        }
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": 12,
+        "carbs": 28,
+        "fat": 18,
+        "fiber": 3
+      }
+    },
+    {
+      "id": "r272",
+      "title": "Puttanesca Pizza",
+      "category": "Mediterranean",
+      "area": "Italian",
+      "thumbnail": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600",
+      "tags": [],
+      "prepTime": 90,
+      "cookTime": 15,
+      "servings": 2,
+      "instructions": [
+        "Make or use pizza dough. Stretch into a thin round.",
+        "Spread crushed tomatoes with garlic and olive oil.",
+        "Top with anchovies, black olives, capers, and chili flakes.",
+        "Add torn mozzarella.",
+        "Bake at 250C for 10-12 minutes until charred and bubbling.",
+        "Finish with fresh parsley and extra olive oil."
+      ],
+      "ingredients": [
+        {
+          "name": "Pizza dough",
+          "measure": "250g"
+        },
+        {
+          "name": "Crushed tomatoes",
+          "measure": "150ml"
+        },
+        {
+          "name": "Mozzarella",
+          "measure": "150g"
+        },
+        {
+          "name": "Anchovy fillets",
+          "measure": "6"
+        },
+        {
+          "name": "Black olives",
+          "measure": "60g"
+        },
+        {
+          "name": "Capers",
+          "measure": "1 tbsp"
+        },
+        {
+          "name": "Chili flakes",
+          "measure": "1/2 tsp"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "2"
+        },
+        {
+          "name": "Fresh parsley",
+          "measure": "handful"
+        }
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 22,
+        "carbs": 60,
+        "fat": 22,
+        "fiber": 4
+      }
+    },
+    {
+      "id": "r273",
+      "title": "Brodetto di Pesce",
+      "category": "Mediterranean",
+      "area": "Italian",
+      "thumbnail": "https://images.unsplash.com/photo-1547592180-85f173990554?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 20,
+      "cookTime": 35,
+      "servings": 6,
+      "instructions": [
+        "Saute onion, garlic, and chili in olive oil.",
+        "Add white wine and vinegar. Reduce by half.",
+        "Add crushed tomatoes and fish broth. Simmer 15 minutes.",
+        "Add firm fish first, then shellfish in order of cooking time.",
+        "Cover and cook until all seafood is just done.",
+        "Serve with grilled bread rubbed with garlic."
+      ],
+      "ingredients": [
+        {
+          "name": "Mixed fish fillets",
+          "measure": "500g"
+        },
+        {
+          "name": "Mussels",
+          "measure": "300g"
+        },
+        {
+          "name": "Shrimp",
+          "measure": "200g"
+        },
+        {
+          "name": "Squid",
+          "measure": "200g"
+        },
+        {
+          "name": "Crushed tomatoes",
+          "measure": "400g"
+        },
+        {
+          "name": "Fish broth",
+          "measure": "400ml"
+        },
+        {
+          "name": "White wine",
+          "measure": "150ml"
+        },
+        {
+          "name": "White wine vinegar",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Onion",
+          "measure": "1"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "4"
+        },
+        {
+          "name": "Chili flakes",
+          "measure": "1/2 tsp"
+        }
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": 36,
+        "carbs": 12,
+        "fat": 10,
+        "fiber": 3
+      }
+    },
+    {
+      "id": "r274",
+      "title": "Dolmades",
+      "category": "Mediterranean",
+      "area": "Greek",
+      "thumbnail": "https://images.unsplash.com/photo-1546964124-0cce460f38ef?w=600",
+      "tags": [
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free"
+      ],
+      "prepTime": 45,
+      "cookTime": 45,
+      "servings": 8,
+      "instructions": [
+        "Rinse grape leaves and blanch briefly in hot water.",
+        "Make filling: mix rice, onion, pine nuts, currants, mint, and olive oil.",
+        "Place a spoonful of filling at the base of each leaf. Fold sides in and roll.",
+        "Layer seam side down in a pot lined with lemon slices.",
+        "Pour lemon juice, olive oil, and water over. Weigh down with a plate.",
+        "Simmer covered for 40-45 minutes. Serve with tzatziki."
+      ],
+      "ingredients": [
+        {
+          "name": "Grape leaves",
+          "measure": "40 preserved"
+        },
+        {
+          "name": "Rice",
+          "measure": "200g"
+        },
+        {
+          "name": "Onion",
+          "measure": "1 large"
+        },
+        {
+          "name": "Pine nuts",
+          "measure": "40g"
+        },
+        {
+          "name": "Currants",
+          "measure": "40g"
+        },
+        {
+          "name": "Fresh mint",
+          "measure": "handful"
+        },
+        {
+          "name": "Fresh dill",
+          "measure": "handful"
+        },
+        {
+          "name": "Olive oil",
+          "measure": "80ml"
+        },
+        {
+          "name": "Lemon juice",
+          "measure": "80ml"
+        }
+      ],
+      "nutrition": {
+        "calories": 220,
+        "protein": 4,
+        "carbs": 32,
+        "fat": 9,
+        "fiber": 3
+      }
+    },
+    {
+      "id": "r275",
+      "title": "Caponata",
+      "category": "Mediterranean",
+      "area": "Italian",
+      "thumbnail": "https://images.unsplash.com/photo-1607532941433-304659e8198a?w=600",
+      "tags": [
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free"
+      ],
+      "prepTime": 20,
+      "cookTime": 40,
+      "servings": 6,
+      "instructions": [
+        "Fry cubed eggplant in olive oil until golden. Drain.",
+        "Saute celery, onion, and capers.",
+        "Add crushed tomatoes, olives, and sugar.",
+        "Add red wine vinegar and cook until absorbed.",
+        "Fold in eggplant and toasted pine nuts.",
+        "Rest at room temperature for 1 hour. Serve as antipasto."
+      ],
+      "ingredients": [
+        {
+          "name": "Eggplant",
+          "measure": "2 large"
+        },
+        {
+          "name": "Celery stalks",
+          "measure": "3"
+        },
+        {
+          "name": "Onion",
+          "measure": "1"
+        },
+        {
+          "name": "Crushed tomatoes",
+          "measure": "400g"
+        },
+        {
+          "name": "Green olives",
+          "measure": "80g"
+        },
+        {
+          "name": "Capers",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Red wine vinegar",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Sugar",
+          "measure": "1 tbsp"
+        },
+        {
+          "name": "Pine nuts",
+          "measure": "40g"
+        },
+        {
+          "name": "Olive oil",
+          "measure": "4 tbsp"
+        }
+      ],
+      "nutrition": {
+        "calories": 200,
+        "protein": 4,
+        "carbs": 22,
+        "fat": 12,
+        "fiber": 7
+      }
+    },
+    {
+      "id": "r276",
+      "title": "Tzatziki",
+      "category": "Mediterranean",
+      "area": "Greek",
+      "thumbnail": "https://images.unsplash.com/photo-1578020190125-f4f7c18bc9cb?w=600",
+      "tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "prepTime": 15,
+      "cookTime": 0,
+      "servings": 8,
+      "instructions": [
+        "Grate cucumber and squeeze out all moisture in a cloth.",
+        "Mix drained cucumber with thick Greek yogurt.",
+        "Add minced garlic, olive oil, lemon juice, and salt.",
+        "Fold in freshly chopped dill and mint.",
+        "Refrigerate at least 1 hour for flavors to develop.",
+        "Serve drizzled with olive oil and a sprig of dill."
+      ],
+      "ingredients": [
+        {
+          "name": "Greek yogurt",
+          "measure": "500g"
+        },
+        {
+          "name": "Cucumber",
+          "measure": "1 large"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "2"
+        },
+        {
+          "name": "Olive oil",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Lemon juice",
+          "measure": "1 tbsp"
+        },
+        {
+          "name": "Fresh dill",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Fresh mint",
+          "measure": "1 tbsp"
+        }
+      ],
+      "nutrition": {
+        "calories": 80,
+        "protein": 6,
+        "carbs": 6,
+        "fat": 3,
+        "fiber": 0
+      }
+    },
+    {
+      "id": "r277",
+      "title": "Caldo Verde",
+      "category": "Mediterranean",
+      "area": "Portuguese",
+      "thumbnail": "https://images.unsplash.com/photo-1547592180-85f173990554?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 15,
+      "cookTime": 35,
+      "servings": 6,
+      "instructions": [
+        "Saute onion and garlic in olive oil until soft.",
+        "Add sliced chorizo and cook 3 minutes.",
+        "Add diced potatoes and chicken broth. Simmer 20 minutes.",
+        "Mash some potatoes in the pot to thicken the soup.",
+        "Add very thinly shredded kale and cook 5 minutes.",
+        "Season and serve with crusty bread and drizzle of olive oil."
+      ],
+      "ingredients": [
+        {
+          "name": "Potatoes",
+          "measure": "600g"
+        },
+        {
+          "name": "Kale",
+          "measure": "300g"
+        },
+        {
+          "name": "Chorizo",
+          "measure": "150g"
+        },
+        {
+          "name": "Onion",
+          "measure": "1"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "3"
+        },
+        {
+          "name": "Chicken broth",
+          "measure": "1.2 liters"
+        },
+        {
+          "name": "Olive oil",
+          "measure": "3 tbsp"
+        }
+      ],
+      "nutrition": {
+        "calories": 280,
+        "protein": 12,
+        "carbs": 32,
+        "fat": 12,
+        "fiber": 5
+      }
+    },
+    {
+      "id": "r278",
+      "title": "Acqua Pazza",
+      "category": "Mediterranean",
+      "area": "Italian",
+      "thumbnail": "https://images.unsplash.com/photo-1519984388953-d2406bc725e1?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 10,
+      "cookTime": 20,
+      "servings": 4,
+      "instructions": [
+        "Saute garlic and chili in olive oil in a wide pan.",
+        "Add cherry tomatoes and cook until burst.",
+        "Add white wine and let it reduce.",
+        "Pour in water or fish broth.",
+        "Add fish fillets skin side down. Spoon liquid over fish.",
+        "Cook 8-10 minutes until fish is just done. Serve with bread."
+      ],
+      "ingredients": [
+        {
+          "name": "Sea bass fillets",
+          "measure": "4"
+        },
+        {
+          "name": "Cherry tomatoes",
+          "measure": "300g"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "4"
+        },
+        {
+          "name": "White wine",
+          "measure": "100ml"
+        },
+        {
+          "name": "Water or fish broth",
+          "measure": "200ml"
+        },
+        {
+          "name": "Chili flakes",
+          "measure": "1/2 tsp"
+        },
+        {
+          "name": "Olive oil",
+          "measure": "4 tbsp"
+        },
+        {
+          "name": "Fresh parsley",
+          "measure": "handful"
+        }
+      ],
+      "nutrition": {
+        "calories": 280,
+        "protein": 36,
+        "carbs": 8,
+        "fat": 12,
+        "fiber": 2
+      }
+    },
+    {
+      "id": "r279",
+      "title": "Lamb Souvlaki",
+      "category": "Mediterranean",
+      "area": "Greek",
+      "thumbnail": "https://images.unsplash.com/photo-1561651823-34feb02250e4?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 20,
+      "cookTime": 15,
+      "servings": 4,
+      "instructions": [
+        "Cut lamb into cubes. Marinate in olive oil, lemon, garlic, and oregano.",
+        "Thread onto skewers alternating with peppers and onion.",
+        "Grill over high heat for 10-12 minutes, turning frequently.",
+        "Make tzatziki with yogurt, cucumber, garlic, and dill.",
+        "Serve in warm pita with tzatziki, tomato, and onion."
+      ],
+      "ingredients": [
+        {
+          "name": "Lamb leg",
+          "measure": "600g cubed"
+        },
+        {
+          "name": "Bell peppers",
+          "measure": "2"
+        },
+        {
+          "name": "Red onion",
+          "measure": "1"
+        },
+        {
+          "name": "Olive oil",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Lemon juice",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "3"
+        },
+        {
+          "name": "Dried oregano",
+          "measure": "2 tsp"
+        },
+        {
+          "name": "Pita bread",
+          "measure": "4"
+        },
+        {
+          "name": "Tzatziki",
+          "measure": "200ml"
+        }
+      ],
+      "nutrition": {
+        "calories": 440,
+        "protein": 40,
+        "carbs": 28,
+        "fat": 18,
+        "fiber": 3
+      }
+    },
+    {
+      "id": "r280",
+      "title": "Tiella di Riso, Patate e Cozze",
+      "category": "Mediterranean",
+      "area": "Italian",
+      "thumbnail": "https://images.unsplash.com/photo-1534080564583-6be75777b70a?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 30,
+      "cookTime": 60,
+      "servings": 6,
+      "instructions": [
+        "Scrub and open mussels. Reserve the liquid.",
+        "Layer sliced potatoes in an oiled baking dish.",
+        "Add a layer of raw arborio rice mixed with tomatoes and onion.",
+        "Arrange mussels on top, still in their shells.",
+        "Pour mussel liquid, water, and olive oil over everything.",
+        "Top with Pecorino and bake at 180C for 50-60 minutes until rice is cooked."
+      ],
+      "ingredients": [
+        {
+          "name": "Mussels",
+          "measure": "1kg"
+        },
+        {
+          "name": "Potatoes",
+          "measure": "400g"
+        },
+        {
+          "name": "Arborio rice",
+          "measure": "200g"
+        },
+        {
+          "name": "Cherry tomatoes",
+          "measure": "200g"
+        },
+        {
+          "name": "Onion",
+          "measure": "1"
+        },
+        {
+          "name": "Pecorino",
+          "measure": "60g"
+        },
+        {
+          "name": "Olive oil",
+          "measure": "4 tbsp"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "3"
+        },
+        {
+          "name": "Fresh parsley",
+          "measure": "handful"
+        }
+      ],
+      "nutrition": {
+        "calories": 380,
+        "protein": 20,
+        "carbs": 48,
+        "fat": 12,
+        "fiber": 4
+      }
+    },
+    {
+      "id": "r281",
+      "title": "Shakshuka with Merguez",
+      "category": "Mediterranean",
+      "area": "Tunisian",
+      "thumbnail": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 15,
+      "cookTime": 30,
+      "servings": 4,
+      "instructions": [
+        "Brown merguez sausage in a pan, breaking it up.",
+        "Add onion, peppers, and garlic. Cook until soft.",
+        "Add harissa, cumin, and smoked paprika.",
+        "Pour in crushed tomatoes and simmer 15 minutes.",
+        "Create wells and crack in eggs. Cover and cook 5-7 minutes.",
+        "Garnish with feta, cilantro, and serve with crusty bread."
+      ],
+      "ingredients": [
+        {
+          "name": "Merguez sausage",
+          "measure": "300g"
+        },
+        {
+          "name": "Eggs",
+          "measure": "6"
+        },
+        {
+          "name": "Crushed tomatoes",
+          "measure": "800g"
+        },
+        {
+          "name": "Red peppers",
+          "measure": "2"
+        },
+        {
+          "name": "Onion",
+          "measure": "1"
+        },
+        {
+          "name": "Harissa paste",
+          "measure": "1 tbsp"
+        },
+        {
+          "name": "Cumin",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Smoked paprika",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Feta cheese",
+          "measure": "80g"
+        }
+      ],
+      "nutrition": {
+        "calories": 380,
+        "protein": 24,
+        "carbs": 18,
+        "fat": 24,
+        "fiber": 5
+      }
+    },
+    {
+      "id": "r282",
+      "title": "Salade Nicoise",
+      "category": "Mediterranean",
+      "area": "French",
+      "thumbnail": "https://images.unsplash.com/photo-1512852939750-1305098529bf?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 25,
+      "cookTime": 15,
+      "servings": 4,
+      "instructions": [
+        "Boil eggs for 7 minutes. Cool and quarter.",
+        "Blanch green beans until just tender. Rinse in cold water.",
+        "Boil potatoes until tender. Quarter.",
+        "Make dressing: Dijon mustard, olive oil, lemon, anchovies, and herbs.",
+        "Sear tuna steaks rare in a hot pan.",
+        "Arrange lettuce, tomatoes, olives, eggs, beans, potatoes, and tuna. Dress and serve."
+      ],
+      "ingredients": [
+        {
+          "name": "Tuna steaks",
+          "measure": "4 x 150g"
+        },
+        {
+          "name": "Eggs",
+          "measure": "4"
+        },
+        {
+          "name": "Green beans",
+          "measure": "200g"
+        },
+        {
+          "name": "Baby potatoes",
+          "measure": "300g"
+        },
+        {
+          "name": "Cherry tomatoes",
+          "measure": "200g"
+        },
+        {
+          "name": "Nicoise olives",
+          "measure": "80g"
+        },
+        {
+          "name": "Romaine lettuce",
+          "measure": "1 head"
+        },
+        {
+          "name": "Anchovy fillets",
+          "measure": "8"
+        },
+        {
+          "name": "Dijon mustard",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Olive oil",
+          "measure": "60ml"
+        }
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 40,
+        "carbs": 22,
+        "fat": 18,
+        "fiber": 5
+      }
+    },
+    {
+      "id": "r283",
+      "title": "Imam Bayildi",
+      "category": "Mediterranean",
+      "area": "Turkish",
+      "thumbnail": "https://images.unsplash.com/photo-1607532941433-304659e8198a?w=600",
+      "tags": [
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free"
+      ],
+      "prepTime": 20,
+      "cookTime": 60,
+      "servings": 4,
+      "instructions": [
+        "Halve eggplants lengthwise. Score flesh and fry skin side down in olive oil.",
+        "Make filling: saute onion, garlic, and tomatoes with spices.",
+        "Fill eggplant halves with the tomato mixture.",
+        "Place in a baking dish and pour olive oil and water around them.",
+        "Bake covered at 180C for 45 minutes.",
+        "Serve at room temperature with yogurt and bread."
+      ],
+      "ingredients": [
+        {
+          "name": "Eggplants",
+          "measure": "4 medium"
+        },
+        {
+          "name": "Tomatoes",
+          "measure": "4 large"
+        },
+        {
+          "name": "Onion",
+          "measure": "2 large"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "6"
+        },
+        {
+          "name": "Fresh parsley",
+          "measure": "handful"
+        },
+        {
+          "name": "Olive oil",
+          "measure": "100ml"
+        },
+        {
+          "name": "Cumin",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Allspice",
+          "measure": "1/2 tsp"
+        }
+      ],
+      "nutrition": {
+        "calories": 240,
+        "protein": 4,
+        "carbs": 22,
+        "fat": 16,
+        "fiber": 8
+      }
+    },
+    {
+      "id": "r284",
+      "title": "Loukoumades",
+      "category": "Mediterranean",
+      "area": "Greek",
+      "thumbnail": "https://images.unsplash.com/photo-1608198093002-ad4e005484ec?w=600",
+      "tags": [
+        "Vegetarian"
+      ],
+      "prepTime": 60,
+      "cookTime": 20,
+      "servings": 6,
+      "instructions": [
+        "Mix flour, yeast, salt, and warm water into a thin batter. Rest 1 hour.",
+        "Heat oil to 180C for deep frying.",
+        "Drop tablespoons of batter into oil using a wet spoon.",
+        "Fry until puffed and golden, turning constantly.",
+        "Drain and immediately drizzle with honey.",
+        "Sprinkle with cinnamon and crushed walnuts. Serve warm."
+      ],
+      "ingredients": [
+        {
+          "name": "All-purpose flour",
+          "measure": "250g"
+        },
+        {
+          "name": "Dried yeast",
+          "measure": "7g"
+        },
+        {
+          "name": "Warm water",
+          "measure": "350ml"
+        },
+        {
+          "name": "Honey",
+          "measure": "100ml"
+        },
+        {
+          "name": "Cinnamon",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Walnuts",
+          "measure": "60g crushed"
+        },
+        {
+          "name": "Oil for frying",
+          "measure": "for deep frying"
+        }
+      ],
+      "nutrition": {
+        "calories": 360,
+        "protein": 6,
+        "carbs": 58,
+        "fat": 12,
+        "fiber": 2
+      }
+    },
+    {
+      "id": "r285",
+      "title": "Chermoula Fish",
+      "category": "Mediterranean",
+      "area": "Moroccan",
+      "thumbnail": "https://images.unsplash.com/photo-1519984388953-d2406bc725e1?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 20,
+      "cookTime": 20,
+      "servings": 4,
+      "instructions": [
+        "Make chermoula: blend cilantro, parsley, garlic, cumin, paprika, lemon, and olive oil.",
+        "Score fish fillets and rub with half the chermoula.",
+        "Marinate 30 minutes.",
+        "Grill or bake at 200C for 15-18 minutes.",
+        "Serve with remaining chermoula as a sauce.",
+        "Accompany with couscous and lemon wedges."
+      ],
+      "ingredients": [
+        {
+          "name": "White fish fillets",
+          "measure": "4 x 200g"
+        },
+        {
+          "name": "Fresh cilantro",
+          "measure": "60g"
+        },
+        {
+          "name": "Fresh parsley",
+          "measure": "60g"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "4"
+        },
+        {
+          "name": "Cumin",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Smoked paprika",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Lemon",
+          "measure": "1"
+        },
+        {
+          "name": "Olive oil",
+          "measure": "60ml"
+        }
+      ],
+      "nutrition": {
+        "calories": 280,
+        "protein": 38,
+        "carbs": 4,
+        "fat": 12,
+        "fiber": 1
+      }
+    },
+    {
+      "id": "r286",
+      "title": "Arancini",
+      "category": "Mediterranean",
+      "area": "Italian",
+      "thumbnail": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=600",
+      "tags": [],
+      "prepTime": 30,
+      "cookTime": 30,
+      "servings": 12,
+      "instructions": [
+        "Make saffron risotto and cool completely.",
+        "Make ragu filling with ground beef, peas, and tomato.",
+        "Take a handful of rice, flatten, add filling, and close into a ball.",
+        "Coat in flour, egg, and breadcrumbs.",
+        "Deep fry at 180C for 4-5 minutes until golden.",
+        "Drain and serve immediately with marinara sauce."
+      ],
+      "ingredients": [
+        {
+          "name": "Arborio rice",
+          "measure": "300g"
+        },
+        {
+          "name": "Saffron",
+          "measure": "pinch"
+        },
+        {
+          "name": "Ground beef",
+          "measure": "200g"
+        },
+        {
+          "name": "Green peas",
+          "measure": "100g"
+        },
+        {
+          "name": "Mozzarella",
+          "measure": "100g cubed"
+        },
+        {
+          "name": "Breadcrumbs",
+          "measure": "150g"
+        },
+        {
+          "name": "Eggs",
+          "measure": "2"
+        },
+        {
+          "name": "Flour",
+          "measure": "60g"
+        },
+        {
+          "name": "Parmesan",
+          "measure": "60g"
+        }
+      ],
+      "nutrition": {
+        "calories": 280,
+        "protein": 12,
+        "carbs": 34,
+        "fat": 12,
+        "fiber": 2
+      }
+    },
+    {
+      "id": "r287",
+      "title": "Ful Medames",
+      "category": "Middle Eastern",
+      "area": "Egyptian",
+      "thumbnail": "https://images.unsplash.com/photo-1547592180-85f173990554?w=600",
+      "tags": [
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free"
+      ],
+      "prepTime": 10,
+      "cookTime": 30,
+      "servings": 4,
+      "instructions": [
+        "Simmer fava beans with garlic and cumin until very soft.",
+        "Mash about half the beans roughly.",
+        "Season with lemon juice, olive oil, and salt.",
+        "Serve in bowls topped with chopped tomato and parsley.",
+        "Drizzle with more olive oil and a sprinkle of cumin.",
+        "Serve with warm pita and sliced vegetables."
+      ],
+      "ingredients": [
+        {
+          "name": "Canned fava beans",
+          "measure": "800g"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "4"
+        },
+        {
+          "name": "Lemon juice",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Olive oil",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Cumin",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Tomato",
+          "measure": "1 chopped"
+        },
+        {
+          "name": "Fresh parsley",
+          "measure": "handful"
+        },
+        {
+          "name": "Pita bread",
+          "measure": "to serve"
+        }
+      ],
+      "nutrition": {
+        "calories": 260,
+        "protein": 14,
+        "carbs": 38,
+        "fat": 7,
+        "fiber": 12
+      }
+    },
+    {
+      "id": "r288",
+      "title": "Kafta bil Saniyeh",
+      "category": "Middle Eastern",
+      "area": "Lebanese",
+      "thumbnail": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 20,
+      "cookTime": 40,
+      "servings": 6,
+      "instructions": [
+        "Mix ground beef with onion, parsley, allspice, cinnamon, and salt.",
+        "Spread meat mixture in a baking dish in an even layer.",
+        "Top with sliced tomatoes and onion rings.",
+        "Make tahini sauce with tahini, lemon juice, water, and garlic.",
+        "Pour tahini sauce over everything.",
+        "Bake at 180C for 35-40 minutes. Serve with rice and pita."
+      ],
+      "ingredients": [
+        {
+          "name": "Ground beef",
+          "measure": "600g"
+        },
+        {
+          "name": "Onion",
+          "measure": "1 grated"
+        },
+        {
+          "name": "Fresh parsley",
+          "measure": "handful"
+        },
+        {
+          "name": "Allspice",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Cinnamon",
+          "measure": "1/2 tsp"
+        },
+        {
+          "name": "Tomatoes",
+          "measure": "3 sliced"
+        },
+        {
+          "name": "Tahini",
+          "measure": "4 tbsp"
+        },
+        {
+          "name": "Lemon juice",
+          "measure": "3 tbsp"
+        }
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 32,
+        "carbs": 12,
+        "fat": 28,
+        "fiber": 2
+      }
+    },
+    {
+      "id": "r289",
+      "title": "Muhammara",
+      "category": "Middle Eastern",
+      "area": "Syrian",
+      "thumbnail": "https://images.unsplash.com/photo-1578020190125-f4f7c18bc9cb?w=600",
+      "tags": [
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free"
+      ],
+      "prepTime": 15,
+      "cookTime": 20,
+      "servings": 8,
+      "instructions": [
+        "Roast red bell peppers under broiler until blackened. Peel and deseed.",
+        "Toast walnuts until fragrant.",
+        "Blend peppers, walnuts, pomegranate molasses, cumin, and Aleppo pepper.",
+        "Add breadcrumbs and olive oil. Blend until spreadable.",
+        "Season with salt and lemon juice.",
+        "Serve drizzled with olive oil and sprinkled with walnuts."
+      ],
+      "ingredients": [
+        {
+          "name": "Red bell peppers",
+          "measure": "4 large"
+        },
+        {
+          "name": "Walnuts",
+          "measure": "100g"
+        },
+        {
+          "name": "Pomegranate molasses",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Breadcrumbs",
+          "measure": "60g"
+        },
+        {
+          "name": "Olive oil",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Cumin",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Aleppo pepper",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Lemon juice",
+          "measure": "1 tbsp"
+        }
+      ],
+      "nutrition": {
+        "calories": 180,
+        "protein": 4,
+        "carbs": 14,
+        "fat": 13,
+        "fiber": 3
+      }
+    },
+    {
+      "id": "r290",
+      "title": "Loubia",
+      "category": "Middle Eastern",
+      "area": "Moroccan",
+      "thumbnail": "https://images.unsplash.com/photo-1547592180-85f173990554?w=600",
+      "tags": [
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free"
+      ],
+      "prepTime": 15,
+      "cookTime": 40,
+      "servings": 6,
+      "instructions": [
+        "Saute onion and garlic in olive oil until soft.",
+        "Add cumin, paprika, and harissa. Cook 2 minutes.",
+        "Add crushed tomatoes and white beans.",
+        "Simmer 30 minutes until sauce thickens.",
+        "Season with salt and lemon juice.",
+        "Serve warm with crusty bread and a drizzle of olive oil."
+      ],
+      "ingredients": [
+        {
+          "name": "White beans",
+          "measure": "800g canned"
+        },
+        {
+          "name": "Crushed tomatoes",
+          "measure": "400g"
+        },
+        {
+          "name": "Onion",
+          "measure": "1 large"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "4"
+        },
+        {
+          "name": "Harissa paste",
+          "measure": "1 tbsp"
+        },
+        {
+          "name": "Cumin",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Paprika",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Olive oil",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Lemon juice",
+          "measure": "1 tbsp"
+        }
+      ],
+      "nutrition": {
+        "calories": 260,
+        "protein": 14,
+        "carbs": 38,
+        "fat": 7,
+        "fiber": 12
+      }
+    },
+    {
+      "id": "r291",
+      "title": "Tagine of Lamb with Apricots",
+      "category": "Middle Eastern",
+      "area": "Moroccan",
+      "thumbnail": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 20,
+      "cookTime": 90,
+      "servings": 6,
+      "instructions": [
+        "Brown lamb in olive oil in a tagine or Dutch oven.",
+        "Add onion, garlic, ginger, saffron, and ras el hanout.",
+        "Pour in broth and honey. Bring to a simmer.",
+        "Cover and cook for 1 hour.",
+        "Add dried apricots and almonds. Cook 20 more minutes.",
+        "Serve with couscous and fresh cilantro."
+      ],
+      "ingredients": [
+        {
+          "name": "Lamb shoulder",
+          "measure": "1kg"
+        },
+        {
+          "name": "Dried apricots",
+          "measure": "150g"
+        },
+        {
+          "name": "Almonds",
+          "measure": "80g"
+        },
+        {
+          "name": "Onion",
+          "measure": "2"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "3"
+        },
+        {
+          "name": "Ras el hanout",
+          "measure": "2 tsp"
+        },
+        {
+          "name": "Saffron",
+          "measure": "pinch"
+        },
+        {
+          "name": "Honey",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Chicken broth",
+          "measure": "400ml"
+        },
+        {
+          "name": "Fresh cilantro",
+          "measure": "handful"
+        }
+      ],
+      "nutrition": {
+        "calories": 480,
+        "protein": 42,
+        "carbs": 32,
+        "fat": 20,
+        "fiber": 4
+      }
+    },
+    {
+      "id": "r292",
+      "title": "Kibbeh",
+      "category": "Middle Eastern",
+      "area": "Lebanese",
+      "thumbnail": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=600",
+      "tags": [],
+      "prepTime": 45,
+      "cookTime": 30,
+      "servings": 8,
+      "instructions": [
+        "Soak bulgur wheat and squeeze dry. Mix with ground lamb, onion, and spices.",
+        "Make filling: saute ground lamb with onion, pine nuts, and spices.",
+        "Take balls of the outer mixture, hollow out, fill, and seal.",
+        "Shape into footballs.",
+        "Deep fry at 175C until golden brown.",
+        "Serve with tzatziki and fresh salad."
+      ],
+      "ingredients": [
+        {
+          "name": "Fine bulgur wheat",
+          "measure": "200g"
+        },
+        {
+          "name": "Ground lamb",
+          "measure": "600g"
+        },
+        {
+          "name": "Onion",
+          "measure": "1 large"
+        },
+        {
+          "name": "Pine nuts",
+          "measure": "60g"
+        },
+        {
+          "name": "Allspice",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Cinnamon",
+          "measure": "1/2 tsp"
+        },
+        {
+          "name": "Cumin",
+          "measure": "1/2 tsp"
+        },
+        {
+          "name": "Butter",
+          "measure": "30g"
+        }
+      ],
+      "nutrition": {
+        "calories": 360,
+        "protein": 24,
+        "carbs": 28,
+        "fat": 18,
+        "fiber": 4
+      }
+    },
+    {
+      "id": "r293",
+      "title": "Knafeh",
+      "category": "Middle Eastern",
+      "area": "Palestinian",
+      "thumbnail": "https://images.unsplash.com/photo-1519676867240-f03562e64548?w=600",
+      "tags": [
+        "Vegetarian"
+      ],
+      "prepTime": 30,
+      "cookTime": 35,
+      "servings": 10,
+      "instructions": [
+        "Make sugar syrup with rose water and orange blossom water. Cool.",
+        "Shred kataifi dough and mix with melted butter.",
+        "Press half into a buttered baking dish.",
+        "Fill with a layer of unsalted cheese or cream.",
+        "Top with remaining dough and press firmly.",
+        "Bake at 180C for 30 minutes until golden. Immediately pour cold syrup over hot knafeh."
+      ],
+      "ingredients": [
+        {
+          "name": "Kataifi shredded dough",
+          "measure": "400g"
+        },
+        {
+          "name": "Unsalted Nabulsi cheese",
+          "measure": "500g"
+        },
+        {
+          "name": "Butter",
+          "measure": "150g melted"
+        },
+        {
+          "name": "Sugar",
+          "measure": "300g for syrup"
+        },
+        {
+          "name": "Water",
+          "measure": "200ml for syrup"
+        },
+        {
+          "name": "Rose water",
+          "measure": "1 tbsp"
+        },
+        {
+          "name": "Orange blossom water",
+          "measure": "1 tbsp"
+        },
+        {
+          "name": "Pistachios",
+          "measure": "60g crushed"
+        }
+      ],
+      "nutrition": {
+        "calories": 480,
+        "protein": 14,
+        "carbs": 58,
+        "fat": 22,
+        "fiber": 1
+      }
+    },
+    {
+      "id": "r294",
+      "title": "Shakshuka Khodra",
+      "category": "Middle Eastern",
+      "area": "Israeli",
+      "thumbnail": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=600",
+      "tags": [
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free"
+      ],
+      "prepTime": 15,
+      "cookTime": 25,
+      "servings": 4,
+      "instructions": [
+        "Saute onion and garlic in olive oil until translucent.",
+        "Add zucchini, spinach, and kale. Cook until wilted.",
+        "Season with cumin, turmeric, and lemon zest.",
+        "Make wells in the vegetable mixture.",
+        "Crack in eggs and cover. Cook until whites are set.",
+        "Top with crumbled feta, za'atar, and fresh herbs."
+      ],
+      "ingredients": [
+        {
+          "name": "Eggs",
+          "measure": "6"
+        },
+        {
+          "name": "Spinach",
+          "measure": "200g"
+        },
+        {
+          "name": "Kale",
+          "measure": "100g"
+        },
+        {
+          "name": "Zucchini",
+          "measure": "2"
+        },
+        {
+          "name": "Onion",
+          "measure": "1"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "3"
+        },
+        {
+          "name": "Feta cheese",
+          "measure": "100g"
+        },
+        {
+          "name": "Zaatar",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Turmeric",
+          "measure": "1/2 tsp"
+        },
+        {
+          "name": "Cumin",
+          "measure": "1 tsp"
+        }
+      ],
+      "nutrition": {
+        "calories": 240,
+        "protein": 16,
+        "carbs": 12,
+        "fat": 14,
+        "fiber": 4
+      }
+    },
+    {
+      "id": "r295",
+      "title": "Mujaddara Hamra",
+      "category": "Middle Eastern",
+      "area": "Syrian",
+      "thumbnail": "https://images.unsplash.com/photo-1547592180-85f173990554?w=600",
+      "tags": [
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free"
+      ],
+      "prepTime": 15,
+      "cookTime": 50,
+      "servings": 6,
+      "instructions": [
+        "Cook red lentils with tomatoes, onion, and spices until very soft.",
+        "Add bulgur wheat and cook until absorbed.",
+        "Caramelize sliced onions in olive oil until very dark.",
+        "Mix lentils and bulgur together.",
+        "Top with dark caramelized onions.",
+        "Serve with yogurt and chopped parsley."
+      ],
+      "ingredients": [
+        {
+          "name": "Red lentils",
+          "measure": "200g"
+        },
+        {
+          "name": "Coarse bulgur",
+          "measure": "150g"
+        },
+        {
+          "name": "Onions",
+          "measure": "3 large"
+        },
+        {
+          "name": "Tomatoes",
+          "measure": "2"
+        },
+        {
+          "name": "Olive oil",
+          "measure": "4 tbsp"
+        },
+        {
+          "name": "Cumin",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Cinnamon",
+          "measure": "1/2 tsp"
+        },
+        {
+          "name": "Allspice",
+          "measure": "1/2 tsp"
+        }
+      ],
+      "nutrition": {
+        "calories": 340,
+        "protein": 14,
+        "carbs": 54,
+        "fat": 8,
+        "fiber": 12
+      }
+    },
+    {
+      "id": "r296",
+      "title": "Za'atar Roasted Chicken",
+      "category": "Middle Eastern",
+      "area": "Middle Eastern",
+      "thumbnail": "https://images.unsplash.com/photo-1527477396000-e27163b481c2?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 15,
+      "cookTime": 60,
+      "servings": 4,
+      "instructions": [
+        "Mix zaatar with olive oil, lemon zest, and garlic to make a paste.",
+        "Rub paste all over chicken, including under the skin.",
+        "Marinate at least 1 hour.",
+        "Roast at 200C for 45-55 minutes until juices run clear.",
+        "Rest 10 minutes before carving.",
+        "Serve with roasted vegetables, pita, and lemon wedges."
+      ],
+      "ingredients": [
+        {
+          "name": "Whole chicken",
+          "measure": "1.5kg"
+        },
+        {
+          "name": "Zaatar",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Olive oil",
+          "measure": "4 tbsp"
+        },
+        {
+          "name": "Lemon",
+          "measure": "1 zested and juiced"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "4"
+        },
+        {
+          "name": "Salt",
+          "measure": "to taste"
+        }
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 48,
+        "carbs": 4,
+        "fat": 24,
+        "fiber": 1
+      }
+    },
+    {
+      "id": "r297",
+      "title": "Lemon Chicken Orzo Soup",
+      "category": "Mediterranean",
+      "area": "Greek",
+      "thumbnail": "https://images.unsplash.com/photo-1547592180-85f173990554?w=600",
+      "tags": [],
+      "prepTime": 15,
+      "cookTime": 30,
+      "servings": 6,
+      "instructions": [
+        "Simmer chicken breast in broth with onion, celery, and bay leaf.",
+        "Remove chicken and shred.",
+        "Add orzo to the broth and cook until al dente.",
+        "Make avgolemono: whisk eggs with lemon juice.",
+        "Slowly ladle hot broth into egg mixture while whisking.",
+        "Return mixture to pot off heat. Add chicken. Stir and serve."
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken breast",
+          "measure": "400g"
+        },
+        {
+          "name": "Orzo pasta",
+          "measure": "150g"
+        },
+        {
+          "name": "Chicken broth",
+          "measure": "1.5 liters"
+        },
+        {
+          "name": "Eggs",
+          "measure": "3"
+        },
+        {
+          "name": "Lemon juice",
+          "measure": "80ml"
+        },
+        {
+          "name": "Onion",
+          "measure": "1"
+        },
+        {
+          "name": "Celery stalk",
+          "measure": "2"
+        },
+        {
+          "name": "Bay leaf",
+          "measure": "1"
+        },
+        {
+          "name": "Fresh dill",
+          "measure": "handful"
+        }
+      ],
+      "nutrition": {
+        "calories": 280,
+        "protein": 26,
+        "carbs": 22,
+        "fat": 8,
+        "fiber": 1
+      }
+    },
+    {
+      "id": "r298",
+      "title": "Sfeeha (Lebanese Meat Pies)",
+      "category": "Middle Eastern",
+      "area": "Lebanese",
+      "thumbnail": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=600",
+      "tags": [],
+      "prepTime": 90,
+      "cookTime": 20,
+      "servings": 16,
+      "instructions": [
+        "Make dough with flour, yeast, oil, and salt. Rest 1 hour.",
+        "Make filling: mix ground lamb with onion, tomato, pomegranate molasses, and spices.",
+        "Divide dough into small balls and flatten into circles.",
+        "Place filling in center and fold up edges to make a square or triangle.",
+        "Bake at 200C for 15-20 minutes until golden.",
+        "Serve warm with yogurt and fresh vegetables."
+      ],
+      "ingredients": [
+        {
+          "name": "All-purpose flour",
+          "measure": "400g"
+        },
+        {
+          "name": "Ground lamb",
+          "measure": "400g"
+        },
+        {
+          "name": "Onion",
+          "measure": "1 large"
+        },
+        {
+          "name": "Tomato",
+          "measure": "1 large"
+        },
+        {
+          "name": "Pomegranate molasses",
+          "measure": "1 tbsp"
+        },
+        {
+          "name": "Allspice",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Cinnamon",
+          "measure": "1/2 tsp"
+        },
+        {
+          "name": "Dried yeast",
+          "measure": "7g"
+        },
+        {
+          "name": "Pine nuts",
+          "measure": "40g"
+        }
+      ],
+      "nutrition": {
+        "calories": 220,
+        "protein": 12,
+        "carbs": 26,
+        "fat": 8,
+        "fiber": 2
+      }
+    },
+    {
+      "id": "r299",
+      "title": "Falafel Bowl",
+      "category": "Mediterranean",
+      "area": "Israeli",
+      "thumbnail": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=600",
+      "tags": [
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free"
+      ],
+      "prepTime": 20,
+      "cookTime": 20,
+      "servings": 4,
+      "instructions": [
+        "Make falafel from soaked chickpeas and fry until crispy.",
+        "Cook bulgur or quinoa as a base.",
+        "Make Israeli salad with tomatoes, cucumber, and parsley.",
+        "Make tahini sauce with tahini, lemon, garlic, and water.",
+        "Arrange grains, salad, and falafel in bowls.",
+        "Top with tahini, pickled turnip, and sumac."
+      ],
+      "ingredients": [
+        {
+          "name": "Falafel",
+          "measure": "16 pieces"
+        },
+        {
+          "name": "Bulgur or quinoa",
+          "measure": "200g cooked"
+        },
+        {
+          "name": "Tomatoes",
+          "measure": "2"
+        },
+        {
+          "name": "Cucumber",
+          "measure": "1"
+        },
+        {
+          "name": "Fresh parsley",
+          "measure": "handful"
+        },
+        {
+          "name": "Tahini",
+          "measure": "4 tbsp"
+        },
+        {
+          "name": "Lemon juice",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Pickled turnip",
+          "measure": "100g"
+        },
+        {
+          "name": "Sumac",
+          "measure": "1 tsp"
+        }
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 18,
+        "carbs": 58,
+        "fat": 16,
+        "fiber": 12
+      }
+    },
+    {
+      "id": "r300",
+      "title": "Harira",
+      "category": "Middle Eastern",
+      "area": "Moroccan",
+      "thumbnail": "https://images.unsplash.com/photo-1547592180-85f173990554?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 20,
+      "cookTime": 60,
+      "servings": 8,
+      "instructions": [
+        "Brown lamb pieces in olive oil. Add onion, celery, and garlic.",
+        "Add canned tomatoes, lentils, and chickpeas.",
+        "Season with turmeric, cinnamon, ginger, and pepper.",
+        "Pour in broth and simmer 40 minutes.",
+        "Add vermicelli noodles and fresh herbs in last 5 minutes.",
+        "Finish with lemon juice and serve with dates and chebakia."
+      ],
+      "ingredients": [
+        {
+          "name": "Lamb",
+          "measure": "300g"
+        },
+        {
+          "name": "Green lentils",
+          "measure": "150g"
+        },
+        {
+          "name": "Chickpeas",
+          "measure": "400g canned"
+        },
+        {
+          "name": "Crushed tomatoes",
+          "measure": "400g"
+        },
+        {
+          "name": "Onion",
+          "measure": "1 large"
+        },
+        {
+          "name": "Celery stalk",
+          "measure": "2"
+        },
+        {
+          "name": "Vermicelli",
+          "measure": "80g"
+        },
+        {
+          "name": "Turmeric",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Cinnamon",
+          "measure": "1/2 tsp"
+        },
+        {
+          "name": "Fresh cilantro",
+          "measure": "handful"
+        },
+        {
+          "name": "Lemon juice",
+          "measure": "2 tbsp"
+        }
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": 22,
+        "carbs": 38,
+        "fat": 10,
+        "fiber": 10
+      }
     }
   ]
 }
