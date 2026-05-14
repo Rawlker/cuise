@@ -12701,6 +12701,3326 @@
         "fat": 6,
         "fiber": 6
       }
+    },
+    {
+      "id": "r201",
+      "title": "Tacos al Pastor",
+      "category": "Mexican",
+      "area": "Mexican",
+      "thumbnail": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 30,
+      "cookTime": 20,
+      "servings": 6,
+      "instructions": [
+        "Marinate pork in achiote paste, chipotle, pineapple juice, garlic, and spices for 4 hours.",
+        "Grill or pan-fry pork slices until charred and cooked through.",
+        "Grill pineapple slices until caramelized.",
+        "Warm corn tortillas on a comal.",
+        "Fill tortillas with pork and pineapple.",
+        "Top with chopped onion, cilantro, and salsa verde."
+      ],
+      "ingredients": [
+        {
+          "name": "Pork shoulder",
+          "measure": "800g thinly sliced"
+        },
+        {
+          "name": "Achiote paste",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Chipotle in adobo",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Pineapple",
+          "measure": "300g"
+        },
+        {
+          "name": "Corn tortillas",
+          "measure": "18"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "4"
+        },
+        {
+          "name": "Cumin",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Oregano",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "White onion",
+          "measure": "1"
+        },
+        {
+          "name": "Fresh cilantro",
+          "measure": "handful"
+        },
+        {
+          "name": "Salsa verde",
+          "measure": "200ml"
+        }
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 32,
+        "carbs": 36,
+        "fat": 16,
+        "fiber": 4
+      }
+    },
+    {
+      "id": "r202",
+      "title": "Pozole Rojo",
+      "category": "Mexican",
+      "area": "Mexican",
+      "thumbnail": "https://images.unsplash.com/photo-1547592180-85f173990554?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 30,
+      "cookTime": 120,
+      "servings": 8,
+      "instructions": [
+        "Simmer pork shoulder in water with onion, garlic, and bay leaves for 1.5 hours.",
+        "Toast and soak dried guajillo and ancho chiles. Blend with garlic and broth.",
+        "Strain chile sauce into the pork broth.",
+        "Add hominy and simmer 30 more minutes.",
+        "Shred the pork and return to the pot.",
+        "Serve with shredded cabbage, radish, lime, oregano, and tostadas."
+      ],
+      "ingredients": [
+        {
+          "name": "Pork shoulder",
+          "measure": "1kg"
+        },
+        {
+          "name": "Hominy corn",
+          "measure": "800g canned"
+        },
+        {
+          "name": "Guajillo chiles",
+          "measure": "6 dried"
+        },
+        {
+          "name": "Ancho chiles",
+          "measure": "3 dried"
+        },
+        {
+          "name": "Onion",
+          "measure": "1 large"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "6"
+        },
+        {
+          "name": "Shredded cabbage",
+          "measure": "to serve"
+        },
+        {
+          "name": "Radishes",
+          "measure": "to serve"
+        },
+        {
+          "name": "Lime",
+          "measure": "to serve"
+        },
+        {
+          "name": "Dried oregano",
+          "measure": "1 tsp"
+        }
+      ],
+      "nutrition": {
+        "calories": 380,
+        "protein": 32,
+        "carbs": 34,
+        "fat": 14,
+        "fiber": 6
+      }
+    },
+    {
+      "id": "r203",
+      "title": "Chiles en Nogada",
+      "category": "Mexican",
+      "area": "Mexican",
+      "thumbnail": "https://images.unsplash.com/photo-1546964124-0cce460f38ef?w=600",
+      "tags": [],
+      "prepTime": 60,
+      "cookTime": 45,
+      "servings": 6,
+      "instructions": [
+        "Roast and peel poblano chiles. Make a slit and remove seeds.",
+        "Make picadillo: cook ground pork with onion, garlic, tomatoes, peaches, pears, almonds, and raisins.",
+        "Season with cinnamon, cloves, and pepper. Stuff into chiles.",
+        "Make walnut sauce: blend walnuts, cream cheese, sour cream, and sherry.",
+        "Pour sauce over stuffed chiles.",
+        "Garnish with pomegranate seeds and fresh parsley."
+      ],
+      "ingredients": [
+        {
+          "name": "Poblano chiles",
+          "measure": "6 large"
+        },
+        {
+          "name": "Ground pork",
+          "measure": "500g"
+        },
+        {
+          "name": "Peach",
+          "measure": "1 diced"
+        },
+        {
+          "name": "Pear",
+          "measure": "1 diced"
+        },
+        {
+          "name": "Walnuts",
+          "measure": "200g"
+        },
+        {
+          "name": "Cream cheese",
+          "measure": "100g"
+        },
+        {
+          "name": "Sour cream",
+          "measure": "100ml"
+        },
+        {
+          "name": "Pomegranate seeds",
+          "measure": "100g"
+        },
+        {
+          "name": "Raisins",
+          "measure": "60g"
+        },
+        {
+          "name": "Almonds",
+          "measure": "60g"
+        },
+        {
+          "name": "Cinnamon",
+          "measure": "1/2 tsp"
+        }
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 36,
+        "fat": 32,
+        "fiber": 5
+      }
+    },
+    {
+      "id": "r204",
+      "title": "Enchiladas Verdes",
+      "category": "Mexican",
+      "area": "Mexican",
+      "thumbnail": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 25,
+      "cookTime": 30,
+      "servings": 4,
+      "instructions": [
+        "Make salsa verde: blend roasted tomatillos, jalapenos, garlic, and cilantro.",
+        "Simmer sauce with chicken broth for 10 minutes.",
+        "Cook and shred chicken breast.",
+        "Dip corn tortillas in warm oil briefly, then in the salsa.",
+        "Fill with chicken and roll up in a baking dish.",
+        "Cover with remaining salsa, crema, and queso fresco. Bake at 180C for 20 minutes."
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken breast",
+          "measure": "500g"
+        },
+        {
+          "name": "Corn tortillas",
+          "measure": "12"
+        },
+        {
+          "name": "Tomatillos",
+          "measure": "500g"
+        },
+        {
+          "name": "Jalapenos",
+          "measure": "3"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "3"
+        },
+        {
+          "name": "Mexican crema",
+          "measure": "150ml"
+        },
+        {
+          "name": "Queso fresco",
+          "measure": "150g"
+        },
+        {
+          "name": "Fresh cilantro",
+          "measure": "handful"
+        },
+        {
+          "name": "Chicken broth",
+          "measure": "200ml"
+        }
+      ],
+      "nutrition": {
+        "calories": 460,
+        "protein": 36,
+        "carbs": 40,
+        "fat": 18,
+        "fiber": 5
+      }
+    },
+    {
+      "id": "r205",
+      "title": "Mole Negro con Pollo",
+      "category": "Mexican",
+      "area": "Mexican",
+      "thumbnail": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 60,
+      "cookTime": 90,
+      "servings": 8,
+      "instructions": [
+        "Toast dried chiles, spices, and sesame seeds separately.",
+        "Fry tomatoes, onion, garlic, and plantain.",
+        "Blend everything with dark chocolate and chicken broth.",
+        "Fry the paste in lard until fragrant, about 15 minutes.",
+        "Add more broth and simmer 30 minutes until thick.",
+        "Add cooked chicken pieces and simmer 20 more minutes. Serve with rice."
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken pieces",
+          "measure": "1.5kg"
+        },
+        {
+          "name": "Mulato chiles",
+          "measure": "5 dried"
+        },
+        {
+          "name": "Ancho chiles",
+          "measure": "3 dried"
+        },
+        {
+          "name": "Chipotle chiles",
+          "measure": "2 dried"
+        },
+        {
+          "name": "Dark chocolate",
+          "measure": "60g"
+        },
+        {
+          "name": "Sesame seeds",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Plantain",
+          "measure": "1/2"
+        },
+        {
+          "name": "Tomatoes",
+          "measure": "3"
+        },
+        {
+          "name": "Onion",
+          "measure": "1"
+        },
+        {
+          "name": "Chicken broth",
+          "measure": "1 liter"
+        }
+      ],
+      "nutrition": {
+        "calories": 480,
+        "protein": 42,
+        "carbs": 28,
+        "fat": 22,
+        "fiber": 6
+      }
+    },
+    {
+      "id": "r206",
+      "title": "Tamales de Rajas",
+      "category": "Mexican",
+      "area": "Mexican",
+      "thumbnail": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=600",
+      "tags": [
+        "Vegetarian"
+      ],
+      "prepTime": 60,
+      "cookTime": 90,
+      "servings": 12,
+      "instructions": [
+        "Soak corn husks in hot water for 30 minutes.",
+        "Beat lard until fluffy. Add masa harina, broth, baking powder, and salt.",
+        "Make rajas filling: roast and peel poblanos, slice with onion and cheese.",
+        "Spread masa on corn husks, add filling, and fold.",
+        "Steam standing upright for 75-90 minutes.",
+        "Serve with salsa and crema."
+      ],
+      "ingredients": [
+        {
+          "name": "Masa harina",
+          "measure": "500g"
+        },
+        {
+          "name": "Lard or vegetable shortening",
+          "measure": "200g"
+        },
+        {
+          "name": "Chicken broth",
+          "measure": "400ml"
+        },
+        {
+          "name": "Corn husks",
+          "measure": "24"
+        },
+        {
+          "name": "Poblano chiles",
+          "measure": "4"
+        },
+        {
+          "name": "Oaxaca cheese",
+          "measure": "300g"
+        },
+        {
+          "name": "Onion",
+          "measure": "1"
+        },
+        {
+          "name": "Baking powder",
+          "measure": "1 tsp"
+        }
+      ],
+      "nutrition": {
+        "calories": 340,
+        "protein": 10,
+        "carbs": 42,
+        "fat": 16,
+        "fiber": 4
+      }
+    },
+    {
+      "id": "r207",
+      "title": "Sopa de Lima",
+      "category": "Mexican",
+      "area": "Mexican",
+      "thumbnail": "https://images.unsplash.com/photo-1547592180-85f173990554?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 20,
+      "cookTime": 40,
+      "servings": 6,
+      "instructions": [
+        "Simmer chicken with onion, garlic, and tomato in broth for 25 minutes.",
+        "Remove chicken, shred, and return to pot.",
+        "Add lime juice and sliced limes. Simmer 5 minutes.",
+        "Fry tortilla strips until crispy.",
+        "Ladle soup into bowls.",
+        "Top with tortilla strips, avocado, and fresh cilantro."
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken breast",
+          "measure": "500g"
+        },
+        {
+          "name": "Chicken broth",
+          "measure": "1.5 liters"
+        },
+        {
+          "name": "Limes",
+          "measure": "4"
+        },
+        {
+          "name": "Tomatoes",
+          "measure": "3"
+        },
+        {
+          "name": "Onion",
+          "measure": "1"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "3"
+        },
+        {
+          "name": "Corn tortillas",
+          "measure": "4 for strips"
+        },
+        {
+          "name": "Avocado",
+          "measure": "1"
+        },
+        {
+          "name": "Fresh cilantro",
+          "measure": "handful"
+        }
+      ],
+      "nutrition": {
+        "calories": 280,
+        "protein": 28,
+        "carbs": 22,
+        "fat": 10,
+        "fiber": 4
+      }
+    },
+    {
+      "id": "r208",
+      "title": "Carnitas",
+      "category": "Mexican",
+      "area": "Mexican",
+      "thumbnail": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 15,
+      "cookTime": 180,
+      "servings": 8,
+      "instructions": [
+        "Cut pork into large chunks. Season with salt, cumin, and oregano.",
+        "Place in a Dutch oven with orange juice, lime, garlic, and bay leaves.",
+        "Cook uncovered on medium heat for 2 hours, turning occasionally.",
+        "Once liquid evaporates, fry in the rendered fat until crispy.",
+        "Shred with two forks.",
+        "Serve in warm tortillas with salsa, onion, and cilantro."
+      ],
+      "ingredients": [
+        {
+          "name": "Pork shoulder",
+          "measure": "1.5kg"
+        },
+        {
+          "name": "Orange juice",
+          "measure": "200ml"
+        },
+        {
+          "name": "Lime juice",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "6"
+        },
+        {
+          "name": "Cumin",
+          "measure": "2 tsp"
+        },
+        {
+          "name": "Dried oregano",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Bay leaves",
+          "measure": "3"
+        },
+        {
+          "name": "Corn tortillas",
+          "measure": "to serve"
+        }
+      ],
+      "nutrition": {
+        "calories": 460,
+        "protein": 42,
+        "carbs": 4,
+        "fat": 30,
+        "fiber": 0
+      }
+    },
+    {
+      "id": "r209",
+      "title": "Tlayuda",
+      "category": "Mexican",
+      "area": "Mexican",
+      "thumbnail": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 20,
+      "cookTime": 20,
+      "servings": 4,
+      "instructions": [
+        "Toast large corn tortillas on a comal until crispy.",
+        "Spread black bean paste over each tortilla.",
+        "Top with asiento (pork fat) or olive oil.",
+        "Add Oaxaca cheese and your choice of toppings.",
+        "Grill or broil until cheese melts.",
+        "Top with shredded cabbage, avocado, salsa, and fresh herbs."
+      ],
+      "ingredients": [
+        {
+          "name": "Large corn tortillas",
+          "measure": "4"
+        },
+        {
+          "name": "Black bean paste",
+          "measure": "200g"
+        },
+        {
+          "name": "Oaxaca cheese",
+          "measure": "300g"
+        },
+        {
+          "name": "Grilled beef or chicken",
+          "measure": "300g"
+        },
+        {
+          "name": "Avocado",
+          "measure": "2"
+        },
+        {
+          "name": "Shredded cabbage",
+          "measure": "200g"
+        },
+        {
+          "name": "Tomato salsa",
+          "measure": "150ml"
+        },
+        {
+          "name": "Olive oil",
+          "measure": "3 tbsp"
+        }
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 46,
+        "fat": 26,
+        "fiber": 8
+      }
+    },
+    {
+      "id": "r210",
+      "title": "Cochinita Pibil",
+      "category": "Mexican",
+      "area": "Mexican",
+      "thumbnail": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 30,
+      "cookTime": 240,
+      "servings": 10,
+      "instructions": [
+        "Mix achiote paste with sour orange juice, garlic, cumin, and oregano.",
+        "Rub all over pork shoulder. Marinate overnight.",
+        "Wrap in banana leaves and place in a roasting pan.",
+        "Slow roast at 150C for 4 hours until fall-apart tender.",
+        "Shred the meat and mix with pan juices.",
+        "Serve in tortillas with pickled red onions and habanero salsa."
+      ],
+      "ingredients": [
+        {
+          "name": "Pork shoulder",
+          "measure": "2kg"
+        },
+        {
+          "name": "Achiote paste",
+          "measure": "100g"
+        },
+        {
+          "name": "Sour orange juice",
+          "measure": "200ml"
+        },
+        {
+          "name": "Banana leaves",
+          "measure": "4 large"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "6"
+        },
+        {
+          "name": "Cumin",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Red onion",
+          "measure": "2 for pickling"
+        },
+        {
+          "name": "Habanero pepper",
+          "measure": "1"
+        },
+        {
+          "name": "Corn tortillas",
+          "measure": "to serve"
+        }
+      ],
+      "nutrition": {
+        "calories": 440,
+        "protein": 44,
+        "carbs": 8,
+        "fat": 26,
+        "fiber": 1
+      }
+    },
+    {
+      "id": "r211",
+      "title": "Esquites",
+      "category": "Mexican",
+      "area": "Mexican",
+      "thumbnail": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=600",
+      "tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 4,
+      "instructions": [
+        "Cut corn kernels off the cob.",
+        "Saute with butter, epazote or cilantro, and chile serrano.",
+        "Cook until slightly charred.",
+        "Serve in cups with mayonnaise, lime juice, and chile powder.",
+        "Top with cotija cheese and more lime.",
+        "Eat with a spoon as a street food snack."
+      ],
+      "ingredients": [
+        {
+          "name": "Corn cobs",
+          "measure": "4"
+        },
+        {
+          "name": "Butter",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Mayonnaise",
+          "measure": "4 tbsp"
+        },
+        {
+          "name": "Cotija cheese",
+          "measure": "80g"
+        },
+        {
+          "name": "Lime",
+          "measure": "3"
+        },
+        {
+          "name": "Chile powder",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Chile serrano",
+          "measure": "1"
+        },
+        {
+          "name": "Fresh cilantro",
+          "measure": "handful"
+        }
+      ],
+      "nutrition": {
+        "calories": 280,
+        "protein": 6,
+        "carbs": 32,
+        "fat": 16,
+        "fiber": 4
+      }
+    },
+    {
+      "id": "r212",
+      "title": "Birria Tacos",
+      "category": "Mexican",
+      "area": "Mexican",
+      "thumbnail": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 30,
+      "cookTime": 180,
+      "servings": 8,
+      "instructions": [
+        "Toast and soak dried chiles. Blend with tomatoes, garlic, and spices.",
+        "Season beef short ribs and goat with chile sauce.",
+        "Slow braise covered at 160C for 3 hours until very tender.",
+        "Reserve the consomme broth.",
+        "Dip corn tortillas in the fat from the broth and griddle until crispy.",
+        "Fill with shredded meat and cheese. Serve with consomme for dipping."
+      ],
+      "ingredients": [
+        {
+          "name": "Beef short ribs",
+          "measure": "1kg"
+        },
+        {
+          "name": "Guajillo chiles",
+          "measure": "6"
+        },
+        {
+          "name": "Ancho chiles",
+          "measure": "3"
+        },
+        {
+          "name": "Tomatoes",
+          "measure": "4"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "6"
+        },
+        {
+          "name": "Corn tortillas",
+          "measure": "16"
+        },
+        {
+          "name": "Oaxaca cheese",
+          "measure": "300g"
+        },
+        {
+          "name": "White onion",
+          "measure": "1"
+        },
+        {
+          "name": "Fresh cilantro",
+          "measure": "handful"
+        },
+        {
+          "name": "Lime",
+          "measure": "3"
+        }
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 38,
+        "carbs": 36,
+        "fat": 24,
+        "fiber": 4
+      }
+    },
+    {
+      "id": "r213",
+      "title": "Elote Callejero",
+      "category": "Mexican",
+      "area": "Mexican",
+      "thumbnail": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=600",
+      "tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "prepTime": 5,
+      "cookTime": 15,
+      "servings": 4,
+      "instructions": [
+        "Grill whole corn cobs over high heat until charred on all sides.",
+        "Immediately spread with mayonnaise.",
+        "Sprinkle generously with cotija cheese.",
+        "Dust with chile powder and tajin.",
+        "Squeeze lime over everything.",
+        "Eat immediately while hot."
+      ],
+      "ingredients": [
+        {
+          "name": "Corn cobs",
+          "measure": "4"
+        },
+        {
+          "name": "Mayonnaise",
+          "measure": "4 tbsp"
+        },
+        {
+          "name": "Cotija cheese",
+          "measure": "100g"
+        },
+        {
+          "name": "Chile powder",
+          "measure": "2 tsp"
+        },
+        {
+          "name": "Tajin seasoning",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Lime",
+          "measure": "2"
+        }
+      ],
+      "nutrition": {
+        "calories": 240,
+        "protein": 6,
+        "carbs": 28,
+        "fat": 14,
+        "fiber": 3
+      }
+    },
+    {
+      "id": "r214",
+      "title": "Sopa de Tortilla",
+      "category": "Mexican",
+      "area": "Mexican",
+      "thumbnail": "https://images.unsplash.com/photo-1547592180-85f173990554?w=600",
+      "tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "prepTime": 20,
+      "cookTime": 30,
+      "servings": 6,
+      "instructions": [
+        "Blend roasted tomatoes, garlic, onion, and chile pasilla.",
+        "Fry the sauce in oil until dark and fragrant.",
+        "Add chicken broth and simmer 20 minutes.",
+        "Fry tortilla strips until crispy.",
+        "Serve soup in bowls with tortilla strips.",
+        "Top with avocado, crema, cheese, and pasilla strips."
+      ],
+      "ingredients": [
+        {
+          "name": "Tomatoes",
+          "measure": "5 large"
+        },
+        {
+          "name": "Chicken broth",
+          "measure": "1.5 liters"
+        },
+        {
+          "name": "Chile pasilla",
+          "measure": "2 dried"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "4"
+        },
+        {
+          "name": "Onion",
+          "measure": "1"
+        },
+        {
+          "name": "Corn tortillas",
+          "measure": "6 for strips"
+        },
+        {
+          "name": "Avocado",
+          "measure": "2"
+        },
+        {
+          "name": "Mexican crema",
+          "measure": "100ml"
+        },
+        {
+          "name": "Panela cheese",
+          "measure": "150g"
+        }
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": 10,
+        "carbs": 38,
+        "fat": 16,
+        "fiber": 6
+      }
+    },
+    {
+      "id": "r215",
+      "title": "Flautas de Pollo",
+      "category": "Mexican",
+      "area": "Mexican",
+      "thumbnail": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 20,
+      "cookTime": 20,
+      "servings": 4,
+      "instructions": [
+        "Shred cooked chicken and season with salt, cumin, and garlic.",
+        "Roll tightly in corn tortillas and secure with a toothpick.",
+        "Deep fry in hot oil until golden and crispy all around.",
+        "Drain on paper towels.",
+        "Serve on a bed of shredded lettuce with crema and salsa.",
+        "Top with guacamole and cotija cheese."
+      ],
+      "ingredients": [
+        {
+          "name": "Shredded chicken",
+          "measure": "400g"
+        },
+        {
+          "name": "Corn tortillas",
+          "measure": "12"
+        },
+        {
+          "name": "Shredded lettuce",
+          "measure": "200g"
+        },
+        {
+          "name": "Mexican crema",
+          "measure": "100ml"
+        },
+        {
+          "name": "Guacamole",
+          "measure": "200g"
+        },
+        {
+          "name": "Cotija cheese",
+          "measure": "80g"
+        },
+        {
+          "name": "Salsa",
+          "measure": "150ml"
+        },
+        {
+          "name": "Oil for frying",
+          "measure": "for deep frying"
+        }
+      ],
+      "nutrition": {
+        "calories": 460,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 20,
+        "fiber": 5
+      }
+    },
+    {
+      "id": "r216",
+      "title": "Ramen",
+      "category": "Asian",
+      "area": "Japanese",
+      "thumbnail": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=600",
+      "tags": [],
+      "prepTime": 30,
+      "cookTime": 240,
+      "servings": 4,
+      "instructions": [
+        "Make broth: simmer pork bones with ginger, garlic, and scallions for 4 hours.",
+        "Make tare: mix soy sauce, mirin, sake, and sugar.",
+        "Cook ramen noodles according to package. Drain.",
+        "Prepare toppings: soft-boiled eggs, chashu pork, nori, corn, and bamboo shoots.",
+        "Add tare to bowls, pour hot broth over.",
+        "Add noodles and arrange toppings. Serve with sesame oil and scallions."
+      ],
+      "ingredients": [
+        {
+          "name": "Ramen noodles",
+          "measure": "400g"
+        },
+        {
+          "name": "Pork bones",
+          "measure": "1kg"
+        },
+        {
+          "name": "Chashu pork belly",
+          "measure": "300g"
+        },
+        {
+          "name": "Soft-boiled eggs",
+          "measure": "4"
+        },
+        {
+          "name": "Soy sauce",
+          "measure": "4 tbsp"
+        },
+        {
+          "name": "Mirin",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Nori sheets",
+          "measure": "4"
+        },
+        {
+          "name": "Bamboo shoots",
+          "measure": "100g"
+        },
+        {
+          "name": "Corn kernels",
+          "measure": "100g"
+        },
+        {
+          "name": "Sesame oil",
+          "measure": "2 tsp"
+        },
+        {
+          "name": "Green onions",
+          "measure": "4"
+        }
+      ],
+      "nutrition": {
+        "calories": 580,
+        "protein": 34,
+        "carbs": 58,
+        "fat": 22,
+        "fiber": 4
+      }
+    },
+    {
+      "id": "r217",
+      "title": "Dim Sum Siu Mai",
+      "category": "Asian",
+      "area": "Chinese",
+      "thumbnail": "https://images.unsplash.com/photo-1563245372-f21724e3856d?w=600",
+      "tags": [],
+      "prepTime": 45,
+      "cookTime": 15,
+      "servings": 6,
+      "instructions": [
+        "Mix shrimp, pork, bamboo shoots, mushrooms, soy sauce, and sesame oil.",
+        "Season with ginger, garlic, and white pepper.",
+        "Place a round wonton wrapper in your palm.",
+        "Add filling and shape into an open cylinder, pleating the sides.",
+        "Top with fish roe or carrot.",
+        "Steam over high heat for 12-15 minutes. Serve with soy dipping sauce."
+      ],
+      "ingredients": [
+        {
+          "name": "Ground pork",
+          "measure": "300g"
+        },
+        {
+          "name": "Shrimp",
+          "measure": "200g minced"
+        },
+        {
+          "name": "Round wonton wrappers",
+          "measure": "30"
+        },
+        {
+          "name": "Bamboo shoots",
+          "measure": "80g"
+        },
+        {
+          "name": "Dried mushrooms",
+          "measure": "4 soaked"
+        },
+        {
+          "name": "Soy sauce",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Sesame oil",
+          "measure": "1 tbsp"
+        },
+        {
+          "name": "Fresh ginger",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Fish roe",
+          "measure": "for garnish"
+        }
+      ],
+      "nutrition": {
+        "calories": 280,
+        "protein": 20,
+        "carbs": 24,
+        "fat": 10,
+        "fiber": 1
+      }
+    },
+    {
+      "id": "r218",
+      "title": "Thai Massaman Curry",
+      "category": "Asian",
+      "area": "Thai",
+      "thumbnail": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 20,
+      "cookTime": 45,
+      "servings": 4,
+      "instructions": [
+        "Fry massaman curry paste in coconut milk until fragrant.",
+        "Add chicken pieces and coat in the paste.",
+        "Pour in remaining coconut milk and chicken broth.",
+        "Add potatoes, onion, and roasted peanuts.",
+        "Simmer 30 minutes until chicken and potatoes are tender.",
+        "Season with fish sauce, tamarind, and palm sugar. Serve with jasmine rice."
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken thighs",
+          "measure": "700g"
+        },
+        {
+          "name": "Massaman curry paste",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Coconut milk",
+          "measure": "400ml"
+        },
+        {
+          "name": "Potatoes",
+          "measure": "400g"
+        },
+        {
+          "name": "Onion",
+          "measure": "1"
+        },
+        {
+          "name": "Roasted peanuts",
+          "measure": "80g"
+        },
+        {
+          "name": "Fish sauce",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Tamarind paste",
+          "measure": "1 tbsp"
+        },
+        {
+          "name": "Palm sugar",
+          "measure": "1 tbsp"
+        },
+        {
+          "name": "Chicken broth",
+          "measure": "200ml"
+        }
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 36,
+        "carbs": 38,
+        "fat": 28,
+        "fiber": 5
+      }
+    },
+    {
+      "id": "r219",
+      "title": "Bibimbap",
+      "category": "Asian",
+      "area": "Korean",
+      "thumbnail": "https://images.unsplash.com/photo-1590301157890-4810ed352733?w=600",
+      "tags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "prepTime": 30,
+      "cookTime": 20,
+      "servings": 4,
+      "instructions": [
+        "Cook each vegetable separately: spinach, bean sprouts, carrots, and zucchini.",
+        "Season each with sesame oil, garlic, and salt.",
+        "Make gochujang sauce: mix paste with sesame oil, sugar, and vinegar.",
+        "Divide hot rice into stone bowls or regular bowls.",
+        "Arrange vegetables, beef, and a fried egg on top.",
+        "Add gochujang sauce and mix vigorously before eating."
+      ],
+      "ingredients": [
+        {
+          "name": "Short grain rice",
+          "measure": "300g"
+        },
+        {
+          "name": "Spinach",
+          "measure": "100g"
+        },
+        {
+          "name": "Bean sprouts",
+          "measure": "100g"
+        },
+        {
+          "name": "Carrots",
+          "measure": "2"
+        },
+        {
+          "name": "Zucchini",
+          "measure": "1"
+        },
+        {
+          "name": "Beef bulgogi",
+          "measure": "300g"
+        },
+        {
+          "name": "Eggs",
+          "measure": "4"
+        },
+        {
+          "name": "Gochujang paste",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Sesame oil",
+          "measure": "2 tbsp"
+        }
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 68,
+        "fat": 16,
+        "fiber": 6
+      }
+    },
+    {
+      "id": "r220",
+      "title": "Kung Pao Chicken",
+      "category": "Asian",
+      "area": "Chinese",
+      "thumbnail": "https://images.unsplash.com/photo-1604908177522-5b84dc4e2555?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 20,
+      "cookTime": 15,
+      "servings": 4,
+      "instructions": [
+        "Marinate chicken in soy sauce, cornstarch, and Shaoxing wine.",
+        "Make sauce: soy sauce, black vinegar, sugar, and cornstarch.",
+        "Stir-fry dried chilies and Sichuan peppercorns until fragrant.",
+        "Add chicken and cook until done.",
+        "Add garlic, ginger, and the sauce. Toss.",
+        "Add roasted peanuts and serve with rice."
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken breast",
+          "measure": "500g diced"
+        },
+        {
+          "name": "Dried red chilies",
+          "measure": "8"
+        },
+        {
+          "name": "Roasted peanuts",
+          "measure": "80g"
+        },
+        {
+          "name": "Soy sauce",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Black vinegar",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Sugar",
+          "measure": "1 tbsp"
+        },
+        {
+          "name": "Shaoxing wine",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Sichuan peppercorns",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "3"
+        },
+        {
+          "name": "Fresh ginger",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Cornstarch",
+          "measure": "2 tbsp"
+        }
+      ],
+      "nutrition": {
+        "calories": 380,
+        "protein": 36,
+        "carbs": 18,
+        "fat": 18,
+        "fiber": 2
+      }
+    },
+    {
+      "id": "r221",
+      "title": "Vietnamese Spring Rolls",
+      "category": "Asian",
+      "area": "Vietnamese",
+      "thumbnail": "https://images.unsplash.com/photo-1559314809-0d155014e29e?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 30,
+      "cookTime": 10,
+      "servings": 4,
+      "instructions": [
+        "Cook shrimp and pork. Slice shrimp in half lengthwise.",
+        "Soften rice paper in warm water for 15 seconds.",
+        "Lay on a damp surface and add lettuce, vermicelli, herbs, shrimp, and pork.",
+        "Fold sides in and roll tightly.",
+        "Make dipping sauce: hoisin with peanut butter, lime, and chili.",
+        "Serve immediately with dipping sauce."
+      ],
+      "ingredients": [
+        {
+          "name": "Rice paper rounds",
+          "measure": "12"
+        },
+        {
+          "name": "Shrimp",
+          "measure": "300g cooked"
+        },
+        {
+          "name": "Pork belly",
+          "measure": "200g cooked sliced"
+        },
+        {
+          "name": "Rice vermicelli",
+          "measure": "100g cooked"
+        },
+        {
+          "name": "Butter lettuce",
+          "measure": "1 head"
+        },
+        {
+          "name": "Fresh mint",
+          "measure": "handful"
+        },
+        {
+          "name": "Fresh cilantro",
+          "measure": "handful"
+        },
+        {
+          "name": "Bean sprouts",
+          "measure": "100g"
+        },
+        {
+          "name": "Hoisin sauce",
+          "measure": "4 tbsp"
+        },
+        {
+          "name": "Peanut butter",
+          "measure": "2 tbsp"
+        }
+      ],
+      "nutrition": {
+        "calories": 280,
+        "protein": 22,
+        "carbs": 32,
+        "fat": 8,
+        "fiber": 3
+      }
+    },
+    {
+      "id": "r222",
+      "title": "Nasi Goreng",
+      "category": "Asian",
+      "area": "Indonesian",
+      "thumbnail": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 15,
+      "cookTime": 15,
+      "servings": 4,
+      "instructions": [
+        "Make kecap manis if needed: simmer soy sauce with palm sugar.",
+        "Blend shallots, garlic, chilies, and shrimp paste.",
+        "Stir-fry paste in oil until fragrant.",
+        "Add cold day-old rice, breaking up clumps.",
+        "Season with kecap manis and soy sauce.",
+        "Top with fried egg, cucumber, tomato, and prawn crackers."
+      ],
+      "ingredients": [
+        {
+          "name": "Cold cooked rice",
+          "measure": "600g"
+        },
+        {
+          "name": "Eggs",
+          "measure": "4"
+        },
+        {
+          "name": "Shallots",
+          "measure": "5"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "3"
+        },
+        {
+          "name": "Red chilies",
+          "measure": "2"
+        },
+        {
+          "name": "Shrimp paste",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Kecap manis",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Soy sauce",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Prawn crackers",
+          "measure": "to serve"
+        },
+        {
+          "name": "Cucumber",
+          "measure": "1"
+        }
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 14,
+        "carbs": 72,
+        "fat": 10,
+        "fiber": 2
+      }
+    },
+    {
+      "id": "r223",
+      "title": "Tom Yum Soup",
+      "category": "Asian",
+      "area": "Thai",
+      "thumbnail": "https://images.unsplash.com/photo-1547592180-85f173990554?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 15,
+      "cookTime": 20,
+      "servings": 4,
+      "instructions": [
+        "Boil water or broth with lemongrass, galangal, kaffir lime leaves.",
+        "Add mushrooms and tomatoes.",
+        "Add shrimp and cook until pink.",
+        "Season with fish sauce, lime juice, and sugar.",
+        "Add Thai chilies for heat.",
+        "Garnish with cilantro and serve with rice."
+      ],
+      "ingredients": [
+        {
+          "name": "Large shrimp",
+          "measure": "400g"
+        },
+        {
+          "name": "Chicken broth",
+          "measure": "1 liter"
+        },
+        {
+          "name": "Lemongrass stalks",
+          "measure": "2"
+        },
+        {
+          "name": "Galangal",
+          "measure": "4 slices"
+        },
+        {
+          "name": "Kaffir lime leaves",
+          "measure": "6"
+        },
+        {
+          "name": "Mushrooms",
+          "measure": "200g"
+        },
+        {
+          "name": "Cherry tomatoes",
+          "measure": "150g"
+        },
+        {
+          "name": "Fish sauce",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Lime juice",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Thai chilies",
+          "measure": "3"
+        }
+      ],
+      "nutrition": {
+        "calories": 180,
+        "protein": 22,
+        "carbs": 12,
+        "fat": 4,
+        "fiber": 2
+      }
+    },
+    {
+      "id": "r224",
+      "title": "Mapo Tofu",
+      "category": "Asian",
+      "area": "Chinese",
+      "thumbnail": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 15,
+      "cookTime": 20,
+      "servings": 4,
+      "instructions": [
+        "Stir-fry ground pork until cooked. Add doubanjiang and cook until fragrant.",
+        "Add garlic, ginger, and fermented black beans.",
+        "Pour in chicken broth and bring to a simmer.",
+        "Gently add silken tofu cubes.",
+        "Thicken with cornstarch slurry.",
+        "Finish with Sichuan peppercorn oil, green onions, and sesame oil."
+      ],
+      "ingredients": [
+        {
+          "name": "Silken tofu",
+          "measure": "600g"
+        },
+        {
+          "name": "Ground pork",
+          "measure": "200g"
+        },
+        {
+          "name": "Doubanjiang paste",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Chicken broth",
+          "measure": "300ml"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "3"
+        },
+        {
+          "name": "Fresh ginger",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Fermented black beans",
+          "measure": "1 tbsp"
+        },
+        {
+          "name": "Sichuan peppercorns",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Cornstarch",
+          "measure": "1 tbsp"
+        },
+        {
+          "name": "Green onions",
+          "measure": "3"
+        }
+      ],
+      "nutrition": {
+        "calories": 280,
+        "protein": 20,
+        "carbs": 10,
+        "fat": 18,
+        "fiber": 2
+      }
+    },
+    {
+      "id": "r225",
+      "title": "Laksa",
+      "category": "Asian",
+      "area": "Malaysian",
+      "thumbnail": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 30,
+      "cookTime": 30,
+      "servings": 4,
+      "instructions": [
+        "Blend shallots, lemongrass, chilies, galangal, and turmeric into laksa paste.",
+        "Fry paste in oil until very fragrant.",
+        "Add coconut milk and chicken broth. Simmer 15 minutes.",
+        "Add tofu puffs, shrimp, and fish cakes.",
+        "Cook rice noodles separately.",
+        "Serve noodles in broth with bean sprouts, hard-boiled egg, and fresh herbs."
+      ],
+      "ingredients": [
+        {
+          "name": "Rice noodles",
+          "measure": "300g"
+        },
+        {
+          "name": "Shrimp",
+          "measure": "300g"
+        },
+        {
+          "name": "Coconut milk",
+          "measure": "400ml"
+        },
+        {
+          "name": "Chicken broth",
+          "measure": "600ml"
+        },
+        {
+          "name": "Tofu puffs",
+          "measure": "200g"
+        },
+        {
+          "name": "Fish cakes",
+          "measure": "150g"
+        },
+        {
+          "name": "Bean sprouts",
+          "measure": "150g"
+        },
+        {
+          "name": "Lemongrass stalks",
+          "measure": "2"
+        },
+        {
+          "name": "Shallots",
+          "measure": "6"
+        },
+        {
+          "name": "Dried red chilies",
+          "measure": "5"
+        },
+        {
+          "name": "Turmeric",
+          "measure": "1 tsp"
+        }
+      ],
+      "nutrition": {
+        "calories": 480,
+        "protein": 28,
+        "carbs": 52,
+        "fat": 20,
+        "fiber": 4
+      }
+    },
+    {
+      "id": "r226",
+      "title": "Gyoza",
+      "category": "Asian",
+      "area": "Japanese",
+      "thumbnail": "https://images.unsplash.com/photo-1563245372-f21724e3856d?w=600",
+      "tags": [],
+      "prepTime": 45,
+      "cookTime": 15,
+      "servings": 6,
+      "instructions": [
+        "Mix ground pork with cabbage, garlic, ginger, soy sauce, and sesame oil.",
+        "Place filling in center of gyoza wrappers.",
+        "Fold and pleat edges to seal tightly.",
+        "Pan-fry flat side down in oil over medium-high until golden.",
+        "Add water, cover immediately and steam 5 minutes.",
+        "Uncover and fry until crispy again. Serve with dipping sauce."
+      ],
+      "ingredients": [
+        {
+          "name": "Ground pork",
+          "measure": "300g"
+        },
+        {
+          "name": "Gyoza wrappers",
+          "measure": "30"
+        },
+        {
+          "name": "Napa cabbage",
+          "measure": "200g minced"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "3"
+        },
+        {
+          "name": "Fresh ginger",
+          "measure": "1 tbsp"
+        },
+        {
+          "name": "Soy sauce",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Sesame oil",
+          "measure": "1 tbsp"
+        },
+        {
+          "name": "Rice vinegar",
+          "measure": "3 tbsp for sauce"
+        },
+        {
+          "name": "Soy sauce",
+          "measure": "3 tbsp for sauce"
+        }
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": 18,
+        "carbs": 32,
+        "fat": 12,
+        "fiber": 2
+      }
+    },
+    {
+      "id": "r227",
+      "title": "Pho Ga",
+      "category": "Asian",
+      "area": "Vietnamese",
+      "thumbnail": "https://images.unsplash.com/photo-1585032226651-759b368d7246?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 20,
+      "cookTime": 120,
+      "servings": 4,
+      "instructions": [
+        "Char onion and ginger over flame until blackened.",
+        "Simmer whole chicken with charred aromatics, star anise, cinnamon, and cloves.",
+        "After 1.5 hours, remove chicken and shred the meat.",
+        "Strain broth and season with fish sauce and salt.",
+        "Cook rice noodles, drain, and divide into bowls.",
+        "Top with shredded chicken and ladle hot broth over. Serve with herbs and lime."
+      ],
+      "ingredients": [
+        {
+          "name": "Whole chicken",
+          "measure": "1.5kg"
+        },
+        {
+          "name": "Rice noodles",
+          "measure": "300g"
+        },
+        {
+          "name": "Onion",
+          "measure": "1 large"
+        },
+        {
+          "name": "Fresh ginger",
+          "measure": "5cm"
+        },
+        {
+          "name": "Star anise",
+          "measure": "3"
+        },
+        {
+          "name": "Cinnamon stick",
+          "measure": "1"
+        },
+        {
+          "name": "Fish sauce",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Bean sprouts",
+          "measure": "200g"
+        },
+        {
+          "name": "Fresh Thai basil",
+          "measure": "handful"
+        },
+        {
+          "name": "Lime",
+          "measure": "2"
+        }
+      ],
+      "nutrition": {
+        "calories": 360,
+        "protein": 32,
+        "carbs": 38,
+        "fat": 8,
+        "fiber": 2
+      }
+    },
+    {
+      "id": "r228",
+      "title": "Peking Duck",
+      "category": "Asian",
+      "area": "Chinese",
+      "thumbnail": "https://images.unsplash.com/photo-1527477396000-e27163b481c2?w=600",
+      "tags": [],
+      "prepTime": 1440,
+      "cookTime": 120,
+      "servings": 6,
+      "instructions": [
+        "Air dry the duck uncovered in the fridge for 24-48 hours.",
+        "Brush with maltose and soy glaze. Air dry 2 more hours.",
+        "Roast at 200C breast side up for 1 hour until skin is lacquered and crispy.",
+        "Rest 15 minutes before carving.",
+        "Slice crispy skin and meat separately.",
+        "Serve with Mandarin pancakes, hoisin, cucumber, and green onion."
+      ],
+      "ingredients": [
+        {
+          "name": "Whole duck",
+          "measure": "2.5kg"
+        },
+        {
+          "name": "Maltose or honey",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Soy sauce",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Mandarin pancakes",
+          "measure": "18"
+        },
+        {
+          "name": "Hoisin sauce",
+          "measure": "100ml"
+        },
+        {
+          "name": "Cucumber",
+          "measure": "1 julienned"
+        },
+        {
+          "name": "Green onions",
+          "measure": "6 julienned"
+        },
+        {
+          "name": "Five spice powder",
+          "measure": "1 tsp"
+        }
+      ],
+      "nutrition": {
+        "calories": 580,
+        "protein": 42,
+        "carbs": 28,
+        "fat": 34,
+        "fiber": 1
+      }
+    },
+    {
+      "id": "r229",
+      "title": "Mango Sticky Rice",
+      "category": "Asian",
+      "area": "Thai",
+      "thumbnail": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=600",
+      "tags": [
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free"
+      ],
+      "prepTime": 30,
+      "cookTime": 30,
+      "servings": 4,
+      "instructions": [
+        "Soak glutinous rice in water for 2 hours. Drain.",
+        "Steam rice for 25 minutes until cooked.",
+        "Heat coconut milk with sugar and salt until sugar dissolves.",
+        "Pour two thirds of coconut sauce over hot rice. Cover and rest 20 minutes.",
+        "Peel and slice ripe mangoes.",
+        "Serve rice with mango and remaining coconut sauce drizzled over."
+      ],
+      "ingredients": [
+        {
+          "name": "Glutinous rice",
+          "measure": "300g"
+        },
+        {
+          "name": "Ripe mangoes",
+          "measure": "3"
+        },
+        {
+          "name": "Coconut milk",
+          "measure": "400ml"
+        },
+        {
+          "name": "Sugar",
+          "measure": "60g"
+        },
+        {
+          "name": "Salt",
+          "measure": "1/2 tsp"
+        },
+        {
+          "name": "Sesame seeds",
+          "measure": "1 tbsp to garnish"
+        }
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 6,
+        "carbs": 72,
+        "fat": 14,
+        "fiber": 3
+      }
+    },
+    {
+      "id": "r230",
+      "title": "Banh Mi",
+      "category": "Asian",
+      "area": "Vietnamese",
+      "thumbnail": "https://images.unsplash.com/photo-1561651823-34feb02250e4?w=600",
+      "tags": [],
+      "prepTime": 30,
+      "cookTime": 20,
+      "servings": 4,
+      "instructions": [
+        "Marinate pork in lemongrass, garlic, fish sauce, and sugar. Grill until caramelized.",
+        "Quick pickle daikon and carrots in vinegar and sugar for 30 minutes.",
+        "Slice baguettes and spread with mayonnaise and pate.",
+        "Layer with pork, pickled vegetables, cucumber, and jalapeno.",
+        "Add fresh cilantro and a drizzle of sriracha.",
+        "Serve immediately."
+      ],
+      "ingredients": [
+        {
+          "name": "Baguettes",
+          "measure": "4 small"
+        },
+        {
+          "name": "Pork tenderloin",
+          "measure": "500g"
+        },
+        {
+          "name": "Daikon radish",
+          "measure": "200g"
+        },
+        {
+          "name": "Carrots",
+          "measure": "2"
+        },
+        {
+          "name": "Mayonnaise",
+          "measure": "4 tbsp"
+        },
+        {
+          "name": "Pate",
+          "measure": "100g"
+        },
+        {
+          "name": "Cucumber",
+          "measure": "1"
+        },
+        {
+          "name": "Jalapenos",
+          "measure": "2"
+        },
+        {
+          "name": "Fresh cilantro",
+          "measure": "handful"
+        },
+        {
+          "name": "Fish sauce",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Rice vinegar",
+          "measure": "3 tbsp"
+        }
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 32,
+        "carbs": 52,
+        "fat": 20,
+        "fiber": 3
+      }
+    },
+    {
+      "id": "r231",
+      "title": "Katsu Curry",
+      "category": "Asian",
+      "area": "Japanese",
+      "thumbnail": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=600",
+      "tags": [],
+      "prepTime": 20,
+      "cookTime": 30,
+      "servings": 4,
+      "instructions": [
+        "Make curry sauce: saute onion, add Japanese curry roux blocks and water.",
+        "Simmer with carrots and potatoes until tender.",
+        "Pound chicken breasts thin. Coat in flour, egg, then panko.",
+        "Deep fry at 170C for 5-6 minutes until golden.",
+        "Slice cutlets and serve over steamed rice.",
+        "Pour curry sauce alongside and garnish with pickled ginger."
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken breasts",
+          "measure": "4"
+        },
+        {
+          "name": "Japanese curry roux",
+          "measure": "100g"
+        },
+        {
+          "name": "Panko breadcrumbs",
+          "measure": "100g"
+        },
+        {
+          "name": "Steamed rice",
+          "measure": "600g"
+        },
+        {
+          "name": "Potatoes",
+          "measure": "2"
+        },
+        {
+          "name": "Carrots",
+          "measure": "2"
+        },
+        {
+          "name": "Onion",
+          "measure": "1"
+        },
+        {
+          "name": "Eggs",
+          "measure": "2"
+        },
+        {
+          "name": "Flour",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Pickled ginger",
+          "measure": "to serve"
+        }
+      ],
+      "nutrition": {
+        "calories": 640,
+        "protein": 40,
+        "carbs": 78,
+        "fat": 18,
+        "fiber": 4
+      }
+    },
+    {
+      "id": "r232",
+      "title": "Green Papaya Salad",
+      "category": "Asian",
+      "area": "Thai",
+      "thumbnail": "https://images.unsplash.com/photo-1512852939750-1305098529bf?w=600",
+      "tags": [
+        "Vegan",
+        "Gluten-Free"
+      ],
+      "prepTime": 20,
+      "cookTime": 0,
+      "servings": 4,
+      "instructions": [
+        "Shred green papaya using a mandoline or box grater.",
+        "Pound garlic and chilies in a mortar.",
+        "Add cherry tomatoes and long beans. Pound lightly.",
+        "Add papaya and dress with fish sauce, lime juice, palm sugar, and dried shrimp.",
+        "Toss everything together, adjusting seasoning.",
+        "Serve with sticky rice and grilled chicken."
+      ],
+      "ingredients": [
+        {
+          "name": "Green papaya",
+          "measure": "400g"
+        },
+        {
+          "name": "Cherry tomatoes",
+          "measure": "100g"
+        },
+        {
+          "name": "Long beans",
+          "measure": "100g"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "3"
+        },
+        {
+          "name": "Thai chilies",
+          "measure": "3"
+        },
+        {
+          "name": "Fish sauce",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Lime juice",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Palm sugar",
+          "measure": "1 tbsp"
+        },
+        {
+          "name": "Dried shrimp",
+          "measure": "1 tbsp"
+        },
+        {
+          "name": "Peanuts",
+          "measure": "30g"
+        }
+      ],
+      "nutrition": {
+        "calories": 160,
+        "protein": 6,
+        "carbs": 24,
+        "fat": 6,
+        "fiber": 4
+      }
+    },
+    {
+      "id": "r233",
+      "title": "Char Siu Pork",
+      "category": "Asian",
+      "area": "Chinese",
+      "thumbnail": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 20,
+      "cookTime": 45,
+      "servings": 6,
+      "instructions": [
+        "Mix hoisin, soy sauce, honey, Shaoxing wine, five spice, and red food coloring.",
+        "Marinate pork shoulder strips for at least 4 hours.",
+        "Roast at 200C for 25 minutes, basting every 10 minutes.",
+        "Broil for 5 minutes until caramelized and slightly charred.",
+        "Rest 5 minutes before slicing.",
+        "Serve over rice with steamed bok choy and char siu sauce."
+      ],
+      "ingredients": [
+        {
+          "name": "Pork shoulder",
+          "measure": "800g"
+        },
+        {
+          "name": "Hoisin sauce",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Soy sauce",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Honey",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Shaoxing wine",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Five spice powder",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "3"
+        },
+        {
+          "name": "Sesame oil",
+          "measure": "1 tbsp"
+        }
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 36,
+        "carbs": 22,
+        "fat": 20,
+        "fiber": 0
+      }
+    },
+    {
+      "id": "r234",
+      "title": "Miso Soup",
+      "category": "Asian",
+      "area": "Japanese",
+      "thumbnail": "https://images.unsplash.com/photo-1547592180-85f173990554?w=600",
+      "tags": [
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free"
+      ],
+      "prepTime": 10,
+      "cookTime": 10,
+      "servings": 4,
+      "instructions": [
+        "Make dashi: steep kombu in cold water for 30 minutes, heat until just simmering.",
+        "Add bonito flakes, steep 5 minutes, then strain.",
+        "Bring dashi to a gentle simmer.",
+        "Dissolve miso paste in a ladle of dashi, then stir into the pot.",
+        "Add tofu cubes and wakame seaweed.",
+        "Serve immediately garnished with green onion."
+      ],
+      "ingredients": [
+        {
+          "name": "White or red miso paste",
+          "measure": "4 tbsp"
+        },
+        {
+          "name": "Dashi stock",
+          "measure": "1 liter"
+        },
+        {
+          "name": "Silken tofu",
+          "measure": "200g"
+        },
+        {
+          "name": "Dried wakame",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Green onions",
+          "measure": "3"
+        },
+        {
+          "name": "Kombu",
+          "measure": "10cm piece"
+        }
+      ],
+      "nutrition": {
+        "calories": 80,
+        "protein": 6,
+        "carbs": 8,
+        "fat": 2,
+        "fiber": 1
+      }
+    },
+    {
+      "id": "r235",
+      "title": "Hainanese Chicken Rice",
+      "category": "Asian",
+      "area": "Singaporean",
+      "thumbnail": "https://images.unsplash.com/photo-1527477396000-e27163b481c2?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 30,
+      "cookTime": 60,
+      "servings": 4,
+      "instructions": [
+        "Poach whole chicken in water with ginger and scallions for 45 minutes.",
+        "Remove chicken, rub skin with sesame oil, and rest.",
+        "Cook rice in the poaching broth with garlic and ginger.",
+        "Make dipping sauces: chili ginger sauce and dark soy.",
+        "Slice chicken and arrange over rice.",
+        "Serve with cucumber, soup, and dipping sauces."
+      ],
+      "ingredients": [
+        {
+          "name": "Whole chicken",
+          "measure": "1.5kg"
+        },
+        {
+          "name": "Jasmine rice",
+          "measure": "300g"
+        },
+        {
+          "name": "Fresh ginger",
+          "measure": "5cm"
+        },
+        {
+          "name": "Scallions",
+          "measure": "4"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "4"
+        },
+        {
+          "name": "Sesame oil",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Cucumber",
+          "measure": "1"
+        },
+        {
+          "name": "Chili sauce",
+          "measure": "to serve"
+        },
+        {
+          "name": "Dark soy sauce",
+          "measure": "to serve"
+        }
+      ],
+      "nutrition": {
+        "calories": 480,
+        "protein": 44,
+        "carbs": 46,
+        "fat": 14,
+        "fiber": 1
+      }
+    },
+    {
+      "id": "r236",
+      "title": "Kimchi Jjigae",
+      "category": "Asian",
+      "area": "Korean",
+      "thumbnail": "https://images.unsplash.com/photo-1547592180-85f173990554?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 15,
+      "cookTime": 30,
+      "servings": 4,
+      "instructions": [
+        "Stir-fry pork belly with sesame oil until slightly caramelized.",
+        "Add well-fermented kimchi and stir-fry 5 minutes.",
+        "Pour in anchovy broth and bring to a boil.",
+        "Add tofu and gochugaru. Simmer 20 minutes.",
+        "Season with soy sauce and fish sauce.",
+        "Serve bubbling hot with steamed rice and banchan."
+      ],
+      "ingredients": [
+        {
+          "name": "Fermented kimchi",
+          "measure": "400g"
+        },
+        {
+          "name": "Pork belly",
+          "measure": "200g sliced"
+        },
+        {
+          "name": "Firm tofu",
+          "measure": "300g"
+        },
+        {
+          "name": "Anchovy broth",
+          "measure": "600ml"
+        },
+        {
+          "name": "Gochugaru",
+          "measure": "1 tbsp"
+        },
+        {
+          "name": "Soy sauce",
+          "measure": "1 tbsp"
+        },
+        {
+          "name": "Sesame oil",
+          "measure": "1 tbsp"
+        },
+        {
+          "name": "Green onions",
+          "measure": "3"
+        }
+      ],
+      "nutrition": {
+        "calories": 340,
+        "protein": 22,
+        "carbs": 14,
+        "fat": 22,
+        "fiber": 4
+      }
+    },
+    {
+      "id": "r237",
+      "title": "Rendang Ayam",
+      "category": "Asian",
+      "area": "Indonesian",
+      "thumbnail": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 30,
+      "cookTime": 90,
+      "servings": 6,
+      "instructions": [
+        "Blend shallots, garlic, ginger, chilies, lemongrass, and galangal into a paste.",
+        "Fry paste until fragrant and darkened.",
+        "Add chicken pieces and coat in paste.",
+        "Pour in coconut milk with kaffir lime leaves and turmeric.",
+        "Simmer uncovered on low heat for 1.5 hours, stirring occasionally.",
+        "Cook until sauce is almost dry and chicken is dark. Serve with rice."
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken pieces",
+          "measure": "1.2kg"
+        },
+        {
+          "name": "Coconut milk",
+          "measure": "600ml"
+        },
+        {
+          "name": "Shallots",
+          "measure": "8"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "4"
+        },
+        {
+          "name": "Red chilies",
+          "measure": "6"
+        },
+        {
+          "name": "Lemongrass stalks",
+          "measure": "2"
+        },
+        {
+          "name": "Galangal",
+          "measure": "2cm"
+        },
+        {
+          "name": "Kaffir lime leaves",
+          "measure": "4"
+        },
+        {
+          "name": "Turmeric",
+          "measure": "1 tsp"
+        }
+      ],
+      "nutrition": {
+        "calories": 480,
+        "protein": 40,
+        "carbs": 10,
+        "fat": 32,
+        "fiber": 2
+      }
+    },
+    {
+      "id": "r238",
+      "title": "Okonomiyaki",
+      "category": "Asian",
+      "area": "Japanese",
+      "thumbnail": "https://images.unsplash.com/photo-1563245372-f21724e3856d?w=600",
+      "tags": [],
+      "prepTime": 20,
+      "cookTime": 20,
+      "servings": 4,
+      "instructions": [
+        "Mix flour, dashi broth, eggs, and shredded cabbage into a thick batter.",
+        "Add shrimp, pork belly strips, and green onion.",
+        "Cook in oil in a round shape, medium heat, 5 minutes per side.",
+        "Top with okonomiyaki sauce and kewpie mayo in a zigzag pattern.",
+        "Sprinkle with bonito flakes and aonori.",
+        "Serve immediately as the bonito flakes dance from the heat."
+      ],
+      "ingredients": [
+        {
+          "name": "All-purpose flour",
+          "measure": "150g"
+        },
+        {
+          "name": "Dashi broth",
+          "measure": "150ml"
+        },
+        {
+          "name": "Eggs",
+          "measure": "3"
+        },
+        {
+          "name": "Napa cabbage",
+          "measure": "400g shredded"
+        },
+        {
+          "name": "Pork belly strips",
+          "measure": "200g"
+        },
+        {
+          "name": "Shrimp",
+          "measure": "150g"
+        },
+        {
+          "name": "Okonomiyaki sauce",
+          "measure": "4 tbsp"
+        },
+        {
+          "name": "Kewpie mayo",
+          "measure": "4 tbsp"
+        },
+        {
+          "name": "Bonito flakes",
+          "measure": "handful"
+        },
+        {
+          "name": "Aonori",
+          "measure": "1 tbsp"
+        }
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 24,
+        "carbs": 38,
+        "fat": 20,
+        "fiber": 4
+      }
+    },
+    {
+      "id": "r239",
+      "title": "Beef Pho",
+      "category": "Asian",
+      "area": "Vietnamese",
+      "thumbnail": "https://images.unsplash.com/photo-1585032226651-759b368d7246?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 30,
+      "cookTime": 180,
+      "servings": 4,
+      "instructions": [
+        "Char onion and ginger under broiler until blackened.",
+        "Simmer beef bones with spices for 3 hours. Strain and season broth.",
+        "Slice beef sirloin paper thin. It will cook in the hot broth.",
+        "Cook rice noodles and divide into bowls.",
+        "Add raw beef slices on top of noodles.",
+        "Ladle boiling broth over to cook the beef. Serve with herbs and lime."
+      ],
+      "ingredients": [
+        {
+          "name": "Beef bones",
+          "measure": "1kg"
+        },
+        {
+          "name": "Beef sirloin",
+          "measure": "300g thinly sliced"
+        },
+        {
+          "name": "Rice noodles",
+          "measure": "300g"
+        },
+        {
+          "name": "Onion",
+          "measure": "1 large charred"
+        },
+        {
+          "name": "Ginger",
+          "measure": "5cm charred"
+        },
+        {
+          "name": "Star anise",
+          "measure": "4"
+        },
+        {
+          "name": "Cinnamon stick",
+          "measure": "1"
+        },
+        {
+          "name": "Fish sauce",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Bean sprouts",
+          "measure": "200g"
+        },
+        {
+          "name": "Thai basil",
+          "measure": "handful"
+        },
+        {
+          "name": "Lime",
+          "measure": "2"
+        }
+      ],
+      "nutrition": {
+        "calories": 380,
+        "protein": 32,
+        "carbs": 42,
+        "fat": 10,
+        "fiber": 3
+      }
+    },
+    {
+      "id": "r240",
+      "title": "Adobo Chicken",
+      "category": "Asian",
+      "area": "Filipino",
+      "thumbnail": "https://images.unsplash.com/photo-1527477396000-e27163b481c2?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 10,
+      "cookTime": 45,
+      "servings": 4,
+      "instructions": [
+        "Combine soy sauce, vinegar, garlic, bay leaves, and black pepper.",
+        "Add chicken and marinate 30 minutes.",
+        "Bring to a boil, then reduce and simmer 30 minutes.",
+        "Remove chicken and pan-fry in oil until golden and crispy.",
+        "Reduce the braising liquid until syrupy.",
+        "Pour sauce over crispy chicken and serve with steamed rice."
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken thighs",
+          "measure": "1kg"
+        },
+        {
+          "name": "Soy sauce",
+          "measure": "80ml"
+        },
+        {
+          "name": "White vinegar",
+          "measure": "80ml"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "6"
+        },
+        {
+          "name": "Bay leaves",
+          "measure": "4"
+        },
+        {
+          "name": "Black peppercorns",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Oil",
+          "measure": "2 tbsp"
+        }
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 42,
+        "carbs": 6,
+        "fat": 24,
+        "fiber": 0
+      }
+    },
+    {
+      "id": "r241",
+      "title": "Takoyaki",
+      "category": "Asian",
+      "area": "Japanese",
+      "thumbnail": "https://images.unsplash.com/photo-1563245372-f21724e3856d?w=600",
+      "tags": [],
+      "prepTime": 20,
+      "cookTime": 20,
+      "servings": 4,
+      "instructions": [
+        "Make batter: mix flour, dashi broth, eggs, soy sauce, and ginger.",
+        "Heat takoyaki pan and oil each hole.",
+        "Fill each hole with batter, add octopus, green onion, and tempura bits.",
+        "When batter sets on edges, rotate each ball 90 degrees with a skewer.",
+        "Keep rotating until perfectly round and golden.",
+        "Top with takoyaki sauce, mayo, bonito flakes, and aonori."
+      ],
+      "ingredients": [
+        {
+          "name": "All-purpose flour",
+          "measure": "200g"
+        },
+        {
+          "name": "Dashi broth",
+          "measure": "600ml"
+        },
+        {
+          "name": "Eggs",
+          "measure": "2"
+        },
+        {
+          "name": "Octopus",
+          "measure": "200g diced"
+        },
+        {
+          "name": "Green onions",
+          "measure": "4"
+        },
+        {
+          "name": "Tempura bits",
+          "measure": "50g"
+        },
+        {
+          "name": "Takoyaki sauce",
+          "measure": "4 tbsp"
+        },
+        {
+          "name": "Kewpie mayo",
+          "measure": "4 tbsp"
+        },
+        {
+          "name": "Bonito flakes",
+          "measure": "handful"
+        }
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": 16,
+        "carbs": 42,
+        "fat": 10,
+        "fiber": 2
+      }
+    },
+    {
+      "id": "r242",
+      "title": "Tandoori Chicken",
+      "category": "Asian",
+      "area": "Indian",
+      "thumbnail": "https://images.unsplash.com/photo-1527477396000-e27163b481c2?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 20,
+      "cookTime": 30,
+      "servings": 4,
+      "instructions": [
+        "Score chicken pieces deeply. Rub with lemon juice and salt. Rest 30 minutes.",
+        "Mix yogurt with tandoori masala, garlic, ginger, and red food coloring.",
+        "Coat chicken thoroughly and marinate overnight.",
+        "Cook in a very hot oven at 230C or under broiler for 25-30 minutes.",
+        "Char slightly for authentic flavor.",
+        "Serve with naan, mint chutney, sliced onions, and lime."
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken pieces",
+          "measure": "1.2kg"
+        },
+        {
+          "name": "Greek yogurt",
+          "measure": "200ml"
+        },
+        {
+          "name": "Tandoori masala",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "5"
+        },
+        {
+          "name": "Fresh ginger",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Lemon juice",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Oil",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Mint chutney",
+          "measure": "to serve"
+        },
+        {
+          "name": "Naan",
+          "measure": "to serve"
+        }
+      ],
+      "nutrition": {
+        "calories": 380,
+        "protein": 44,
+        "carbs": 8,
+        "fat": 18,
+        "fiber": 1
+      }
+    },
+    {
+      "id": "r243",
+      "title": "Pad See Ew",
+      "category": "Asian",
+      "area": "Thai",
+      "thumbnail": "https://images.unsplash.com/photo-1559314809-0d155014e29e?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 15,
+      "cookTime": 15,
+      "servings": 2,
+      "instructions": [
+        "Soak wide rice noodles in warm water until pliable. Drain.",
+        "Make sauce: dark soy, oyster sauce, light soy, and sugar.",
+        "Stir-fry chicken in very hot wok until cooked. Set aside.",
+        "Add noodles and spread in single layer. Let char slightly without stirring.",
+        "Scramble eggs into the noodles.",
+        "Add Chinese broccoli and sauce. Toss and serve with white pepper."
+      ],
+      "ingredients": [
+        {
+          "name": "Wide rice noodles",
+          "measure": "300g"
+        },
+        {
+          "name": "Chicken breast",
+          "measure": "300g sliced"
+        },
+        {
+          "name": "Chinese broccoli",
+          "measure": "200g"
+        },
+        {
+          "name": "Eggs",
+          "measure": "2"
+        },
+        {
+          "name": "Dark soy sauce",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Oyster sauce",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Light soy sauce",
+          "measure": "1 tbsp"
+        },
+        {
+          "name": "Sugar",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "3"
+        }
+      ],
+      "nutrition": {
+        "calories": 480,
+        "protein": 32,
+        "carbs": 62,
+        "fat": 10,
+        "fiber": 3
+      }
+    },
+    {
+      "id": "r244",
+      "title": "Dandan Noodles",
+      "category": "Asian",
+      "area": "Chinese",
+      "thumbnail": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=600",
+      "tags": [],
+      "prepTime": 20,
+      "cookTime": 20,
+      "servings": 4,
+      "instructions": [
+        "Make sauce: tahini, chili oil, soy sauce, black vinegar, sesame paste, garlic.",
+        "Brown ground pork with doubanjiang and preserved vegetables.",
+        "Cook noodles until just tender. Reserve pasta water.",
+        "Add a spoon of sauce to each bowl.",
+        "Top with noodles and pork mixture.",
+        "Garnish with peanuts, green onions, and more chili oil."
+      ],
+      "ingredients": [
+        {
+          "name": "Chinese wheat noodles",
+          "measure": "300g"
+        },
+        {
+          "name": "Ground pork",
+          "measure": "300g"
+        },
+        {
+          "name": "Tahini",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Chili oil",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Soy sauce",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Black vinegar",
+          "measure": "1 tbsp"
+        },
+        {
+          "name": "Doubanjiang",
+          "measure": "1 tbsp"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "3"
+        },
+        {
+          "name": "Peanuts",
+          "measure": "40g crushed"
+        },
+        {
+          "name": "Sichuan peppercorns",
+          "measure": "1 tsp"
+        }
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 26,
+        "carbs": 48,
+        "fat": 26,
+        "fiber": 3
+      }
+    },
+    {
+      "id": "r245",
+      "title": "Khao Pad",
+      "category": "Asian",
+      "area": "Thai",
+      "thumbnail": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 4,
+      "instructions": [
+        "Use day-old cold jasmine rice for best results.",
+        "Stir-fry garlic in a very hot wok with oil.",
+        "Add chicken or shrimp and cook until done.",
+        "Push to the side, scramble eggs.",
+        "Add rice and stir-fry vigorously over high heat.",
+        "Season with fish sauce, oyster sauce, and white pepper. Serve with lime and cucumber."
+      ],
+      "ingredients": [
+        {
+          "name": "Cold jasmine rice",
+          "measure": "600g"
+        },
+        {
+          "name": "Chicken or shrimp",
+          "measure": "300g"
+        },
+        {
+          "name": "Eggs",
+          "measure": "3"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "4"
+        },
+        {
+          "name": "Fish sauce",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Oyster sauce",
+          "measure": "1 tbsp"
+        },
+        {
+          "name": "White pepper",
+          "measure": "1/2 tsp"
+        },
+        {
+          "name": "Lime",
+          "measure": "1"
+        },
+        {
+          "name": "Green onions",
+          "measure": "3"
+        }
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 24,
+        "carbs": 58,
+        "fat": 10,
+        "fiber": 1
+      }
+    },
+    {
+      "id": "r246",
+      "title": "Samosa",
+      "category": "Asian",
+      "area": "Indian",
+      "thumbnail": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=600",
+      "tags": [
+        "Vegetarian"
+      ],
+      "prepTime": 45,
+      "cookTime": 30,
+      "servings": 12,
+      "instructions": [
+        "Make dough with flour, ajwain, oil, and water. Rest 30 minutes.",
+        "Make filling: saute onion with spices, add cooked peas and mashed potato.",
+        "Roll dough thin and cut into semicircles.",
+        "Fill each semicircle and fold into a cone shape, sealing with water.",
+        "Deep fry at 160C for 8-10 minutes until golden and crispy.",
+        "Serve with mint chutney and tamarind sauce."
+      ],
+      "ingredients": [
+        {
+          "name": "All-purpose flour",
+          "measure": "200g"
+        },
+        {
+          "name": "Potatoes",
+          "measure": "400g boiled mashed"
+        },
+        {
+          "name": "Green peas",
+          "measure": "100g"
+        },
+        {
+          "name": "Onion",
+          "measure": "1"
+        },
+        {
+          "name": "Cumin seeds",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Garam masala",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Coriander powder",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Fresh cilantro",
+          "measure": "handful"
+        },
+        {
+          "name": "Mint chutney",
+          "measure": "to serve"
+        }
+      ],
+      "nutrition": {
+        "calories": 180,
+        "protein": 4,
+        "carbs": 28,
+        "fat": 6,
+        "fiber": 3
+      }
+    },
+    {
+      "id": "r247",
+      "title": "Yaki Udon",
+      "category": "Asian",
+      "area": "Japanese",
+      "thumbnail": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=600",
+      "tags": [],
+      "prepTime": 15,
+      "cookTime": 15,
+      "servings": 2,
+      "instructions": [
+        "Cook udon noodles. Drain and set aside.",
+        "Stir-fry pork belly or shrimp in sesame oil.",
+        "Add cabbage, mushrooms, and carrots. Cook 3 minutes.",
+        "Add udon noodles and sauce (soy sauce, mirin, oyster sauce).",
+        "Toss everything over high heat until sauce coats noodles.",
+        "Serve with pickled ginger, bonito flakes, and togarashi."
+      ],
+      "ingredients": [
+        {
+          "name": "Udon noodles",
+          "measure": "400g"
+        },
+        {
+          "name": "Pork belly",
+          "measure": "150g sliced"
+        },
+        {
+          "name": "Napa cabbage",
+          "measure": "200g"
+        },
+        {
+          "name": "Shiitake mushrooms",
+          "measure": "100g"
+        },
+        {
+          "name": "Carrot",
+          "measure": "1"
+        },
+        {
+          "name": "Soy sauce",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Mirin",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Oyster sauce",
+          "measure": "1 tbsp"
+        },
+        {
+          "name": "Sesame oil",
+          "measure": "1 tbsp"
+        }
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 22,
+        "carbs": 72,
+        "fat": 16,
+        "fiber": 4
+      }
+    },
+    {
+      "id": "r248",
+      "title": "Butter Naan",
+      "category": "Asian",
+      "area": "Indian",
+      "thumbnail": "https://images.unsplash.com/photo-1561651823-34feb02250e4?w=600",
+      "tags": [
+        "Vegetarian"
+      ],
+      "prepTime": 90,
+      "cookTime": 20,
+      "servings": 8,
+      "instructions": [
+        "Mix flour, yeast, sugar, salt, yogurt, and oil. Knead 10 minutes.",
+        "Rest in a warm place for 1 hour until doubled.",
+        "Divide into 8 balls. Roll out to an oval shape.",
+        "Cook on a very hot cast iron pan or griddle for 2 minutes per side.",
+        "Brush generously with garlic butter immediately.",
+        "Serve hot with curry or dal."
+      ],
+      "ingredients": [
+        {
+          "name": "All-purpose flour",
+          "measure": "400g"
+        },
+        {
+          "name": "Dry yeast",
+          "measure": "7g"
+        },
+        {
+          "name": "Greek yogurt",
+          "measure": "150g"
+        },
+        {
+          "name": "Oil",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Sugar",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Butter",
+          "measure": "80g melted"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "3 minced"
+        },
+        {
+          "name": "Fresh cilantro",
+          "measure": "handful"
+        }
+      ],
+      "nutrition": {
+        "calories": 280,
+        "protein": 7,
+        "carbs": 44,
+        "fat": 9,
+        "fiber": 2
+      }
+    },
+    {
+      "id": "r249",
+      "title": "Chicken Karaage",
+      "category": "Asian",
+      "area": "Japanese",
+      "thumbnail": "https://images.unsplash.com/photo-1604908177522-5b84dc4e2555?w=600",
+      "tags": [
+        "Gluten-Free"
+      ],
+      "prepTime": 30,
+      "cookTime": 20,
+      "servings": 4,
+      "instructions": [
+        "Cut chicken thighs into bite-sized pieces.",
+        "Marinate in soy sauce, sake, ginger, and garlic for 30 minutes.",
+        "Coat in potato starch.",
+        "Deep fry at 160C for 4 minutes. Rest 3 minutes.",
+        "Fry again at 180C for 2 minutes until extra crispy.",
+        "Serve with lemon, kewpie mayo, and shredded cabbage."
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken thighs",
+          "measure": "600g"
+        },
+        {
+          "name": "Potato starch",
+          "measure": "100g"
+        },
+        {
+          "name": "Soy sauce",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Sake",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Fresh ginger",
+          "measure": "1 tbsp"
+        },
+        {
+          "name": "Garlic cloves",
+          "measure": "2"
+        },
+        {
+          "name": "Kewpie mayo",
+          "measure": "to serve"
+        },
+        {
+          "name": "Lemon",
+          "measure": "2"
+        },
+        {
+          "name": "Shredded cabbage",
+          "measure": "200g"
+        }
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 34,
+        "carbs": 28,
+        "fat": 20,
+        "fiber": 1
+      }
+    },
+    {
+      "id": "r250",
+      "title": "Bibim Guksu",
+      "category": "Asian",
+      "area": "Korean",
+      "thumbnail": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=600",
+      "tags": [
+        "Vegetarian",
+        "Vegan"
+      ],
+      "prepTime": 20,
+      "cookTime": 10,
+      "servings": 2,
+      "instructions": [
+        "Cook thin wheat noodles. Rinse under cold water until completely cold.",
+        "Make sauce: gochujang, sesame oil, soy sauce, rice vinegar, sugar, and garlic.",
+        "Prepare toppings: julienned cucumber, shredded carrot, sliced kimchi.",
+        "Toss cold noodles with the spicy sauce.",
+        "Divide into bowls and arrange toppings.",
+        "Garnish with sesame seeds and a soft-boiled egg."
+      ],
+      "ingredients": [
+        {
+          "name": "Thin wheat noodles",
+          "measure": "200g"
+        },
+        {
+          "name": "Gochujang paste",
+          "measure": "3 tbsp"
+        },
+        {
+          "name": "Sesame oil",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Soy sauce",
+          "measure": "1 tbsp"
+        },
+        {
+          "name": "Rice vinegar",
+          "measure": "1 tbsp"
+        },
+        {
+          "name": "Sugar",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Cucumber",
+          "measure": "1"
+        },
+        {
+          "name": "Carrot",
+          "measure": "1"
+        },
+        {
+          "name": "Kimchi",
+          "measure": "100g"
+        },
+        {
+          "name": "Sesame seeds",
+          "measure": "1 tbsp"
+        }
+      ],
+      "nutrition": {
+        "calories": 360,
+        "protein": 10,
+        "carbs": 62,
+        "fat": 10,
+        "fiber": 4
+      }
     }
   ]
 }
