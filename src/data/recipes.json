@@ -1754,7 +1754,7 @@
       "title": "Chicken Piccata",
       "category": "Chicken",
       "area": "Italian",
-      "thumbnail": "https://images.unsplash.com/photo-1604908177522-5b84dc4e2555?w=600",
+      "thumbnail": "https://images.unsplash.com/photo-1604908177522-5b84dc4e2555?w=800&q=80",
       "tags": [],
       "prepTime": 10,
       "cookTime": 20,
@@ -1888,7 +1888,7 @@
       "title": "Chicken Marsala",
       "category": "Chicken",
       "area": "Italian",
-      "thumbnail": "https://images.unsplash.com/photo-1527477396000-e27163b481c2?w=600",
+      "thumbnail": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?w=800&q=80",
       "tags": [],
       "prepTime": 10,
       "cookTime": 25,
@@ -1948,7 +1948,7 @@
       "title": "General Tso's Chicken",
       "category": "Chicken",
       "area": "Asian",
-      "thumbnail": "https://images.unsplash.com/photo-1604908177522-5b84dc4e2555?w=600",
+      "thumbnail": "https://images.unsplash.com/photo-1525755662778-989d0524087e?w=800&q=80",
       "tags": [],
       "prepTime": 20,
       "cookTime": 20,
@@ -2159,7 +2159,7 @@
       "title": "Chicken Parmigiana",
       "category": "Chicken",
       "area": "Italian",
-      "thumbnail": "https://images.unsplash.com/photo-1604908177522-5b84dc4e2555?w=800&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=800&q=80",
       "tags": [],
       "prepTime": 20,
       "cookTime": 30,
@@ -3735,7 +3735,7 @@
       "title": "Beef Chili",
       "category": "Beef",
       "area": "American",
-      "thumbnail": "https://images.unsplash.com/photo-1544133782-b42179836371?w=800&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=800&q=80",
       "tags": [
         "Gluten-Free"
       ],
@@ -3801,7 +3801,7 @@
       "title": "Beef Kebabs",
       "category": "Beef",
       "area": "Middle Eastern",
-      "thumbnail": "https://images.unsplash.com/photo-1529862096417-599104037597?w=800&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800&q=80",
       "tags": [
         "Gluten-Free"
       ],
@@ -4548,7 +4548,7 @@
       "title": "Beef Satay",
       "category": "Beef",
       "area": "Indonesian",
-      "thumbnail": "https://images.unsplash.com/photo-1519708227412-2ce9965d0728?w=800&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?w=800&q=80",
       "tags": [
         "Gluten-Free"
       ],
@@ -11389,7 +11389,7 @@
       "title": "Acai Bowl",
       "category": "Breakfast",
       "area": "Brazilian",
-      "thumbnail": "https://images.unsplash.com/photo-1490323914169-4b57f9325ce9?w=600",
+      "thumbnail": "https://images.unsplash.com/photo-1590301157890-4810ed352733?w=800&q=80",
       "tags": [
         "Vegetarian",
         "Vegan",
@@ -11457,7 +11457,7 @@
       "title": "Overnight Oats",
       "category": "Breakfast",
       "area": "American",
-      "thumbnail": "https://images.unsplash.com/photo-1490323914169-4b57f9325ce9?w=600",
+      "thumbnail": "https://images.unsplash.com/photo-1517093728432-a0440f8d45af?w=800&q=80",
       "tags": [
         "Vegetarian",
         "Vegan",
@@ -11827,7 +11827,7 @@
       "title": "Chilaquiles",
       "category": "Breakfast",
       "area": "Mexican",
-      "thumbnail": "https://images.unsplash.com/photo-1624388557602-5360662660a9?w=800&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=800&q=80",
       "tags": [
         "Vegetarian",
         "Gluten-Free"
@@ -12078,7 +12078,7 @@
       "title": "Granola",
       "category": "Breakfast",
       "area": "American",
-      "thumbnail": "https://images.unsplash.com/photo-1490323914169-4b57f9325ce9?w=600",
+      "thumbnail": "https://images.unsplash.com/photo-1517093728432-a0440f8d45af?w=800&q=80",
       "tags": [
         "Vegetarian",
         "Vegan",
@@ -12146,7 +12146,7 @@
       "title": "Turkish Breakfast Spread",
       "category": "Breakfast",
       "area": "Turkish",
-      "thumbnail": "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=600",
+      "thumbnail": "https://images.unsplash.com/photo-1533775072346-635ad463d81b?w=800&q=80",
       "tags": [
         "Vegetarian"
       ],
@@ -12212,7 +12212,7 @@
       "title": "Chia Pudding",
       "category": "Breakfast",
       "area": "American",
-      "thumbnail": "https://images.unsplash.com/photo-1490323914169-4b57f9325ce9?w=600",
+      "thumbnail": "https://images.unsplash.com/photo-1495214783159-3503fd1b572d?w=800&q=80",
       "tags": [
         "Vegetarian",
         "Vegan",
@@ -12335,7 +12335,7 @@
       "title": "Protein Smoothie Bowl",
       "category": "Breakfast",
       "area": "American",
-      "thumbnail": "https://images.unsplash.com/photo-1490323914169-4b57f9325ce9?w=600",
+      "thumbnail": "https://images.unsplash.com/photo-1505252585461-04db1eb84625?w=800&q=80",
       "tags": [
         "Vegetarian",
         "Gluten-Free"
@@ -12585,7 +12585,7 @@
       "title": "Breakfast Hash",
       "category": "Breakfast",
       "area": "American",
-      "thumbnail": "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=600",
+      "thumbnail": "https://images.unsplash.com/photo-1541519227354-08fa5d50c820?w=800&q=80",
       "tags": [
         "Gluten-Free"
       ],
@@ -13967,7 +13967,7 @@
       "title": "Kung Pao Chicken",
       "category": "Asian",
       "area": "Chinese",
-      "thumbnail": "https://images.unsplash.com/photo-1604908177522-5b84dc4e2555?w=600",
+      "thumbnail": "https://images.unsplash.com/photo-1525755662778-989d0524087e?w=800&q=80",
       "tags": [
         "Gluten-Free"
       ],
@@ -14041,7 +14041,7 @@
       "title": "Vietnamese Spring Rolls",
       "category": "Asian",
       "area": "Vietnamese",
-      "thumbnail": "https://images.unsplash.com/photo-1559314809-0d155014e29e?w=600",
+      "thumbnail": "https://images.unsplash.com/photo-1562802378-063ec186a863?w=800&q=80",
       "tags": [
         "Gluten-Free"
       ],
@@ -14181,7 +14181,7 @@
       "title": "Tom Yum Soup",
       "category": "Asian",
       "area": "Thai",
-      "thumbnail": "https://images.unsplash.com/photo-1594998813300-8802999ca3ad?w=800&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1548943487-a2e4e43b4853?w=800&q=80",
       "tags": [
         "Gluten-Free"
       ],
@@ -14785,7 +14785,7 @@
       "title": "Green Papaya Salad",
       "category": "Asian",
       "area": "Thai",
-      "thumbnail": "https://images.unsplash.com/photo-1614013485552-70dc1461fcf1?w=800&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1529059997568-3d847b1154f0?w=800&q=80",
       "tags": [
         "Vegan",
         "Gluten-Free"
@@ -14918,7 +14918,7 @@
       "title": "Miso Soup",
       "category": "Asian",
       "area": "Japanese",
-      "thumbnail": "https://images.unsplash.com/photo-1541832676-47cf72456ec3?w=800&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1547592166-4bc6b4c4b4c4?w=800&q=80",
       "tags": [
         "Vegetarian",
         "Vegan",
@@ -15040,7 +15040,7 @@
       "title": "Kimchi Jjigae",
       "category": "Asian",
       "area": "Korean",
-      "thumbnail": "https://images.unsplash.com/photo-1623861748261-00109919f39e?w=800&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1498654077810-12c21d4d6dc3?w=800&q=80",
       "tags": [
         "Gluten-Free"
       ],
@@ -15102,7 +15102,7 @@
       "title": "Rendang Ayam",
       "category": "Asian",
       "area": "Indonesian",
-      "thumbnail": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=800&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1604908177522-5b84dc4e2555?w=800&q=80",
       "tags": [
         "Gluten-Free"
       ],
@@ -15168,7 +15168,7 @@
       "title": "Okonomiyaki",
       "category": "Asian",
       "area": "Japanese",
-      "thumbnail": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?w=800&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1574484284002-952d92456975?w=800&q=80",
       "tags": [],
       "prepTime": 20,
       "cookTime": 20,
@@ -15310,7 +15310,7 @@
       "title": "Adobo Chicken",
       "category": "Asian",
       "area": "Filipino",
-      "thumbnail": "https://images.unsplash.com/photo-1527477396000-e27163b481c2?w=600",
+      "thumbnail": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?w=800&q=80",
       "tags": [
         "Gluten-Free"
       ],
@@ -15368,7 +15368,7 @@
       "title": "Takoyaki",
       "category": "Asian",
       "area": "Japanese",
-      "thumbnail": "https://images.unsplash.com/photo-1596797038514-b8166948508e?w=800&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1569050467447-ce54b3bbc37d?w=800&q=80",
       "tags": [],
       "prepTime": 20,
       "cookTime": 20,
@@ -15432,7 +15432,7 @@
       "title": "Tandoori Chicken",
       "category": "Asian",
       "area": "Indian",
-      "thumbnail": "https://images.unsplash.com/photo-1527477396000-e27163b481c2?w=600",
+      "thumbnail": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=800&q=80",
       "tags": [
         "Gluten-Free"
       ],
@@ -15764,7 +15764,7 @@
       "title": "Yaki Udon",
       "category": "Asian",
       "area": "Japanese",
-      "thumbnail": "https://images.unsplash.com/photo-1618848441986-8208474b3443?w=800&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=800&q=80",
       "tags": [],
       "prepTime": 15,
       "cookTime": 15,
@@ -15828,7 +15828,7 @@
       "title": "Butter Naan",
       "category": "Asian",
       "area": "Indian",
-      "thumbnail": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1573225342350-16731dd9bf83?w=800&q=80",
       "tags": [
         "Vegetarian"
       ],
@@ -15890,7 +15890,7 @@
       "title": "Chicken Karaage",
       "category": "Asian",
       "area": "Japanese",
-      "thumbnail": "https://images.unsplash.com/photo-1562967914-6cbb241c2ad3?w=800&q=80",
+      "thumbnail": "https://images.unsplash.com/photo-1562802378-063ec186a863?w=800&q=80",
       "tags": [
         "Gluten-Free"
       ],
